@@ -162,7 +162,7 @@ Cada `_source.md` documenta:
 - Convención de filenames
 - Notas de casos límite (entradas en inglés sin traducir, formas regionales, etc.)
 
-### 2. 🧮 Re-correr scripts de cálculo
+### 2. 🧮 Re-ejecutar scripts de cálculo
 
 Después de cualquier cambio en `raw/pokemon/`, `raw/ataques/`, `raw/tipos/`
 o `raw/mecanicas/`, ejecutar el pipeline en orden de dependencias:
