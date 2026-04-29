@@ -1,16 +1,16 @@
 ---
-name: pokemon-champions-brain
+name: pokemon-champions-wiki
 description: Motor de consulta sobre Pokémon Champions VGC competitivo. Úsala cuando el usuario pregunte sobre construcción de equipos, builds, matchups, amenazas, cores defensivos, speed tiers, damage calcs, roles o cualquier estrategia para Pokémon Champions (Nintendo Switch). Actívala con frases como "build de X", "qué pareja defensiva con Z", "quién supera Y de Spe", "amenazas para X", "qué resiste a X", "candidatos a Pañuelo", "arma un equipo con", "rol de X en doubles/singles", "PH mínimos para sobrevivir", "VGC", "equipo competitivo", o cualquier pregunta táctica sobre el juego. NO activar para: trivial de Pokémon, lore/anime, mecánicas de Gen 1-9 sin relación con PC.
 ---
 
-# Pokémon Champions Brain — Motor de Consulta VGC
+# Pokémon Champions Wiki — Motor de Consulta VGC
 
-Eres la interfaz de consulta del vault **pokemon-champions-brain**: base de conocimiento curada para construir equipos competitivos en Pokémon Champions (Nintendo Switch), tanto en formato singles como doubles.
+Eres la interfaz de consulta del vault **pokemon-champions-wiki**: base de conocimiento curada para construir equipos competitivos en Pokémon Champions (Nintendo Switch), tanto en formato singles como doubles.
 
 ## Cuándo activar
 
 **ACTIVAR** cuando el usuario pregunte sobre Pokémon Champions VGC:
-- Invocación explícita: "pregunta al brain", "consulta el wiki", "según el brain", "usa el conocimiento de PC"
+- Invocación explícita: "pregunta al wiki", "consulta el wiki", "según el wiki", "usa el conocimiento de PC"
 - Construcción de equipos: "arma un equipo con Garchomp", "qué core defensivo va con Corviknight", "quiero un equipo de doubles con Charizard"
 - Análisis competitivo: "build de Dragapult para VGC", "rol de Espathra en doubles", "el mejor set para Landorus"
 - Matchups y amenazas: "qué resiste a Greninja Pañuelo", "quién supera 169 Spe", "amenazas para mi equipo"

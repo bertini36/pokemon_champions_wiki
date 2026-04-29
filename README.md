@@ -1,4 +1,4 @@
-# 🎮 pokemon-master-brain
+# 🎮 pokemon-champions-wiki
 
 > 🏆 Base de conocimiento VGC persistente para **Pokémon Champions** (Nintendo).
 
@@ -18,8 +18,8 @@ y el mantenimiento.
 ## 🚀 Cómo usarlo
 
 ```bash
-git clone <repo-url> ~/pokemon_champions_brain
-cd ~/pokemon_champions_brain
+git clone <repo-url> ~/pokemon_champions_wiki
+cd ~/pokemon_champions_wiki
 ```
 
 Abre el vault con [Obsidian](https://obsidian.md) para navegación humana, o
@@ -102,16 +102,16 @@ Consume la wiki **antes** de razonar. Flujo:
 
 `raw/` solo se lee en re-ingestión, nunca para responder consultas. Las entidades wiki ya llevan metadatos YAML + enlaces `[[ ]]` inyectados.
 
-## 🧠 Skill `pokemon-champions-brain` — consultas dirigidas
+## 🧠 Skill `pokemon-champions-wiki` — consultas dirigidas
 
 El repo incluye un skill en
-[`.claude/skills/pokemon-champions-brain/SKILL.md`](.claude/skills/pokemon-champions-brain/SKILL.md)
+[`.claude/skills/pokemon-champions-wiki/SKILL.md`](.claude/skills/pokemon-champions-wiki/SKILL.md)
 que se activa **solo** cuando preguntas algo específico de Pokémon Champions
 VGC. Evita que Claude use memoria genérica de juegos clásicos y le obliga a
 leer `raw/` y `raw/calculos/` antes de responder.
 
 **Cuándo se dispara:**
-- Invocación explícita: *"contesta X usando Pokemon Champion Brain"*, *"consulta el brain"*, *"según el wiki"*
+- Invocación explícita: *"contesta X usando Pokemon Champions wiki"*, *"consulta el wiki"*, *"según el wiki"*
 - Team building: *"ayúdame a montar un equipo competitivo basado en Garchomp"*, *"qué core defensivo va con Corviknight"*
 - Análisis competitivo: *"build de Charizard para VGC"*, *"qué resiste a Greninja"*, *"quién supera 169 Spe"*
 
@@ -220,7 +220,7 @@ Crea una confirmación (o PR) con el resultado.
 - 🟣 **[Obsidian](https://obsidian.md)** — navegación humana (vista de grafo, enlaces inversos, búsqueda por etiqueta)
 - 🤖 **[Claude Code](https://docs.anthropic.com/claude-code)** — ingestión, consultas, mantenimiento
 - 🧠 **[skill wiki-karpathy](.claude/skills/wiki-karpathy/SKILL.md)** — flujo de ingestión Karpathy
-- 🎯 **[skill pokemon-champions-brain](.claude/skills/pokemon-champions-brain/SKILL.md)** — motor de consultas para preguntas VGC dirigidas
+- 🎯 **[skill pokemon-champions-wiki](.claude/skills/pokemon-champions-wiki/SKILL.md)** — motor de consultas para preguntas VGC dirigidas
 - 🌐 **[Chrome DevTools MCP](https://github.com/ChromeDevTools/chrome-devtools-mcp)** — extracción asistida desde op.gg
 - 🐍 **Python 3.10+** — scripts de cálculo (sin dependencias externas)
 - 📊 **[op.gg/es/pokemon-champions/*](https://op.gg/es/pokemon-champions)** — fuente de datos primaria
