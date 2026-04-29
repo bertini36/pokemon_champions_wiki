@@ -1,0 +1,2757 @@
+[
+  {
+    "a": "Corviknight",
+    "a_types": [
+      "Volador",
+      "Acero"
+    ],
+    "b": "Typhlosion de Hisui",
+    "b_types": [
+      "Fuego",
+      "Fantasma"
+    ],
+    "shared_weaknesses": [],
+    "shared_resists": [
+      "Acero",
+      "Bicho",
+      "Hada",
+      "Normal",
+      "Planta",
+      "Veneno"
+    ],
+    "immunities_in_pair": [
+      "Lucha",
+      "Normal",
+      "Tierra",
+      "Veneno"
+    ],
+    "shared_weak_count": 0,
+    "shared_resist_count": 6,
+    "immunity_count": 4,
+    "score": 10
+  },
+  {
+    "a": "Gengar",
+    "a_types": [
+      "Fantasma",
+      "Veneno"
+    ],
+    "b": "Corviknight",
+    "b_types": [
+      "Volador",
+      "Acero"
+    ],
+    "shared_weaknesses": [],
+    "shared_resists": [
+      "Bicho",
+      "Hada",
+      "Normal",
+      "Planta",
+      "Veneno"
+    ],
+    "immunities_in_pair": [
+      "Lucha",
+      "Normal",
+      "Tierra",
+      "Veneno"
+    ],
+    "shared_weak_count": 0,
+    "shared_resist_count": 5,
+    "immunity_count": 4,
+    "score": 9
+  },
+  {
+    "a": "Zoroark de Hisui",
+    "a_types": [
+      "Normal",
+      "Fantasma"
+    ],
+    "b": "Corviknight",
+    "b_types": [
+      "Volador",
+      "Acero"
+    ],
+    "shared_weaknesses": [],
+    "shared_resists": [
+      "Bicho",
+      "Normal",
+      "Veneno"
+    ],
+    "immunities_in_pair": [
+      "Fantasma",
+      "Lucha",
+      "Normal",
+      "Tierra",
+      "Veneno"
+    ],
+    "shared_weak_count": 0,
+    "shared_resist_count": 3,
+    "immunity_count": 5,
+    "score": 8
+  },
+  {
+    "a": "Charizard",
+    "a_types": [
+      "Fuego",
+      "Volador"
+    ],
+    "b": "Gengar",
+    "b_types": [
+      "Fantasma",
+      "Veneno"
+    ],
+    "shared_weaknesses": [],
+    "shared_resists": [
+      "Bicho",
+      "Hada",
+      "Lucha",
+      "Planta"
+    ],
+    "immunities_in_pair": [
+      "Lucha",
+      "Normal",
+      "Tierra"
+    ],
+    "shared_weak_count": 0,
+    "shared_resist_count": 4,
+    "immunity_count": 3,
+    "score": 7
+  },
+  {
+    "a": "Incineroar",
+    "a_types": [
+      "Fuego",
+      "Siniestro"
+    ],
+    "b": "Corviknight",
+    "b_types": [
+      "Volador",
+      "Acero"
+    ],
+    "shared_weaknesses": [],
+    "shared_resists": [
+      "Acero",
+      "Planta",
+      "Psiquico"
+    ],
+    "immunities_in_pair": [
+      "Psiquico",
+      "Tierra",
+      "Veneno"
+    ],
+    "shared_weak_count": 0,
+    "shared_resist_count": 3,
+    "immunity_count": 3,
+    "score": 6
+  },
+  {
+    "a": "Charizard",
+    "a_types": [
+      "Fuego",
+      "Volador"
+    ],
+    "b": "Zoroark de Hisui",
+    "b_types": [
+      "Normal",
+      "Fantasma"
+    ],
+    "shared_weaknesses": [],
+    "shared_resists": [
+      "Bicho",
+      "Lucha"
+    ],
+    "immunities_in_pair": [
+      "Fantasma",
+      "Lucha",
+      "Normal",
+      "Tierra"
+    ],
+    "shared_weak_count": 0,
+    "shared_resist_count": 2,
+    "immunity_count": 4,
+    "score": 6
+  },
+  {
+    "a": "Gengar",
+    "a_types": [
+      "Fantasma",
+      "Veneno"
+    ],
+    "b": "Dragonite",
+    "b_types": [
+      "Dragon",
+      "Volador"
+    ],
+    "shared_weaknesses": [],
+    "shared_resists": [
+      "Bicho",
+      "Lucha",
+      "Planta"
+    ],
+    "immunities_in_pair": [
+      "Lucha",
+      "Normal",
+      "Tierra"
+    ],
+    "shared_weak_count": 0,
+    "shared_resist_count": 3,
+    "immunity_count": 3,
+    "score": 6
+  },
+  {
+    "a": "Zoroark de Hisui",
+    "a_types": [
+      "Normal",
+      "Fantasma"
+    ],
+    "b": "Dragonite",
+    "b_types": [
+      "Dragon",
+      "Volador"
+    ],
+    "shared_weaknesses": [],
+    "shared_resists": [
+      "Bicho",
+      "Lucha"
+    ],
+    "immunities_in_pair": [
+      "Fantasma",
+      "Lucha",
+      "Normal",
+      "Tierra"
+    ],
+    "shared_weak_count": 0,
+    "shared_resist_count": 2,
+    "immunity_count": 4,
+    "score": 6
+  },
+  {
+    "a": "Greninja",
+    "a_types": [
+      "Agua",
+      "Siniestro"
+    ],
+    "b": "Typhlosion de Hisui",
+    "b_types": [
+      "Fuego",
+      "Fantasma"
+    ],
+    "shared_weaknesses": [],
+    "shared_resists": [
+      "Acero",
+      "Fuego",
+      "Hielo"
+    ],
+    "immunities_in_pair": [
+      "Lucha",
+      "Normal",
+      "Psiquico"
+    ],
+    "shared_weak_count": 0,
+    "shared_resist_count": 3,
+    "immunity_count": 3,
+    "score": 6
+  },
+  {
+    "a": "Corviknight",
+    "a_types": [
+      "Volador",
+      "Acero"
+    ],
+    "b": "Delphox",
+    "b_types": [
+      "Fuego",
+      "Psiquico"
+    ],
+    "shared_weaknesses": [],
+    "shared_resists": [
+      "Acero",
+      "Hada",
+      "Planta",
+      "Psiquico"
+    ],
+    "immunities_in_pair": [
+      "Tierra",
+      "Veneno"
+    ],
+    "shared_weak_count": 0,
+    "shared_resist_count": 4,
+    "immunity_count": 2,
+    "score": 6
+  },
+  {
+    "a": "Emboar",
+    "a_types": [
+      "Fuego",
+      "Lucha"
+    ],
+    "b": "Greninja",
+    "b_types": [
+      "Agua",
+      "Siniestro"
+    ],
+    "shared_weaknesses": [],
+    "shared_resists": [
+      "Acero",
+      "Fuego",
+      "Hielo",
+      "Siniestro"
+    ],
+    "immunities_in_pair": [
+      "Psiquico"
+    ],
+    "shared_weak_count": 0,
+    "shared_resist_count": 4,
+    "immunity_count": 1,
+    "score": 5
+  },
+  {
+    "a": "Emboar",
+    "a_types": [
+      "Fuego",
+      "Lucha"
+    ],
+    "b": "Corviknight",
+    "b_types": [
+      "Volador",
+      "Acero"
+    ],
+    "shared_weaknesses": [],
+    "shared_resists": [
+      "Acero",
+      "Bicho",
+      "Planta"
+    ],
+    "immunities_in_pair": [
+      "Tierra",
+      "Veneno"
+    ],
+    "shared_weak_count": 0,
+    "shared_resist_count": 3,
+    "immunity_count": 2,
+    "score": 5
+  },
+  {
+    "a": "Incineroar",
+    "a_types": [
+      "Fuego",
+      "Siniestro"
+    ],
+    "b": "Zoroark de Hisui",
+    "b_types": [
+      "Normal",
+      "Fantasma"
+    ],
+    "shared_weaknesses": [],
+    "shared_resists": [
+      "Fantasma"
+    ],
+    "immunities_in_pair": [
+      "Fantasma",
+      "Lucha",
+      "Normal",
+      "Psiquico"
+    ],
+    "shared_weak_count": 0,
+    "shared_resist_count": 1,
+    "immunity_count": 4,
+    "score": 5
+  },
+  {
+    "a": "Incineroar",
+    "a_types": [
+      "Fuego",
+      "Siniestro"
+    ],
+    "b": "Greninja",
+    "b_types": [
+      "Agua",
+      "Siniestro"
+    ],
+    "shared_weaknesses": [
+      "Lucha"
+    ],
+    "shared_resists": [
+      "Acero",
+      "Fantasma",
+      "Fuego",
+      "Hielo",
+      "Psiquico",
+      "Siniestro"
+    ],
+    "immunities_in_pair": [
+      "Psiquico"
+    ],
+    "shared_weak_count": 1,
+    "shared_resist_count": 6,
+    "immunity_count": 1,
+    "score": 5
+  },
+  {
+    "a": "Incineroar",
+    "a_types": [
+      "Fuego",
+      "Siniestro"
+    ],
+    "b": "Slowking",
+    "b_types": [
+      "Agua",
+      "Psiquico"
+    ],
+    "shared_weaknesses": [],
+    "shared_resists": [
+      "Acero",
+      "Fuego",
+      "Hielo",
+      "Psiquico"
+    ],
+    "immunities_in_pair": [
+      "Psiquico"
+    ],
+    "shared_weak_count": 0,
+    "shared_resist_count": 4,
+    "immunity_count": 1,
+    "score": 5
+  },
+  {
+    "a": "Charizard",
+    "a_types": [
+      "Fuego",
+      "Volador"
+    ],
+    "b": "Corviknight",
+    "b_types": [
+      "Volador",
+      "Acero"
+    ],
+    "shared_weaknesses": [
+      "Eléctrico"
+    ],
+    "shared_resists": [
+      "Acero",
+      "Bicho",
+      "Hada",
+      "Planta",
+      "Tierra"
+    ],
+    "immunities_in_pair": [
+      "Tierra",
+      "Veneno"
+    ],
+    "shared_weak_count": 1,
+    "shared_resist_count": 5,
+    "immunity_count": 2,
+    "score": 5
+  },
+  {
+    "a": "Charizard",
+    "a_types": [
+      "Fuego",
+      "Volador"
+    ],
+    "b": "Whimsicott",
+    "b_types": [
+      "Planta",
+      "Hada"
+    ],
+    "shared_weaknesses": [],
+    "shared_resists": [
+      "Lucha",
+      "Planta",
+      "Tierra"
+    ],
+    "immunities_in_pair": [
+      "Dragon",
+      "Tierra"
+    ],
+    "shared_weak_count": 0,
+    "shared_resist_count": 3,
+    "immunity_count": 2,
+    "score": 5
+  },
+  {
+    "a": "Charizard",
+    "a_types": [
+      "Fuego",
+      "Volador"
+    ],
+    "b": "Typhlosion de Hisui",
+    "b_types": [
+      "Fuego",
+      "Fantasma"
+    ],
+    "shared_weaknesses": [
+      "Agua",
+      "Roca"
+    ],
+    "shared_resists": [
+      "Acero",
+      "Bicho",
+      "Fuego",
+      "Hada",
+      "Lucha",
+      "Planta"
+    ],
+    "immunities_in_pair": [
+      "Lucha",
+      "Normal",
+      "Tierra"
+    ],
+    "shared_weak_count": 2,
+    "shared_resist_count": 6,
+    "immunity_count": 3,
+    "score": 5
+  },
+  {
+    "a": "Gengar",
+    "a_types": [
+      "Fantasma",
+      "Veneno"
+    ],
+    "b": "Zoroark de Hisui",
+    "b_types": [
+      "Normal",
+      "Fantasma"
+    ],
+    "shared_weaknesses": [
+      "Siniestro"
+    ],
+    "shared_resists": [
+      "Bicho",
+      "Lucha",
+      "Normal",
+      "Veneno"
+    ],
+    "immunities_in_pair": [
+      "Fantasma",
+      "Lucha",
+      "Normal"
+    ],
+    "shared_weak_count": 1,
+    "shared_resist_count": 4,
+    "immunity_count": 3,
+    "score": 5
+  },
+  {
+    "a": "Gengar",
+    "a_types": [
+      "Fantasma",
+      "Veneno"
+    ],
+    "b": "Whimsicott",
+    "b_types": [
+      "Planta",
+      "Hada"
+    ],
+    "shared_weaknesses": [],
+    "shared_resists": [
+      "Lucha",
+      "Planta"
+    ],
+    "immunities_in_pair": [
+      "Dragon",
+      "Lucha",
+      "Normal"
+    ],
+    "shared_weak_count": 0,
+    "shared_resist_count": 2,
+    "immunity_count": 3,
+    "score": 5
+  },
+  {
+    "a": "Zoroark de Hisui",
+    "a_types": [
+      "Normal",
+      "Fantasma"
+    ],
+    "b": "Greninja",
+    "b_types": [
+      "Agua",
+      "Siniestro"
+    ],
+    "shared_weaknesses": [],
+    "shared_resists": [
+      "Fantasma"
+    ],
+    "immunities_in_pair": [
+      "Fantasma",
+      "Lucha",
+      "Normal",
+      "Psiquico"
+    ],
+    "shared_weak_count": 0,
+    "shared_resist_count": 1,
+    "immunity_count": 4,
+    "score": 5
+  },
+  {
+    "a": "Zoroark de Hisui",
+    "a_types": [
+      "Normal",
+      "Fantasma"
+    ],
+    "b": "Whimsicott",
+    "b_types": [
+      "Planta",
+      "Hada"
+    ],
+    "shared_weaknesses": [],
+    "shared_resists": [
+      "Lucha"
+    ],
+    "immunities_in_pair": [
+      "Dragon",
+      "Fantasma",
+      "Lucha",
+      "Normal"
+    ],
+    "shared_weak_count": 0,
+    "shared_resist_count": 1,
+    "immunity_count": 4,
+    "score": 5
+  },
+  {
+    "a": "Zoroark de Hisui",
+    "a_types": [
+      "Normal",
+      "Fantasma"
+    ],
+    "b": "Garchomp",
+    "b_types": [
+      "Dragon",
+      "Tierra"
+    ],
+    "shared_weaknesses": [],
+    "shared_resists": [
+      "Veneno"
+    ],
+    "immunities_in_pair": [
+      "Eléctrico",
+      "Fantasma",
+      "Lucha",
+      "Normal"
+    ],
+    "shared_weak_count": 0,
+    "shared_resist_count": 1,
+    "immunity_count": 4,
+    "score": 5
+  },
+  {
+    "a": "Zoroark de Hisui",
+    "a_types": [
+      "Normal",
+      "Fantasma"
+    ],
+    "b": "Typhlosion de Hisui",
+    "b_types": [
+      "Fuego",
+      "Fantasma"
+    ],
+    "shared_weaknesses": [
+      "Siniestro"
+    ],
+    "shared_resists": [
+      "Bicho",
+      "Lucha",
+      "Normal",
+      "Veneno"
+    ],
+    "immunities_in_pair": [
+      "Fantasma",
+      "Lucha",
+      "Normal"
+    ],
+    "shared_weak_count": 1,
+    "shared_resist_count": 4,
+    "immunity_count": 3,
+    "score": 5
+  },
+  {
+    "a": "Greninja",
+    "a_types": [
+      "Agua",
+      "Siniestro"
+    ],
+    "b": "Delphox",
+    "b_types": [
+      "Fuego",
+      "Psiquico"
+    ],
+    "shared_weaknesses": [],
+    "shared_resists": [
+      "Acero",
+      "Fuego",
+      "Hielo",
+      "Psiquico"
+    ],
+    "immunities_in_pair": [
+      "Psiquico"
+    ],
+    "shared_weak_count": 0,
+    "shared_resist_count": 4,
+    "immunity_count": 1,
+    "score": 5
+  },
+  {
+    "a": "Corviknight",
+    "a_types": [
+      "Volador",
+      "Acero"
+    ],
+    "b": "Dragonite",
+    "b_types": [
+      "Dragon",
+      "Volador"
+    ],
+    "shared_weaknesses": [],
+    "shared_resists": [
+      "Bicho",
+      "Planta",
+      "Tierra"
+    ],
+    "immunities_in_pair": [
+      "Tierra",
+      "Veneno"
+    ],
+    "shared_weak_count": 0,
+    "shared_resist_count": 3,
+    "immunity_count": 2,
+    "score": 5
+  },
+  {
+    "a": "Blastoise",
+    "a_types": [
+      "Agua"
+    ],
+    "b": "Typhlosion de Hisui",
+    "b_types": [
+      "Fuego",
+      "Fantasma"
+    ],
+    "shared_weaknesses": [],
+    "shared_resists": [
+      "Acero",
+      "Fuego",
+      "Hielo"
+    ],
+    "immunities_in_pair": [
+      "Lucha",
+      "Normal"
+    ],
+    "shared_weak_count": 0,
+    "shared_resist_count": 3,
+    "immunity_count": 2,
+    "score": 5
+  },
+  {
+    "a": "Dragonite",
+    "a_types": [
+      "Dragon",
+      "Volador"
+    ],
+    "b": "Typhlosion de Hisui",
+    "b_types": [
+      "Fuego",
+      "Fantasma"
+    ],
+    "shared_weaknesses": [
+      "Roca"
+    ],
+    "shared_resists": [
+      "Bicho",
+      "Fuego",
+      "Lucha",
+      "Planta"
+    ],
+    "immunities_in_pair": [
+      "Lucha",
+      "Normal",
+      "Tierra"
+    ],
+    "shared_weak_count": 1,
+    "shared_resist_count": 4,
+    "immunity_count": 3,
+    "score": 5
+  },
+  {
+    "a": "Whimsicott",
+    "a_types": [
+      "Planta",
+      "Hada"
+    ],
+    "b": "Typhlosion de Hisui",
+    "b_types": [
+      "Fuego",
+      "Fantasma"
+    ],
+    "shared_weaknesses": [],
+    "shared_resists": [
+      "Lucha",
+      "Planta"
+    ],
+    "immunities_in_pair": [
+      "Dragon",
+      "Lucha",
+      "Normal"
+    ],
+    "shared_weak_count": 0,
+    "shared_resist_count": 2,
+    "immunity_count": 3,
+    "score": 5
+  },
+  {
+    "a": "Garchomp",
+    "a_types": [
+      "Dragon",
+      "Tierra"
+    ],
+    "b": "Typhlosion de Hisui",
+    "b_types": [
+      "Fuego",
+      "Fantasma"
+    ],
+    "shared_weaknesses": [],
+    "shared_resists": [
+      "Fuego",
+      "Veneno"
+    ],
+    "immunities_in_pair": [
+      "Eléctrico",
+      "Lucha",
+      "Normal"
+    ],
+    "shared_weak_count": 0,
+    "shared_resist_count": 2,
+    "immunity_count": 3,
+    "score": 5
+  },
+  {
+    "a": "Emboar",
+    "a_types": [
+      "Fuego",
+      "Lucha"
+    ],
+    "b": "Zoroark de Hisui",
+    "b_types": [
+      "Normal",
+      "Fantasma"
+    ],
+    "shared_weaknesses": [],
+    "shared_resists": [
+      "Bicho"
+    ],
+    "immunities_in_pair": [
+      "Fantasma",
+      "Lucha",
+      "Normal"
+    ],
+    "shared_weak_count": 0,
+    "shared_resist_count": 1,
+    "immunity_count": 3,
+    "score": 4
+  },
+  {
+    "a": "Emboar",
+    "a_types": [
+      "Fuego",
+      "Lucha"
+    ],
+    "b": "Dragonite",
+    "b_types": [
+      "Dragon",
+      "Volador"
+    ],
+    "shared_weaknesses": [],
+    "shared_resists": [
+      "Bicho",
+      "Fuego",
+      "Planta"
+    ],
+    "immunities_in_pair": [
+      "Tierra"
+    ],
+    "shared_weak_count": 0,
+    "shared_resist_count": 3,
+    "immunity_count": 1,
+    "score": 4
+  },
+  {
+    "a": "Incineroar",
+    "a_types": [
+      "Fuego",
+      "Siniestro"
+    ],
+    "b": "Blastoise",
+    "b_types": [
+      "Agua"
+    ],
+    "shared_weaknesses": [],
+    "shared_resists": [
+      "Acero",
+      "Fuego",
+      "Hielo"
+    ],
+    "immunities_in_pair": [
+      "Psiquico"
+    ],
+    "shared_weak_count": 0,
+    "shared_resist_count": 3,
+    "immunity_count": 1,
+    "score": 4
+  },
+  {
+    "a": "Incineroar",
+    "a_types": [
+      "Fuego",
+      "Siniestro"
+    ],
+    "b": "Whimsicott",
+    "b_types": [
+      "Planta",
+      "Hada"
+    ],
+    "shared_weaknesses": [],
+    "shared_resists": [
+      "Planta",
+      "Siniestro"
+    ],
+    "immunities_in_pair": [
+      "Dragon",
+      "Psiquico"
+    ],
+    "shared_weak_count": 0,
+    "shared_resist_count": 2,
+    "immunity_count": 2,
+    "score": 4
+  },
+  {
+    "a": "Charizard",
+    "a_types": [
+      "Fuego",
+      "Volador"
+    ],
+    "b": "Dragonite",
+    "b_types": [
+      "Dragon",
+      "Volador"
+    ],
+    "shared_weaknesses": [
+      "Roca"
+    ],
+    "shared_resists": [
+      "Bicho",
+      "Fuego",
+      "Lucha",
+      "Planta",
+      "Tierra"
+    ],
+    "immunities_in_pair": [
+      "Tierra"
+    ],
+    "shared_weak_count": 1,
+    "shared_resist_count": 5,
+    "immunity_count": 1,
+    "score": 4
+  },
+  {
+    "a": "Gengar",
+    "a_types": [
+      "Fantasma",
+      "Veneno"
+    ],
+    "b": "Garchomp",
+    "b_types": [
+      "Dragon",
+      "Tierra"
+    ],
+    "shared_weaknesses": [],
+    "shared_resists": [
+      "Veneno"
+    ],
+    "immunities_in_pair": [
+      "Eléctrico",
+      "Lucha",
+      "Normal"
+    ],
+    "shared_weak_count": 0,
+    "shared_resist_count": 1,
+    "immunity_count": 3,
+    "score": 4
+  },
+  {
+    "a": "Greninja",
+    "a_types": [
+      "Agua",
+      "Siniestro"
+    ],
+    "b": "Whimsicott",
+    "b_types": [
+      "Planta",
+      "Hada"
+    ],
+    "shared_weaknesses": [],
+    "shared_resists": [
+      "Agua",
+      "Siniestro"
+    ],
+    "immunities_in_pair": [
+      "Dragon",
+      "Psiquico"
+    ],
+    "shared_weak_count": 0,
+    "shared_resist_count": 2,
+    "immunity_count": 2,
+    "score": 4
+  },
+  {
+    "a": "Corviknight",
+    "a_types": [
+      "Volador",
+      "Acero"
+    ],
+    "b": "Whimsicott",
+    "b_types": [
+      "Planta",
+      "Hada"
+    ],
+    "shared_weaknesses": [
+      "Fuego"
+    ],
+    "shared_resists": [
+      "Dragon",
+      "Planta",
+      "Tierra"
+    ],
+    "immunities_in_pair": [
+      "Dragon",
+      "Tierra",
+      "Veneno"
+    ],
+    "shared_weak_count": 1,
+    "shared_resist_count": 3,
+    "immunity_count": 3,
+    "score": 4
+  },
+  {
+    "a": "Corviknight",
+    "a_types": [
+      "Volador",
+      "Acero"
+    ],
+    "b": "Garchomp",
+    "b_types": [
+      "Dragon",
+      "Tierra"
+    ],
+    "shared_weaknesses": [],
+    "shared_resists": [
+      "Veneno"
+    ],
+    "immunities_in_pair": [
+      "Eléctrico",
+      "Tierra",
+      "Veneno"
+    ],
+    "shared_weak_count": 0,
+    "shared_resist_count": 1,
+    "immunity_count": 3,
+    "score": 4
+  },
+  {
+    "a": "Slowking",
+    "a_types": [
+      "Agua",
+      "Psiquico"
+    ],
+    "b": "Dragonite",
+    "b_types": [
+      "Dragon",
+      "Volador"
+    ],
+    "shared_weaknesses": [],
+    "shared_resists": [
+      "Agua",
+      "Fuego",
+      "Lucha"
+    ],
+    "immunities_in_pair": [
+      "Tierra"
+    ],
+    "shared_weak_count": 0,
+    "shared_resist_count": 3,
+    "immunity_count": 1,
+    "score": 4
+  },
+  {
+    "a": "Dragonite",
+    "a_types": [
+      "Dragon",
+      "Volador"
+    ],
+    "b": "Whimsicott",
+    "b_types": [
+      "Planta",
+      "Hada"
+    ],
+    "shared_weaknesses": [
+      "Hielo"
+    ],
+    "shared_resists": [
+      "Agua",
+      "Lucha",
+      "Planta",
+      "Tierra"
+    ],
+    "immunities_in_pair": [
+      "Dragon",
+      "Tierra"
+    ],
+    "shared_weak_count": 1,
+    "shared_resist_count": 4,
+    "immunity_count": 2,
+    "score": 4
+  },
+  {
+    "a": "Emboar",
+    "a_types": [
+      "Fuego",
+      "Lucha"
+    ],
+    "b": "Charizard",
+    "b_types": [
+      "Fuego",
+      "Volador"
+    ],
+    "shared_weaknesses": [
+      "Agua"
+    ],
+    "shared_resists": [
+      "Acero",
+      "Bicho",
+      "Fuego",
+      "Planta"
+    ],
+    "immunities_in_pair": [
+      "Tierra"
+    ],
+    "shared_weak_count": 1,
+    "shared_resist_count": 4,
+    "immunity_count": 1,
+    "score": 3
+  },
+  {
+    "a": "Emboar",
+    "a_types": [
+      "Fuego",
+      "Lucha"
+    ],
+    "b": "Blastoise",
+    "b_types": [
+      "Agua"
+    ],
+    "shared_weaknesses": [],
+    "shared_resists": [
+      "Acero",
+      "Fuego",
+      "Hielo"
+    ],
+    "immunities_in_pair": [],
+    "shared_weak_count": 0,
+    "shared_resist_count": 3,
+    "immunity_count": 0,
+    "score": 3
+  },
+  {
+    "a": "Emboar",
+    "a_types": [
+      "Fuego",
+      "Lucha"
+    ],
+    "b": "Slowking",
+    "b_types": [
+      "Agua",
+      "Psiquico"
+    ],
+    "shared_weaknesses": [],
+    "shared_resists": [
+      "Acero",
+      "Fuego",
+      "Hielo"
+    ],
+    "immunities_in_pair": [],
+    "shared_weak_count": 0,
+    "shared_resist_count": 3,
+    "immunity_count": 0,
+    "score": 3
+  },
+  {
+    "a": "Emboar",
+    "a_types": [
+      "Fuego",
+      "Lucha"
+    ],
+    "b": "Typhlosion de Hisui",
+    "b_types": [
+      "Fuego",
+      "Fantasma"
+    ],
+    "shared_weaknesses": [
+      "Agua",
+      "Tierra"
+    ],
+    "shared_resists": [
+      "Acero",
+      "Bicho",
+      "Fuego",
+      "Hielo",
+      "Planta"
+    ],
+    "immunities_in_pair": [
+      "Lucha",
+      "Normal"
+    ],
+    "shared_weak_count": 2,
+    "shared_resist_count": 5,
+    "immunity_count": 2,
+    "score": 3
+  },
+  {
+    "a": "Incineroar",
+    "a_types": [
+      "Fuego",
+      "Siniestro"
+    ],
+    "b": "Garchomp",
+    "b_types": [
+      "Dragon",
+      "Tierra"
+    ],
+    "shared_weaknesses": [],
+    "shared_resists": [
+      "Fuego"
+    ],
+    "immunities_in_pair": [
+      "Eléctrico",
+      "Psiquico"
+    ],
+    "shared_weak_count": 0,
+    "shared_resist_count": 1,
+    "immunity_count": 2,
+    "score": 3
+  },
+  {
+    "a": "Espathra",
+    "a_types": [
+      "Psiquico"
+    ],
+    "b": "Corviknight",
+    "b_types": [
+      "Volador",
+      "Acero"
+    ],
+    "shared_weaknesses": [],
+    "shared_resists": [
+      "Psiquico"
+    ],
+    "immunities_in_pair": [
+      "Tierra",
+      "Veneno"
+    ],
+    "shared_weak_count": 0,
+    "shared_resist_count": 1,
+    "immunity_count": 2,
+    "score": 3
+  },
+  {
+    "a": "Charizard",
+    "a_types": [
+      "Fuego",
+      "Volador"
+    ],
+    "b": "Garchomp",
+    "b_types": [
+      "Dragon",
+      "Tierra"
+    ],
+    "shared_weaknesses": [],
+    "shared_resists": [
+      "Fuego"
+    ],
+    "immunities_in_pair": [
+      "Eléctrico",
+      "Tierra"
+    ],
+    "shared_weak_count": 0,
+    "shared_resist_count": 1,
+    "immunity_count": 2,
+    "score": 3
+  },
+  {
+    "a": "Gengar",
+    "a_types": [
+      "Fantasma",
+      "Veneno"
+    ],
+    "b": "Greninja",
+    "b_types": [
+      "Agua",
+      "Siniestro"
+    ],
+    "shared_weaknesses": [],
+    "shared_resists": [],
+    "immunities_in_pair": [
+      "Lucha",
+      "Normal",
+      "Psiquico"
+    ],
+    "shared_weak_count": 0,
+    "shared_resist_count": 0,
+    "immunity_count": 3,
+    "score": 3
+  },
+  {
+    "a": "Zoroark de Hisui",
+    "a_types": [
+      "Normal",
+      "Fantasma"
+    ],
+    "b": "Blastoise",
+    "b_types": [
+      "Agua"
+    ],
+    "shared_weaknesses": [],
+    "shared_resists": [],
+    "immunities_in_pair": [
+      "Fantasma",
+      "Lucha",
+      "Normal"
+    ],
+    "shared_weak_count": 0,
+    "shared_resist_count": 0,
+    "immunity_count": 3,
+    "score": 3
+  },
+  {
+    "a": "Greninja",
+    "a_types": [
+      "Agua",
+      "Siniestro"
+    ],
+    "b": "Corviknight",
+    "b_types": [
+      "Volador",
+      "Acero"
+    ],
+    "shared_weaknesses": [
+      "Eléctrico"
+    ],
+    "shared_resists": [
+      "Acero",
+      "Psiquico"
+    ],
+    "immunities_in_pair": [
+      "Psiquico",
+      "Tierra",
+      "Veneno"
+    ],
+    "shared_weak_count": 1,
+    "shared_resist_count": 2,
+    "immunity_count": 3,
+    "score": 3
+  },
+  {
+    "a": "Blastoise",
+    "a_types": [
+      "Agua"
+    ],
+    "b": "Dragonite",
+    "b_types": [
+      "Dragon",
+      "Volador"
+    ],
+    "shared_weaknesses": [],
+    "shared_resists": [
+      "Agua",
+      "Fuego"
+    ],
+    "immunities_in_pair": [
+      "Tierra"
+    ],
+    "shared_weak_count": 0,
+    "shared_resist_count": 2,
+    "immunity_count": 1,
+    "score": 3
+  },
+  {
+    "a": "Blastoise",
+    "a_types": [
+      "Agua"
+    ],
+    "b": "Delphox",
+    "b_types": [
+      "Fuego",
+      "Psiquico"
+    ],
+    "shared_weaknesses": [],
+    "shared_resists": [
+      "Acero",
+      "Fuego",
+      "Hielo"
+    ],
+    "immunities_in_pair": [],
+    "shared_weak_count": 0,
+    "shared_resist_count": 3,
+    "immunity_count": 0,
+    "score": 3
+  },
+  {
+    "a": "Slowking",
+    "a_types": [
+      "Agua",
+      "Psiquico"
+    ],
+    "b": "Whimsicott",
+    "b_types": [
+      "Planta",
+      "Hada"
+    ],
+    "shared_weaknesses": [],
+    "shared_resists": [
+      "Agua",
+      "Lucha"
+    ],
+    "immunities_in_pair": [
+      "Dragon"
+    ],
+    "shared_weak_count": 0,
+    "shared_resist_count": 2,
+    "immunity_count": 1,
+    "score": 3
+  },
+  {
+    "a": "Delphox",
+    "a_types": [
+      "Fuego",
+      "Psiquico"
+    ],
+    "b": "Whimsicott",
+    "b_types": [
+      "Planta",
+      "Hada"
+    ],
+    "shared_weaknesses": [],
+    "shared_resists": [
+      "Lucha",
+      "Planta"
+    ],
+    "immunities_in_pair": [
+      "Dragon"
+    ],
+    "shared_weak_count": 0,
+    "shared_resist_count": 2,
+    "immunity_count": 1,
+    "score": 3
+  },
+  {
+    "a": "Emboar",
+    "a_types": [
+      "Fuego",
+      "Lucha"
+    ],
+    "b": "Incineroar",
+    "b_types": [
+      "Fuego",
+      "Siniestro"
+    ],
+    "shared_weaknesses": [
+      "Agua",
+      "Tierra"
+    ],
+    "shared_resists": [
+      "Acero",
+      "Fuego",
+      "Hielo",
+      "Planta",
+      "Siniestro"
+    ],
+    "immunities_in_pair": [
+      "Psiquico"
+    ],
+    "shared_weak_count": 2,
+    "shared_resist_count": 5,
+    "immunity_count": 1,
+    "score": 2
+  },
+  {
+    "a": "Emboar",
+    "a_types": [
+      "Fuego",
+      "Lucha"
+    ],
+    "b": "Garchomp",
+    "b_types": [
+      "Dragon",
+      "Tierra"
+    ],
+    "shared_weaknesses": [],
+    "shared_resists": [
+      "Fuego"
+    ],
+    "immunities_in_pair": [
+      "Eléctrico"
+    ],
+    "shared_weak_count": 0,
+    "shared_resist_count": 1,
+    "immunity_count": 1,
+    "score": 2
+  },
+  {
+    "a": "Incineroar",
+    "a_types": [
+      "Fuego",
+      "Siniestro"
+    ],
+    "b": "Espathra",
+    "b_types": [
+      "Psiquico"
+    ],
+    "shared_weaknesses": [],
+    "shared_resists": [
+      "Psiquico"
+    ],
+    "immunities_in_pair": [
+      "Psiquico"
+    ],
+    "shared_weak_count": 0,
+    "shared_resist_count": 1,
+    "immunity_count": 1,
+    "score": 2
+  },
+  {
+    "a": "Incineroar",
+    "a_types": [
+      "Fuego",
+      "Siniestro"
+    ],
+    "b": "Gengar",
+    "b_types": [
+      "Fantasma",
+      "Veneno"
+    ],
+    "shared_weaknesses": [
+      "Tierra"
+    ],
+    "shared_resists": [
+      "Planta"
+    ],
+    "immunities_in_pair": [
+      "Lucha",
+      "Normal",
+      "Psiquico"
+    ],
+    "shared_weak_count": 1,
+    "shared_resist_count": 1,
+    "immunity_count": 3,
+    "score": 2
+  },
+  {
+    "a": "Incineroar",
+    "a_types": [
+      "Fuego",
+      "Siniestro"
+    ],
+    "b": "Dragonite",
+    "b_types": [
+      "Dragon",
+      "Volador"
+    ],
+    "shared_weaknesses": [
+      "Roca"
+    ],
+    "shared_resists": [
+      "Fuego",
+      "Planta"
+    ],
+    "immunities_in_pair": [
+      "Psiquico",
+      "Tierra"
+    ],
+    "shared_weak_count": 1,
+    "shared_resist_count": 2,
+    "immunity_count": 2,
+    "score": 2
+  },
+  {
+    "a": "Espathra",
+    "a_types": [
+      "Psiquico"
+    ],
+    "b": "Charizard",
+    "b_types": [
+      "Fuego",
+      "Volador"
+    ],
+    "shared_weaknesses": [],
+    "shared_resists": [
+      "Lucha"
+    ],
+    "immunities_in_pair": [
+      "Tierra"
+    ],
+    "shared_weak_count": 0,
+    "shared_resist_count": 1,
+    "immunity_count": 1,
+    "score": 2
+  },
+  {
+    "a": "Espathra",
+    "a_types": [
+      "Psiquico"
+    ],
+    "b": "Zoroark de Hisui",
+    "b_types": [
+      "Normal",
+      "Fantasma"
+    ],
+    "shared_weaknesses": [
+      "Siniestro"
+    ],
+    "shared_resists": [
+      "Lucha"
+    ],
+    "immunities_in_pair": [
+      "Fantasma",
+      "Lucha",
+      "Normal"
+    ],
+    "shared_weak_count": 1,
+    "shared_resist_count": 1,
+    "immunity_count": 3,
+    "score": 2
+  },
+  {
+    "a": "Espathra",
+    "a_types": [
+      "Psiquico"
+    ],
+    "b": "Dragonite",
+    "b_types": [
+      "Dragon",
+      "Volador"
+    ],
+    "shared_weaknesses": [],
+    "shared_resists": [
+      "Lucha"
+    ],
+    "immunities_in_pair": [
+      "Tierra"
+    ],
+    "shared_weak_count": 0,
+    "shared_resist_count": 1,
+    "immunity_count": 1,
+    "score": 2
+  },
+  {
+    "a": "Espathra",
+    "a_types": [
+      "Psiquico"
+    ],
+    "b": "Whimsicott",
+    "b_types": [
+      "Planta",
+      "Hada"
+    ],
+    "shared_weaknesses": [],
+    "shared_resists": [
+      "Lucha"
+    ],
+    "immunities_in_pair": [
+      "Dragon"
+    ],
+    "shared_weak_count": 0,
+    "shared_resist_count": 1,
+    "immunity_count": 1,
+    "score": 2
+  },
+  {
+    "a": "Charizard",
+    "a_types": [
+      "Fuego",
+      "Volador"
+    ],
+    "b": "Greninja",
+    "b_types": [
+      "Agua",
+      "Siniestro"
+    ],
+    "shared_weaknesses": [
+      "Eléctrico"
+    ],
+    "shared_resists": [
+      "Acero",
+      "Fuego"
+    ],
+    "immunities_in_pair": [
+      "Psiquico",
+      "Tierra"
+    ],
+    "shared_weak_count": 1,
+    "shared_resist_count": 2,
+    "immunity_count": 2,
+    "score": 2
+  },
+  {
+    "a": "Charizard",
+    "a_types": [
+      "Fuego",
+      "Volador"
+    ],
+    "b": "Slowking",
+    "b_types": [
+      "Agua",
+      "Psiquico"
+    ],
+    "shared_weaknesses": [
+      "Eléctrico"
+    ],
+    "shared_resists": [
+      "Acero",
+      "Fuego",
+      "Lucha"
+    ],
+    "immunities_in_pair": [
+      "Tierra"
+    ],
+    "shared_weak_count": 1,
+    "shared_resist_count": 3,
+    "immunity_count": 1,
+    "score": 2
+  },
+  {
+    "a": "Charizard",
+    "a_types": [
+      "Fuego",
+      "Volador"
+    ],
+    "b": "Delphox",
+    "b_types": [
+      "Fuego",
+      "Psiquico"
+    ],
+    "shared_weaknesses": [
+      "Agua",
+      "Roca"
+    ],
+    "shared_resists": [
+      "Acero",
+      "Fuego",
+      "Hada",
+      "Lucha",
+      "Planta"
+    ],
+    "immunities_in_pair": [
+      "Tierra"
+    ],
+    "shared_weak_count": 2,
+    "shared_resist_count": 5,
+    "immunity_count": 1,
+    "score": 2
+  },
+  {
+    "a": "Gengar",
+    "a_types": [
+      "Fantasma",
+      "Veneno"
+    ],
+    "b": "Blastoise",
+    "b_types": [
+      "Agua"
+    ],
+    "shared_weaknesses": [],
+    "shared_resists": [],
+    "immunities_in_pair": [
+      "Lucha",
+      "Normal"
+    ],
+    "shared_weak_count": 0,
+    "shared_resist_count": 0,
+    "immunity_count": 2,
+    "score": 2
+  },
+  {
+    "a": "Gengar",
+    "a_types": [
+      "Fantasma",
+      "Veneno"
+    ],
+    "b": "Typhlosion de Hisui",
+    "b_types": [
+      "Fuego",
+      "Fantasma"
+    ],
+    "shared_weaknesses": [
+      "Fantasma",
+      "Siniestro",
+      "Tierra"
+    ],
+    "shared_resists": [
+      "Bicho",
+      "Hada",
+      "Lucha",
+      "Normal",
+      "Planta",
+      "Veneno"
+    ],
+    "immunities_in_pair": [
+      "Lucha",
+      "Normal"
+    ],
+    "shared_weak_count": 3,
+    "shared_resist_count": 6,
+    "immunity_count": 2,
+    "score": 2
+  },
+  {
+    "a": "Zoroark de Hisui",
+    "a_types": [
+      "Normal",
+      "Fantasma"
+    ],
+    "b": "Slowking",
+    "b_types": [
+      "Agua",
+      "Psiquico"
+    ],
+    "shared_weaknesses": [
+      "Siniestro"
+    ],
+    "shared_resists": [
+      "Lucha"
+    ],
+    "immunities_in_pair": [
+      "Fantasma",
+      "Lucha",
+      "Normal"
+    ],
+    "shared_weak_count": 1,
+    "shared_resist_count": 1,
+    "immunity_count": 3,
+    "score": 2
+  },
+  {
+    "a": "Zoroark de Hisui",
+    "a_types": [
+      "Normal",
+      "Fantasma"
+    ],
+    "b": "Delphox",
+    "b_types": [
+      "Fuego",
+      "Psiquico"
+    ],
+    "shared_weaknesses": [
+      "Siniestro"
+    ],
+    "shared_resists": [
+      "Lucha"
+    ],
+    "immunities_in_pair": [
+      "Fantasma",
+      "Lucha",
+      "Normal"
+    ],
+    "shared_weak_count": 1,
+    "shared_resist_count": 1,
+    "immunity_count": 3,
+    "score": 2
+  },
+  {
+    "a": "Greninja",
+    "a_types": [
+      "Agua",
+      "Siniestro"
+    ],
+    "b": "Dragonite",
+    "b_types": [
+      "Dragon",
+      "Volador"
+    ],
+    "shared_weaknesses": [
+      "Hada"
+    ],
+    "shared_resists": [
+      "Agua",
+      "Fuego"
+    ],
+    "immunities_in_pair": [
+      "Psiquico",
+      "Tierra"
+    ],
+    "shared_weak_count": 1,
+    "shared_resist_count": 2,
+    "immunity_count": 2,
+    "score": 2
+  },
+  {
+    "a": "Corviknight",
+    "a_types": [
+      "Volador",
+      "Acero"
+    ],
+    "b": "Slowking",
+    "b_types": [
+      "Agua",
+      "Psiquico"
+    ],
+    "shared_weaknesses": [
+      "Eléctrico"
+    ],
+    "shared_resists": [
+      "Acero",
+      "Psiquico"
+    ],
+    "immunities_in_pair": [
+      "Tierra",
+      "Veneno"
+    ],
+    "shared_weak_count": 1,
+    "shared_resist_count": 2,
+    "immunity_count": 2,
+    "score": 2
+  },
+  {
+    "a": "Blastoise",
+    "a_types": [
+      "Agua"
+    ],
+    "b": "Whimsicott",
+    "b_types": [
+      "Planta",
+      "Hada"
+    ],
+    "shared_weaknesses": [],
+    "shared_resists": [
+      "Agua"
+    ],
+    "immunities_in_pair": [
+      "Dragon"
+    ],
+    "shared_weak_count": 0,
+    "shared_resist_count": 1,
+    "immunity_count": 1,
+    "score": 2
+  },
+  {
+    "a": "Blastoise",
+    "a_types": [
+      "Agua"
+    ],
+    "b": "Garchomp",
+    "b_types": [
+      "Dragon",
+      "Tierra"
+    ],
+    "shared_weaknesses": [],
+    "shared_resists": [
+      "Fuego"
+    ],
+    "immunities_in_pair": [
+      "Eléctrico"
+    ],
+    "shared_weak_count": 0,
+    "shared_resist_count": 1,
+    "immunity_count": 1,
+    "score": 2
+  },
+  {
+    "a": "Slowking",
+    "a_types": [
+      "Agua",
+      "Psiquico"
+    ],
+    "b": "Garchomp",
+    "b_types": [
+      "Dragon",
+      "Tierra"
+    ],
+    "shared_weaknesses": [],
+    "shared_resists": [
+      "Fuego"
+    ],
+    "immunities_in_pair": [
+      "Eléctrico"
+    ],
+    "shared_weak_count": 0,
+    "shared_resist_count": 1,
+    "immunity_count": 1,
+    "score": 2
+  },
+  {
+    "a": "Slowking",
+    "a_types": [
+      "Agua",
+      "Psiquico"
+    ],
+    "b": "Typhlosion de Hisui",
+    "b_types": [
+      "Fuego",
+      "Fantasma"
+    ],
+    "shared_weaknesses": [
+      "Fantasma",
+      "Siniestro"
+    ],
+    "shared_resists": [
+      "Acero",
+      "Fuego",
+      "Hielo",
+      "Lucha"
+    ],
+    "immunities_in_pair": [
+      "Lucha",
+      "Normal"
+    ],
+    "shared_weak_count": 2,
+    "shared_resist_count": 4,
+    "immunity_count": 2,
+    "score": 2
+  },
+  {
+    "a": "Dragonite",
+    "a_types": [
+      "Dragon",
+      "Volador"
+    ],
+    "b": "Delphox",
+    "b_types": [
+      "Fuego",
+      "Psiquico"
+    ],
+    "shared_weaknesses": [
+      "Roca"
+    ],
+    "shared_resists": [
+      "Fuego",
+      "Lucha",
+      "Planta"
+    ],
+    "immunities_in_pair": [
+      "Tierra"
+    ],
+    "shared_weak_count": 1,
+    "shared_resist_count": 3,
+    "immunity_count": 1,
+    "score": 2
+  },
+  {
+    "a": "Delphox",
+    "a_types": [
+      "Fuego",
+      "Psiquico"
+    ],
+    "b": "Garchomp",
+    "b_types": [
+      "Dragon",
+      "Tierra"
+    ],
+    "shared_weaknesses": [],
+    "shared_resists": [
+      "Fuego"
+    ],
+    "immunities_in_pair": [
+      "Eléctrico"
+    ],
+    "shared_weak_count": 0,
+    "shared_resist_count": 1,
+    "immunity_count": 1,
+    "score": 2
+  },
+  {
+    "a": "Emboar",
+    "a_types": [
+      "Fuego",
+      "Lucha"
+    ],
+    "b": "Whimsicott",
+    "b_types": [
+      "Planta",
+      "Hada"
+    ],
+    "shared_weaknesses": [
+      "Volador"
+    ],
+    "shared_resists": [
+      "Planta",
+      "Siniestro"
+    ],
+    "immunities_in_pair": [
+      "Dragon"
+    ],
+    "shared_weak_count": 1,
+    "shared_resist_count": 2,
+    "immunity_count": 1,
+    "score": 1
+  },
+  {
+    "a": "Incineroar",
+    "a_types": [
+      "Fuego",
+      "Siniestro"
+    ],
+    "b": "Charizard",
+    "b_types": [
+      "Fuego",
+      "Volador"
+    ],
+    "shared_weaknesses": [
+      "Agua",
+      "Roca"
+    ],
+    "shared_resists": [
+      "Acero",
+      "Fuego",
+      "Planta"
+    ],
+    "immunities_in_pair": [
+      "Psiquico",
+      "Tierra"
+    ],
+    "shared_weak_count": 2,
+    "shared_resist_count": 3,
+    "immunity_count": 2,
+    "score": 1
+  },
+  {
+    "a": "Incineroar",
+    "a_types": [
+      "Fuego",
+      "Siniestro"
+    ],
+    "b": "Typhlosion de Hisui",
+    "b_types": [
+      "Fuego",
+      "Fantasma"
+    ],
+    "shared_weaknesses": [
+      "Agua",
+      "Roca",
+      "Tierra"
+    ],
+    "shared_resists": [
+      "Acero",
+      "Fuego",
+      "Hielo",
+      "Planta"
+    ],
+    "immunities_in_pair": [
+      "Lucha",
+      "Normal",
+      "Psiquico"
+    ],
+    "shared_weak_count": 3,
+    "shared_resist_count": 4,
+    "immunity_count": 3,
+    "score": 1
+  },
+  {
+    "a": "Espathra",
+    "a_types": [
+      "Psiquico"
+    ],
+    "b": "Garchomp",
+    "b_types": [
+      "Dragon",
+      "Tierra"
+    ],
+    "shared_weaknesses": [],
+    "shared_resists": [],
+    "immunities_in_pair": [
+      "Eléctrico"
+    ],
+    "shared_weak_count": 0,
+    "shared_resist_count": 0,
+    "immunity_count": 1,
+    "score": 1
+  },
+  {
+    "a": "Charizard",
+    "a_types": [
+      "Fuego",
+      "Volador"
+    ],
+    "b": "Blastoise",
+    "b_types": [
+      "Agua"
+    ],
+    "shared_weaknesses": [
+      "Eléctrico"
+    ],
+    "shared_resists": [
+      "Acero",
+      "Fuego"
+    ],
+    "immunities_in_pair": [
+      "Tierra"
+    ],
+    "shared_weak_count": 1,
+    "shared_resist_count": 2,
+    "immunity_count": 1,
+    "score": 1
+  },
+  {
+    "a": "Greninja",
+    "a_types": [
+      "Agua",
+      "Siniestro"
+    ],
+    "b": "Blastoise",
+    "b_types": [
+      "Agua"
+    ],
+    "shared_weaknesses": [
+      "Eléctrico",
+      "Planta"
+    ],
+    "shared_resists": [
+      "Acero",
+      "Agua",
+      "Fuego",
+      "Hielo"
+    ],
+    "immunities_in_pair": [
+      "Psiquico"
+    ],
+    "shared_weak_count": 2,
+    "shared_resist_count": 4,
+    "immunity_count": 1,
+    "score": 1
+  },
+  {
+    "a": "Greninja",
+    "a_types": [
+      "Agua",
+      "Siniestro"
+    ],
+    "b": "Garchomp",
+    "b_types": [
+      "Dragon",
+      "Tierra"
+    ],
+    "shared_weaknesses": [
+      "Hada"
+    ],
+    "shared_resists": [
+      "Fuego"
+    ],
+    "immunities_in_pair": [
+      "Eléctrico",
+      "Psiquico"
+    ],
+    "shared_weak_count": 1,
+    "shared_resist_count": 1,
+    "immunity_count": 2,
+    "score": 1
+  },
+  {
+    "a": "Corviknight",
+    "a_types": [
+      "Volador",
+      "Acero"
+    ],
+    "b": "Blastoise",
+    "b_types": [
+      "Agua"
+    ],
+    "shared_weaknesses": [
+      "Eléctrico"
+    ],
+    "shared_resists": [
+      "Acero"
+    ],
+    "immunities_in_pair": [
+      "Tierra",
+      "Veneno"
+    ],
+    "shared_weak_count": 1,
+    "shared_resist_count": 1,
+    "immunity_count": 2,
+    "score": 1
+  },
+  {
+    "a": "Slowking",
+    "a_types": [
+      "Agua",
+      "Psiquico"
+    ],
+    "b": "Delphox",
+    "b_types": [
+      "Fuego",
+      "Psiquico"
+    ],
+    "shared_weaknesses": [
+      "Fantasma",
+      "Siniestro"
+    ],
+    "shared_resists": [
+      "Acero",
+      "Fuego",
+      "Hielo",
+      "Lucha",
+      "Psiquico"
+    ],
+    "immunities_in_pair": [],
+    "shared_weak_count": 2,
+    "shared_resist_count": 5,
+    "immunity_count": 0,
+    "score": 1
+  },
+  {
+    "a": "Whimsicott",
+    "a_types": [
+      "Planta",
+      "Hada"
+    ],
+    "b": "Garchomp",
+    "b_types": [
+      "Dragon",
+      "Tierra"
+    ],
+    "shared_weaknesses": [
+      "Hielo"
+    ],
+    "shared_resists": [
+      "Eléctrico"
+    ],
+    "immunities_in_pair": [
+      "Dragon",
+      "Eléctrico"
+    ],
+    "shared_weak_count": 1,
+    "shared_resist_count": 1,
+    "immunity_count": 2,
+    "score": 1
+  },
+  {
+    "a": "Emboar",
+    "a_types": [
+      "Fuego",
+      "Lucha"
+    ],
+    "b": "Espathra",
+    "b_types": [
+      "Psiquico"
+    ],
+    "shared_weaknesses": [],
+    "shared_resists": [],
+    "immunities_in_pair": [],
+    "shared_weak_count": 0,
+    "shared_resist_count": 0,
+    "immunity_count": 0,
+    "score": 0
+  },
+  {
+    "a": "Emboar",
+    "a_types": [
+      "Fuego",
+      "Lucha"
+    ],
+    "b": "Gengar",
+    "b_types": [
+      "Fantasma",
+      "Veneno"
+    ],
+    "shared_weaknesses": [
+      "Psiquico",
+      "Tierra"
+    ],
+    "shared_resists": [
+      "Bicho",
+      "Planta"
+    ],
+    "immunities_in_pair": [
+      "Lucha",
+      "Normal"
+    ],
+    "shared_weak_count": 2,
+    "shared_resist_count": 2,
+    "immunity_count": 2,
+    "score": 0
+  },
+  {
+    "a": "Emboar",
+    "a_types": [
+      "Fuego",
+      "Lucha"
+    ],
+    "b": "Delphox",
+    "b_types": [
+      "Fuego",
+      "Psiquico"
+    ],
+    "shared_weaknesses": [
+      "Agua",
+      "Tierra"
+    ],
+    "shared_resists": [
+      "Acero",
+      "Fuego",
+      "Hielo",
+      "Planta"
+    ],
+    "immunities_in_pair": [],
+    "shared_weak_count": 2,
+    "shared_resist_count": 4,
+    "immunity_count": 0,
+    "score": 0
+  },
+  {
+    "a": "Incineroar",
+    "a_types": [
+      "Fuego",
+      "Siniestro"
+    ],
+    "b": "Delphox",
+    "b_types": [
+      "Fuego",
+      "Psiquico"
+    ],
+    "shared_weaknesses": [
+      "Agua",
+      "Roca",
+      "Tierra"
+    ],
+    "shared_resists": [
+      "Acero",
+      "Fuego",
+      "Hielo",
+      "Planta",
+      "Psiquico"
+    ],
+    "immunities_in_pair": [
+      "Psiquico"
+    ],
+    "shared_weak_count": 3,
+    "shared_resist_count": 5,
+    "immunity_count": 1,
+    "score": 0
+  },
+  {
+    "a": "Espathra",
+    "a_types": [
+      "Psiquico"
+    ],
+    "b": "Greninja",
+    "b_types": [
+      "Agua",
+      "Siniestro"
+    ],
+    "shared_weaknesses": [
+      "Bicho"
+    ],
+    "shared_resists": [
+      "Psiquico"
+    ],
+    "immunities_in_pair": [
+      "Psiquico"
+    ],
+    "shared_weak_count": 1,
+    "shared_resist_count": 1,
+    "immunity_count": 1,
+    "score": 0
+  },
+  {
+    "a": "Espathra",
+    "a_types": [
+      "Psiquico"
+    ],
+    "b": "Blastoise",
+    "b_types": [
+      "Agua"
+    ],
+    "shared_weaknesses": [],
+    "shared_resists": [],
+    "immunities_in_pair": [],
+    "shared_weak_count": 0,
+    "shared_resist_count": 0,
+    "immunity_count": 0,
+    "score": 0
+  },
+  {
+    "a": "Greninja",
+    "a_types": [
+      "Agua",
+      "Siniestro"
+    ],
+    "b": "Slowking",
+    "b_types": [
+      "Agua",
+      "Psiquico"
+    ],
+    "shared_weaknesses": [
+      "Bicho",
+      "Eléctrico",
+      "Planta"
+    ],
+    "shared_resists": [
+      "Acero",
+      "Agua",
+      "Fuego",
+      "Hielo",
+      "Psiquico"
+    ],
+    "immunities_in_pair": [
+      "Psiquico"
+    ],
+    "shared_weak_count": 3,
+    "shared_resist_count": 5,
+    "immunity_count": 1,
+    "score": 0
+  },
+  {
+    "a": "Blastoise",
+    "a_types": [
+      "Agua"
+    ],
+    "b": "Slowking",
+    "b_types": [
+      "Agua",
+      "Psiquico"
+    ],
+    "shared_weaknesses": [
+      "Eléctrico",
+      "Planta"
+    ],
+    "shared_resists": [
+      "Acero",
+      "Agua",
+      "Fuego",
+      "Hielo"
+    ],
+    "immunities_in_pair": [],
+    "shared_weak_count": 2,
+    "shared_resist_count": 4,
+    "immunity_count": 0,
+    "score": 0
+  },
+  {
+    "a": "Espathra",
+    "a_types": [
+      "Psiquico"
+    ],
+    "b": "Gengar",
+    "b_types": [
+      "Fantasma",
+      "Veneno"
+    ],
+    "shared_weaknesses": [
+      "Fantasma",
+      "Siniestro"
+    ],
+    "shared_resists": [
+      "Lucha"
+    ],
+    "immunities_in_pair": [
+      "Lucha",
+      "Normal"
+    ],
+    "shared_weak_count": 2,
+    "shared_resist_count": 1,
+    "immunity_count": 2,
+    "score": -1
+  },
+  {
+    "a": "Espathra",
+    "a_types": [
+      "Psiquico"
+    ],
+    "b": "Typhlosion de Hisui",
+    "b_types": [
+      "Fuego",
+      "Fantasma"
+    ],
+    "shared_weaknesses": [
+      "Fantasma",
+      "Siniestro"
+    ],
+    "shared_resists": [
+      "Lucha"
+    ],
+    "immunities_in_pair": [
+      "Lucha",
+      "Normal"
+    ],
+    "shared_weak_count": 2,
+    "shared_resist_count": 1,
+    "immunity_count": 2,
+    "score": -1
+  },
+  {
+    "a": "Gengar",
+    "a_types": [
+      "Fantasma",
+      "Veneno"
+    ],
+    "b": "Slowking",
+    "b_types": [
+      "Agua",
+      "Psiquico"
+    ],
+    "shared_weaknesses": [
+      "Fantasma",
+      "Siniestro"
+    ],
+    "shared_resists": [
+      "Lucha"
+    ],
+    "immunities_in_pair": [
+      "Lucha",
+      "Normal"
+    ],
+    "shared_weak_count": 2,
+    "shared_resist_count": 1,
+    "immunity_count": 2,
+    "score": -1
+  },
+  {
+    "a": "Gengar",
+    "a_types": [
+      "Fantasma",
+      "Veneno"
+    ],
+    "b": "Delphox",
+    "b_types": [
+      "Fuego",
+      "Psiquico"
+    ],
+    "shared_weaknesses": [
+      "Fantasma",
+      "Siniestro",
+      "Tierra"
+    ],
+    "shared_resists": [
+      "Hada",
+      "Lucha",
+      "Planta"
+    ],
+    "immunities_in_pair": [
+      "Lucha",
+      "Normal"
+    ],
+    "shared_weak_count": 3,
+    "shared_resist_count": 3,
+    "immunity_count": 2,
+    "score": -1
+  },
+  {
+    "a": "Espathra",
+    "a_types": [
+      "Psiquico"
+    ],
+    "b": "Delphox",
+    "b_types": [
+      "Fuego",
+      "Psiquico"
+    ],
+    "shared_weaknesses": [
+      "Fantasma",
+      "Siniestro"
+    ],
+    "shared_resists": [
+      "Lucha",
+      "Psiquico"
+    ],
+    "immunities_in_pair": [],
+    "shared_weak_count": 2,
+    "shared_resist_count": 2,
+    "immunity_count": 0,
+    "score": -2
+  },
+  {
+    "a": "Delphox",
+    "a_types": [
+      "Fuego",
+      "Psiquico"
+    ],
+    "b": "Typhlosion de Hisui",
+    "b_types": [
+      "Fuego",
+      "Fantasma"
+    ],
+    "shared_weaknesses": [
+      "Agua",
+      "Fantasma",
+      "Roca",
+      "Siniestro",
+      "Tierra"
+    ],
+    "shared_resists": [
+      "Acero",
+      "Fuego",
+      "Hada",
+      "Hielo",
+      "Lucha",
+      "Planta"
+    ],
+    "immunities_in_pair": [
+      "Lucha",
+      "Normal"
+    ],
+    "shared_weak_count": 5,
+    "shared_resist_count": 6,
+    "immunity_count": 2,
+    "score": -2
+  },
+  {
+    "a": "Dragonite",
+    "a_types": [
+      "Dragon",
+      "Volador"
+    ],
+    "b": "Garchomp",
+    "b_types": [
+      "Dragon",
+      "Tierra"
+    ],
+    "shared_weaknesses": [
+      "Dragon",
+      "Hada",
+      "Hielo"
+    ],
+    "shared_resists": [
+      "Fuego"
+    ],
+    "immunities_in_pair": [
+      "Eléctrico",
+      "Tierra"
+    ],
+    "shared_weak_count": 3,
+    "shared_resist_count": 1,
+    "immunity_count": 2,
+    "score": -3
+  },
+  {
+    "a": "Espathra",
+    "a_types": [
+      "Psiquico"
+    ],
+    "b": "Slowking",
+    "b_types": [
+      "Agua",
+      "Psiquico"
+    ],
+    "shared_weaknesses": [
+      "Bicho",
+      "Fantasma",
+      "Siniestro"
+    ],
+    "shared_resists": [
+      "Lucha",
+      "Psiquico"
+    ],
+    "immunities_in_pair": [],
+    "shared_weak_count": 3,
+    "shared_resist_count": 2,
+    "immunity_count": 0,
+    "score": -4
+  }
+]

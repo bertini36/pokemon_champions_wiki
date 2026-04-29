@@ -1,0 +1,37 @@
+---
+title: Aerochorro
+date: 2026-04-29
+type: entity
+tags: [ataque, volador, especial]
+slug: aerochorro
+---
+
+# Aerochorro
+
+## Datos
+
+| Propiedad | Valor |
+|---|---|
+| Tipo | [[Volador]] |
+| Categoría | Especial |
+| Potencia | 100 |
+| Precisión | 95 |
+| PP | 5 |
+| Slug | aeroblast |
+| Op.gg | [aeroblast](https://op.gg/es/pokemon-champions/moves/aeroblast) |
+
+## Efecto
+
+Lanza un chorro de aire que suele asestar un golpe crítico.
+
+## Pokémon que lo aprenden
+
+Total: 0
+
+## 🔗 Related
+
+- [[Volador]]
+- [[op-gg-moves]]
+- [[damage-matrix]]
+- [[formula-dano]]
+- [[coverage-matrix]]

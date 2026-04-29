@@ -1,0 +1,28 @@
+---
+title: Ampharosita
+date: 2026-04-29
+type: entity
+tags: [objeto, piedras-mega]
+slug: ampharosita
+---
+
+# Ampharosita
+
+## Datos
+
+| Propiedad | Valor |
+|---|---|
+| Categoría | Piedras Mega |
+| Slug | ampharosite |
+| Fuente | Shop |
+| Coste | 2000 VP |
+
+## Descripción
+
+Una de las misteriosas Megapiedras. Permite megaevolucionar a Ampharos en combate.
+
+## 🔗 Related
+
+- [[op-gg-items]]
+- Piedra Mega — afecta forma del Pokémon, no daño
+- [[damage-matrix]]

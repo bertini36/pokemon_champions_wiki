@@ -1,0 +1,2280 @@
+[
+  {
+    "name": "Greninja",
+    "type1": "Agua",
+    "type2": "Siniestro",
+    "base_speed": 122,
+    "speeds": {
+      "bare": 142,
+      "optimized": 191,
+      "scarfed": 286
+    },
+    "outspeeds_me_opt_vs_opt": [],
+    "outspeeds_me_scarf_vs_opt": [
+      {
+        "name": "Whimsicott",
+        "speed": 276,
+        "delta": 85
+      },
+      {
+        "name": "Gengar",
+        "speed": 267,
+        "delta": 76
+      },
+      {
+        "name": "Zoroark de Hisui",
+        "speed": 267,
+        "delta": 76
+      },
+      {
+        "name": "Espathra",
+        "speed": 258,
+        "delta": 67
+      },
+      {
+        "name": "Delphox",
+        "speed": 256,
+        "delta": 65
+      },
+      {
+        "name": "Garchomp",
+        "speed": 253,
+        "delta": 62
+      },
+      {
+        "name": "Charizard",
+        "speed": 250,
+        "delta": 59
+      },
+      {
+        "name": "Typhlosion de Hisui",
+        "speed": 241,
+        "delta": 50
+      },
+      {
+        "name": "Dragonite",
+        "speed": 217,
+        "delta": 26
+      },
+      {
+        "name": "Blastoise",
+        "speed": 214,
+        "delta": 23
+      },
+      {
+        "name": "Corviknight",
+        "speed": 195,
+        "delta": 4
+      },
+      {
+        "name": "Emboar",
+        "speed": 192,
+        "delta": 1
+      }
+    ],
+    "outspeeds_me_scarf_vs_scarf": []
+  },
+  {
+    "name": "Whimsicott",
+    "type1": "Planta",
+    "type2": "Hada",
+    "base_speed": 116,
+    "speeds": {
+      "bare": 136,
+      "optimized": 184,
+      "scarfed": 276
+    },
+    "outspeeds_me_opt_vs_opt": [
+      {
+        "name": "Greninja",
+        "speed": 191,
+        "delta": 7
+      }
+    ],
+    "outspeeds_me_scarf_vs_opt": [
+      {
+        "name": "Greninja",
+        "speed": 286,
+        "delta": 102
+      },
+      {
+        "name": "Gengar",
+        "speed": 267,
+        "delta": 83
+      },
+      {
+        "name": "Zoroark de Hisui",
+        "speed": 267,
+        "delta": 83
+      },
+      {
+        "name": "Espathra",
+        "speed": 258,
+        "delta": 74
+      },
+      {
+        "name": "Delphox",
+        "speed": 256,
+        "delta": 72
+      },
+      {
+        "name": "Garchomp",
+        "speed": 253,
+        "delta": 69
+      },
+      {
+        "name": "Charizard",
+        "speed": 250,
+        "delta": 66
+      },
+      {
+        "name": "Typhlosion de Hisui",
+        "speed": 241,
+        "delta": 57
+      },
+      {
+        "name": "Dragonite",
+        "speed": 217,
+        "delta": 33
+      },
+      {
+        "name": "Blastoise",
+        "speed": 214,
+        "delta": 30
+      },
+      {
+        "name": "Corviknight",
+        "speed": 195,
+        "delta": 11
+      },
+      {
+        "name": "Emboar",
+        "speed": 192,
+        "delta": 8
+      }
+    ],
+    "outspeeds_me_scarf_vs_scarf": [
+      {
+        "name": "Greninja",
+        "speed": 286,
+        "delta": 10
+      }
+    ]
+  },
+  {
+    "name": "Gengar",
+    "type1": "Fantasma",
+    "type2": "Veneno",
+    "base_speed": 110,
+    "speeds": {
+      "bare": 130,
+      "optimized": 178,
+      "scarfed": 267
+    },
+    "outspeeds_me_opt_vs_opt": [
+      {
+        "name": "Greninja",
+        "speed": 191,
+        "delta": 13
+      },
+      {
+        "name": "Whimsicott",
+        "speed": 184,
+        "delta": 6
+      }
+    ],
+    "outspeeds_me_scarf_vs_opt": [
+      {
+        "name": "Greninja",
+        "speed": 286,
+        "delta": 108
+      },
+      {
+        "name": "Whimsicott",
+        "speed": 276,
+        "delta": 98
+      },
+      {
+        "name": "Zoroark de Hisui",
+        "speed": 267,
+        "delta": 89
+      },
+      {
+        "name": "Espathra",
+        "speed": 258,
+        "delta": 80
+      },
+      {
+        "name": "Delphox",
+        "speed": 256,
+        "delta": 78
+      },
+      {
+        "name": "Garchomp",
+        "speed": 253,
+        "delta": 75
+      },
+      {
+        "name": "Charizard",
+        "speed": 250,
+        "delta": 72
+      },
+      {
+        "name": "Typhlosion de Hisui",
+        "speed": 241,
+        "delta": 63
+      },
+      {
+        "name": "Dragonite",
+        "speed": 217,
+        "delta": 39
+      },
+      {
+        "name": "Blastoise",
+        "speed": 214,
+        "delta": 36
+      },
+      {
+        "name": "Corviknight",
+        "speed": 195,
+        "delta": 17
+      },
+      {
+        "name": "Emboar",
+        "speed": 192,
+        "delta": 14
+      },
+      {
+        "name": "Incineroar",
+        "speed": 184,
+        "delta": 6
+      }
+    ],
+    "outspeeds_me_scarf_vs_scarf": [
+      {
+        "name": "Greninja",
+        "speed": 286,
+        "delta": 19
+      },
+      {
+        "name": "Whimsicott",
+        "speed": 276,
+        "delta": 9
+      }
+    ]
+  },
+  {
+    "name": "Zoroark de Hisui",
+    "type1": "Normal",
+    "type2": "Fantasma",
+    "base_speed": 110,
+    "speeds": {
+      "bare": 130,
+      "optimized": 178,
+      "scarfed": 267
+    },
+    "outspeeds_me_opt_vs_opt": [
+      {
+        "name": "Greninja",
+        "speed": 191,
+        "delta": 13
+      },
+      {
+        "name": "Whimsicott",
+        "speed": 184,
+        "delta": 6
+      }
+    ],
+    "outspeeds_me_scarf_vs_opt": [
+      {
+        "name": "Greninja",
+        "speed": 286,
+        "delta": 108
+      },
+      {
+        "name": "Whimsicott",
+        "speed": 276,
+        "delta": 98
+      },
+      {
+        "name": "Gengar",
+        "speed": 267,
+        "delta": 89
+      },
+      {
+        "name": "Espathra",
+        "speed": 258,
+        "delta": 80
+      },
+      {
+        "name": "Delphox",
+        "speed": 256,
+        "delta": 78
+      },
+      {
+        "name": "Garchomp",
+        "speed": 253,
+        "delta": 75
+      },
+      {
+        "name": "Charizard",
+        "speed": 250,
+        "delta": 72
+      },
+      {
+        "name": "Typhlosion de Hisui",
+        "speed": 241,
+        "delta": 63
+      },
+      {
+        "name": "Dragonite",
+        "speed": 217,
+        "delta": 39
+      },
+      {
+        "name": "Blastoise",
+        "speed": 214,
+        "delta": 36
+      },
+      {
+        "name": "Corviknight",
+        "speed": 195,
+        "delta": 17
+      },
+      {
+        "name": "Emboar",
+        "speed": 192,
+        "delta": 14
+      },
+      {
+        "name": "Incineroar",
+        "speed": 184,
+        "delta": 6
+      }
+    ],
+    "outspeeds_me_scarf_vs_scarf": [
+      {
+        "name": "Greninja",
+        "speed": 286,
+        "delta": 19
+      },
+      {
+        "name": "Whimsicott",
+        "speed": 276,
+        "delta": 9
+      }
+    ]
+  },
+  {
+    "name": "Espathra",
+    "type1": "Psiquico",
+    "type2": "-",
+    "base_speed": 105,
+    "speeds": {
+      "bare": 125,
+      "optimized": 172,
+      "scarfed": 258
+    },
+    "outspeeds_me_opt_vs_opt": [
+      {
+        "name": "Greninja",
+        "speed": 191,
+        "delta": 19
+      },
+      {
+        "name": "Whimsicott",
+        "speed": 184,
+        "delta": 12
+      },
+      {
+        "name": "Gengar",
+        "speed": 178,
+        "delta": 6
+      },
+      {
+        "name": "Zoroark de Hisui",
+        "speed": 178,
+        "delta": 6
+      }
+    ],
+    "outspeeds_me_scarf_vs_opt": [
+      {
+        "name": "Greninja",
+        "speed": 286,
+        "delta": 114
+      },
+      {
+        "name": "Whimsicott",
+        "speed": 276,
+        "delta": 104
+      },
+      {
+        "name": "Gengar",
+        "speed": 267,
+        "delta": 95
+      },
+      {
+        "name": "Zoroark de Hisui",
+        "speed": 267,
+        "delta": 95
+      },
+      {
+        "name": "Delphox",
+        "speed": 256,
+        "delta": 84
+      },
+      {
+        "name": "Garchomp",
+        "speed": 253,
+        "delta": 81
+      },
+      {
+        "name": "Charizard",
+        "speed": 250,
+        "delta": 78
+      },
+      {
+        "name": "Typhlosion de Hisui",
+        "speed": 241,
+        "delta": 69
+      },
+      {
+        "name": "Dragonite",
+        "speed": 217,
+        "delta": 45
+      },
+      {
+        "name": "Blastoise",
+        "speed": 214,
+        "delta": 42
+      },
+      {
+        "name": "Corviknight",
+        "speed": 195,
+        "delta": 23
+      },
+      {
+        "name": "Emboar",
+        "speed": 192,
+        "delta": 20
+      },
+      {
+        "name": "Incineroar",
+        "speed": 184,
+        "delta": 12
+      }
+    ],
+    "outspeeds_me_scarf_vs_scarf": [
+      {
+        "name": "Greninja",
+        "speed": 286,
+        "delta": 28
+      },
+      {
+        "name": "Whimsicott",
+        "speed": 276,
+        "delta": 18
+      },
+      {
+        "name": "Gengar",
+        "speed": 267,
+        "delta": 9
+      },
+      {
+        "name": "Zoroark de Hisui",
+        "speed": 267,
+        "delta": 9
+      }
+    ]
+  },
+  {
+    "name": "Delphox",
+    "type1": "Fuego",
+    "type2": "Psiquico",
+    "base_speed": 104,
+    "speeds": {
+      "bare": 124,
+      "optimized": 171,
+      "scarfed": 256
+    },
+    "outspeeds_me_opt_vs_opt": [
+      {
+        "name": "Greninja",
+        "speed": 191,
+        "delta": 20
+      },
+      {
+        "name": "Whimsicott",
+        "speed": 184,
+        "delta": 13
+      },
+      {
+        "name": "Gengar",
+        "speed": 178,
+        "delta": 7
+      },
+      {
+        "name": "Zoroark de Hisui",
+        "speed": 178,
+        "delta": 7
+      },
+      {
+        "name": "Espathra",
+        "speed": 172,
+        "delta": 1
+      }
+    ],
+    "outspeeds_me_scarf_vs_opt": [
+      {
+        "name": "Greninja",
+        "speed": 286,
+        "delta": 115
+      },
+      {
+        "name": "Whimsicott",
+        "speed": 276,
+        "delta": 105
+      },
+      {
+        "name": "Gengar",
+        "speed": 267,
+        "delta": 96
+      },
+      {
+        "name": "Zoroark de Hisui",
+        "speed": 267,
+        "delta": 96
+      },
+      {
+        "name": "Espathra",
+        "speed": 258,
+        "delta": 87
+      },
+      {
+        "name": "Garchomp",
+        "speed": 253,
+        "delta": 82
+      },
+      {
+        "name": "Charizard",
+        "speed": 250,
+        "delta": 79
+      },
+      {
+        "name": "Typhlosion de Hisui",
+        "speed": 241,
+        "delta": 70
+      },
+      {
+        "name": "Dragonite",
+        "speed": 217,
+        "delta": 46
+      },
+      {
+        "name": "Blastoise",
+        "speed": 214,
+        "delta": 43
+      },
+      {
+        "name": "Corviknight",
+        "speed": 195,
+        "delta": 24
+      },
+      {
+        "name": "Emboar",
+        "speed": 192,
+        "delta": 21
+      },
+      {
+        "name": "Incineroar",
+        "speed": 184,
+        "delta": 13
+      }
+    ],
+    "outspeeds_me_scarf_vs_scarf": [
+      {
+        "name": "Greninja",
+        "speed": 286,
+        "delta": 30
+      },
+      {
+        "name": "Whimsicott",
+        "speed": 276,
+        "delta": 20
+      },
+      {
+        "name": "Gengar",
+        "speed": 267,
+        "delta": 11
+      },
+      {
+        "name": "Zoroark de Hisui",
+        "speed": 267,
+        "delta": 11
+      },
+      {
+        "name": "Espathra",
+        "speed": 258,
+        "delta": 2
+      }
+    ]
+  },
+  {
+    "name": "Garchomp",
+    "type1": "Dragon",
+    "type2": "Tierra",
+    "base_speed": 102,
+    "speeds": {
+      "bare": 122,
+      "optimized": 169,
+      "scarfed": 253
+    },
+    "outspeeds_me_opt_vs_opt": [
+      {
+        "name": "Greninja",
+        "speed": 191,
+        "delta": 22
+      },
+      {
+        "name": "Whimsicott",
+        "speed": 184,
+        "delta": 15
+      },
+      {
+        "name": "Gengar",
+        "speed": 178,
+        "delta": 9
+      },
+      {
+        "name": "Zoroark de Hisui",
+        "speed": 178,
+        "delta": 9
+      },
+      {
+        "name": "Espathra",
+        "speed": 172,
+        "delta": 3
+      },
+      {
+        "name": "Delphox",
+        "speed": 171,
+        "delta": 2
+      }
+    ],
+    "outspeeds_me_scarf_vs_opt": [
+      {
+        "name": "Greninja",
+        "speed": 286,
+        "delta": 117
+      },
+      {
+        "name": "Whimsicott",
+        "speed": 276,
+        "delta": 107
+      },
+      {
+        "name": "Gengar",
+        "speed": 267,
+        "delta": 98
+      },
+      {
+        "name": "Zoroark de Hisui",
+        "speed": 267,
+        "delta": 98
+      },
+      {
+        "name": "Espathra",
+        "speed": 258,
+        "delta": 89
+      },
+      {
+        "name": "Delphox",
+        "speed": 256,
+        "delta": 87
+      },
+      {
+        "name": "Charizard",
+        "speed": 250,
+        "delta": 81
+      },
+      {
+        "name": "Typhlosion de Hisui",
+        "speed": 241,
+        "delta": 72
+      },
+      {
+        "name": "Dragonite",
+        "speed": 217,
+        "delta": 48
+      },
+      {
+        "name": "Blastoise",
+        "speed": 214,
+        "delta": 45
+      },
+      {
+        "name": "Corviknight",
+        "speed": 195,
+        "delta": 26
+      },
+      {
+        "name": "Emboar",
+        "speed": 192,
+        "delta": 23
+      },
+      {
+        "name": "Incineroar",
+        "speed": 184,
+        "delta": 15
+      }
+    ],
+    "outspeeds_me_scarf_vs_scarf": [
+      {
+        "name": "Greninja",
+        "speed": 286,
+        "delta": 33
+      },
+      {
+        "name": "Whimsicott",
+        "speed": 276,
+        "delta": 23
+      },
+      {
+        "name": "Gengar",
+        "speed": 267,
+        "delta": 14
+      },
+      {
+        "name": "Zoroark de Hisui",
+        "speed": 267,
+        "delta": 14
+      },
+      {
+        "name": "Espathra",
+        "speed": 258,
+        "delta": 5
+      },
+      {
+        "name": "Delphox",
+        "speed": 256,
+        "delta": 3
+      }
+    ]
+  },
+  {
+    "name": "Charizard",
+    "type1": "Fuego",
+    "type2": "Volador",
+    "base_speed": 100,
+    "speeds": {
+      "bare": 120,
+      "optimized": 167,
+      "scarfed": 250
+    },
+    "outspeeds_me_opt_vs_opt": [
+      {
+        "name": "Greninja",
+        "speed": 191,
+        "delta": 24
+      },
+      {
+        "name": "Whimsicott",
+        "speed": 184,
+        "delta": 17
+      },
+      {
+        "name": "Gengar",
+        "speed": 178,
+        "delta": 11
+      },
+      {
+        "name": "Zoroark de Hisui",
+        "speed": 178,
+        "delta": 11
+      },
+      {
+        "name": "Espathra",
+        "speed": 172,
+        "delta": 5
+      },
+      {
+        "name": "Delphox",
+        "speed": 171,
+        "delta": 4
+      },
+      {
+        "name": "Garchomp",
+        "speed": 169,
+        "delta": 2
+      }
+    ],
+    "outspeeds_me_scarf_vs_opt": [
+      {
+        "name": "Greninja",
+        "speed": 286,
+        "delta": 119
+      },
+      {
+        "name": "Whimsicott",
+        "speed": 276,
+        "delta": 109
+      },
+      {
+        "name": "Gengar",
+        "speed": 267,
+        "delta": 100
+      },
+      {
+        "name": "Zoroark de Hisui",
+        "speed": 267,
+        "delta": 100
+      },
+      {
+        "name": "Espathra",
+        "speed": 258,
+        "delta": 91
+      },
+      {
+        "name": "Delphox",
+        "speed": 256,
+        "delta": 89
+      },
+      {
+        "name": "Garchomp",
+        "speed": 253,
+        "delta": 86
+      },
+      {
+        "name": "Typhlosion de Hisui",
+        "speed": 241,
+        "delta": 74
+      },
+      {
+        "name": "Dragonite",
+        "speed": 217,
+        "delta": 50
+      },
+      {
+        "name": "Blastoise",
+        "speed": 214,
+        "delta": 47
+      },
+      {
+        "name": "Corviknight",
+        "speed": 195,
+        "delta": 28
+      },
+      {
+        "name": "Emboar",
+        "speed": 192,
+        "delta": 25
+      },
+      {
+        "name": "Incineroar",
+        "speed": 184,
+        "delta": 17
+      }
+    ],
+    "outspeeds_me_scarf_vs_scarf": [
+      {
+        "name": "Greninja",
+        "speed": 286,
+        "delta": 36
+      },
+      {
+        "name": "Whimsicott",
+        "speed": 276,
+        "delta": 26
+      },
+      {
+        "name": "Gengar",
+        "speed": 267,
+        "delta": 17
+      },
+      {
+        "name": "Zoroark de Hisui",
+        "speed": 267,
+        "delta": 17
+      },
+      {
+        "name": "Espathra",
+        "speed": 258,
+        "delta": 8
+      },
+      {
+        "name": "Delphox",
+        "speed": 256,
+        "delta": 6
+      },
+      {
+        "name": "Garchomp",
+        "speed": 253,
+        "delta": 3
+      }
+    ]
+  },
+  {
+    "name": "Typhlosion de Hisui",
+    "type1": "Fuego",
+    "type2": "Fantasma",
+    "base_speed": 95,
+    "speeds": {
+      "bare": 115,
+      "optimized": 161,
+      "scarfed": 241
+    },
+    "outspeeds_me_opt_vs_opt": [
+      {
+        "name": "Greninja",
+        "speed": 191,
+        "delta": 30
+      },
+      {
+        "name": "Whimsicott",
+        "speed": 184,
+        "delta": 23
+      },
+      {
+        "name": "Gengar",
+        "speed": 178,
+        "delta": 17
+      },
+      {
+        "name": "Zoroark de Hisui",
+        "speed": 178,
+        "delta": 17
+      },
+      {
+        "name": "Espathra",
+        "speed": 172,
+        "delta": 11
+      },
+      {
+        "name": "Delphox",
+        "speed": 171,
+        "delta": 10
+      },
+      {
+        "name": "Garchomp",
+        "speed": 169,
+        "delta": 8
+      },
+      {
+        "name": "Charizard",
+        "speed": 167,
+        "delta": 6
+      }
+    ],
+    "outspeeds_me_scarf_vs_opt": [
+      {
+        "name": "Greninja",
+        "speed": 286,
+        "delta": 125
+      },
+      {
+        "name": "Whimsicott",
+        "speed": 276,
+        "delta": 115
+      },
+      {
+        "name": "Gengar",
+        "speed": 267,
+        "delta": 106
+      },
+      {
+        "name": "Zoroark de Hisui",
+        "speed": 267,
+        "delta": 106
+      },
+      {
+        "name": "Espathra",
+        "speed": 258,
+        "delta": 97
+      },
+      {
+        "name": "Delphox",
+        "speed": 256,
+        "delta": 95
+      },
+      {
+        "name": "Garchomp",
+        "speed": 253,
+        "delta": 92
+      },
+      {
+        "name": "Charizard",
+        "speed": 250,
+        "delta": 89
+      },
+      {
+        "name": "Dragonite",
+        "speed": 217,
+        "delta": 56
+      },
+      {
+        "name": "Blastoise",
+        "speed": 214,
+        "delta": 53
+      },
+      {
+        "name": "Corviknight",
+        "speed": 195,
+        "delta": 34
+      },
+      {
+        "name": "Emboar",
+        "speed": 192,
+        "delta": 31
+      },
+      {
+        "name": "Incineroar",
+        "speed": 184,
+        "delta": 23
+      }
+    ],
+    "outspeeds_me_scarf_vs_scarf": [
+      {
+        "name": "Greninja",
+        "speed": 286,
+        "delta": 45
+      },
+      {
+        "name": "Whimsicott",
+        "speed": 276,
+        "delta": 35
+      },
+      {
+        "name": "Gengar",
+        "speed": 267,
+        "delta": 26
+      },
+      {
+        "name": "Zoroark de Hisui",
+        "speed": 267,
+        "delta": 26
+      },
+      {
+        "name": "Espathra",
+        "speed": 258,
+        "delta": 17
+      },
+      {
+        "name": "Delphox",
+        "speed": 256,
+        "delta": 15
+      },
+      {
+        "name": "Garchomp",
+        "speed": 253,
+        "delta": 12
+      },
+      {
+        "name": "Charizard",
+        "speed": 250,
+        "delta": 9
+      }
+    ]
+  },
+  {
+    "name": "Dragonite",
+    "type1": "Dragon",
+    "type2": "Volador",
+    "base_speed": 80,
+    "speeds": {
+      "bare": 100,
+      "optimized": 145,
+      "scarfed": 217
+    },
+    "outspeeds_me_opt_vs_opt": [
+      {
+        "name": "Greninja",
+        "speed": 191,
+        "delta": 46
+      },
+      {
+        "name": "Whimsicott",
+        "speed": 184,
+        "delta": 39
+      },
+      {
+        "name": "Gengar",
+        "speed": 178,
+        "delta": 33
+      },
+      {
+        "name": "Zoroark de Hisui",
+        "speed": 178,
+        "delta": 33
+      },
+      {
+        "name": "Espathra",
+        "speed": 172,
+        "delta": 27
+      },
+      {
+        "name": "Delphox",
+        "speed": 171,
+        "delta": 26
+      },
+      {
+        "name": "Garchomp",
+        "speed": 169,
+        "delta": 24
+      },
+      {
+        "name": "Charizard",
+        "speed": 167,
+        "delta": 22
+      },
+      {
+        "name": "Typhlosion de Hisui",
+        "speed": 161,
+        "delta": 16
+      }
+    ],
+    "outspeeds_me_scarf_vs_opt": [
+      {
+        "name": "Greninja",
+        "speed": 286,
+        "delta": 141
+      },
+      {
+        "name": "Whimsicott",
+        "speed": 276,
+        "delta": 131
+      },
+      {
+        "name": "Gengar",
+        "speed": 267,
+        "delta": 122
+      },
+      {
+        "name": "Zoroark de Hisui",
+        "speed": 267,
+        "delta": 122
+      },
+      {
+        "name": "Espathra",
+        "speed": 258,
+        "delta": 113
+      },
+      {
+        "name": "Delphox",
+        "speed": 256,
+        "delta": 111
+      },
+      {
+        "name": "Garchomp",
+        "speed": 253,
+        "delta": 108
+      },
+      {
+        "name": "Charizard",
+        "speed": 250,
+        "delta": 105
+      },
+      {
+        "name": "Typhlosion de Hisui",
+        "speed": 241,
+        "delta": 96
+      },
+      {
+        "name": "Blastoise",
+        "speed": 214,
+        "delta": 69
+      },
+      {
+        "name": "Corviknight",
+        "speed": 195,
+        "delta": 50
+      },
+      {
+        "name": "Emboar",
+        "speed": 192,
+        "delta": 47
+      },
+      {
+        "name": "Incineroar",
+        "speed": 184,
+        "delta": 39
+      }
+    ],
+    "outspeeds_me_scarf_vs_scarf": [
+      {
+        "name": "Greninja",
+        "speed": 286,
+        "delta": 69
+      },
+      {
+        "name": "Whimsicott",
+        "speed": 276,
+        "delta": 59
+      },
+      {
+        "name": "Gengar",
+        "speed": 267,
+        "delta": 50
+      },
+      {
+        "name": "Zoroark de Hisui",
+        "speed": 267,
+        "delta": 50
+      },
+      {
+        "name": "Espathra",
+        "speed": 258,
+        "delta": 41
+      },
+      {
+        "name": "Delphox",
+        "speed": 256,
+        "delta": 39
+      },
+      {
+        "name": "Garchomp",
+        "speed": 253,
+        "delta": 36
+      },
+      {
+        "name": "Charizard",
+        "speed": 250,
+        "delta": 33
+      },
+      {
+        "name": "Typhlosion de Hisui",
+        "speed": 241,
+        "delta": 24
+      }
+    ]
+  },
+  {
+    "name": "Blastoise",
+    "type1": "Agua",
+    "type2": "-",
+    "base_speed": 78,
+    "speeds": {
+      "bare": 98,
+      "optimized": 143,
+      "scarfed": 214
+    },
+    "outspeeds_me_opt_vs_opt": [
+      {
+        "name": "Greninja",
+        "speed": 191,
+        "delta": 48
+      },
+      {
+        "name": "Whimsicott",
+        "speed": 184,
+        "delta": 41
+      },
+      {
+        "name": "Gengar",
+        "speed": 178,
+        "delta": 35
+      },
+      {
+        "name": "Zoroark de Hisui",
+        "speed": 178,
+        "delta": 35
+      },
+      {
+        "name": "Espathra",
+        "speed": 172,
+        "delta": 29
+      },
+      {
+        "name": "Delphox",
+        "speed": 171,
+        "delta": 28
+      },
+      {
+        "name": "Garchomp",
+        "speed": 169,
+        "delta": 26
+      },
+      {
+        "name": "Charizard",
+        "speed": 167,
+        "delta": 24
+      },
+      {
+        "name": "Typhlosion de Hisui",
+        "speed": 161,
+        "delta": 18
+      },
+      {
+        "name": "Dragonite",
+        "speed": 145,
+        "delta": 2
+      }
+    ],
+    "outspeeds_me_scarf_vs_opt": [
+      {
+        "name": "Greninja",
+        "speed": 286,
+        "delta": 143
+      },
+      {
+        "name": "Whimsicott",
+        "speed": 276,
+        "delta": 133
+      },
+      {
+        "name": "Gengar",
+        "speed": 267,
+        "delta": 124
+      },
+      {
+        "name": "Zoroark de Hisui",
+        "speed": 267,
+        "delta": 124
+      },
+      {
+        "name": "Espathra",
+        "speed": 258,
+        "delta": 115
+      },
+      {
+        "name": "Delphox",
+        "speed": 256,
+        "delta": 113
+      },
+      {
+        "name": "Garchomp",
+        "speed": 253,
+        "delta": 110
+      },
+      {
+        "name": "Charizard",
+        "speed": 250,
+        "delta": 107
+      },
+      {
+        "name": "Typhlosion de Hisui",
+        "speed": 241,
+        "delta": 98
+      },
+      {
+        "name": "Dragonite",
+        "speed": 217,
+        "delta": 74
+      },
+      {
+        "name": "Corviknight",
+        "speed": 195,
+        "delta": 52
+      },
+      {
+        "name": "Emboar",
+        "speed": 192,
+        "delta": 49
+      },
+      {
+        "name": "Incineroar",
+        "speed": 184,
+        "delta": 41
+      }
+    ],
+    "outspeeds_me_scarf_vs_scarf": [
+      {
+        "name": "Greninja",
+        "speed": 286,
+        "delta": 72
+      },
+      {
+        "name": "Whimsicott",
+        "speed": 276,
+        "delta": 62
+      },
+      {
+        "name": "Gengar",
+        "speed": 267,
+        "delta": 53
+      },
+      {
+        "name": "Zoroark de Hisui",
+        "speed": 267,
+        "delta": 53
+      },
+      {
+        "name": "Espathra",
+        "speed": 258,
+        "delta": 44
+      },
+      {
+        "name": "Delphox",
+        "speed": 256,
+        "delta": 42
+      },
+      {
+        "name": "Garchomp",
+        "speed": 253,
+        "delta": 39
+      },
+      {
+        "name": "Charizard",
+        "speed": 250,
+        "delta": 36
+      },
+      {
+        "name": "Typhlosion de Hisui",
+        "speed": 241,
+        "delta": 27
+      },
+      {
+        "name": "Dragonite",
+        "speed": 217,
+        "delta": 3
+      }
+    ]
+  },
+  {
+    "name": "Corviknight",
+    "type1": "Volador",
+    "type2": "Acero",
+    "base_speed": 67,
+    "speeds": {
+      "bare": 87,
+      "optimized": 130,
+      "scarfed": 195
+    },
+    "outspeeds_me_opt_vs_opt": [
+      {
+        "name": "Greninja",
+        "speed": 191,
+        "delta": 61
+      },
+      {
+        "name": "Whimsicott",
+        "speed": 184,
+        "delta": 54
+      },
+      {
+        "name": "Gengar",
+        "speed": 178,
+        "delta": 48
+      },
+      {
+        "name": "Zoroark de Hisui",
+        "speed": 178,
+        "delta": 48
+      },
+      {
+        "name": "Espathra",
+        "speed": 172,
+        "delta": 42
+      },
+      {
+        "name": "Delphox",
+        "speed": 171,
+        "delta": 41
+      },
+      {
+        "name": "Garchomp",
+        "speed": 169,
+        "delta": 39
+      },
+      {
+        "name": "Charizard",
+        "speed": 167,
+        "delta": 37
+      },
+      {
+        "name": "Typhlosion de Hisui",
+        "speed": 161,
+        "delta": 31
+      },
+      {
+        "name": "Dragonite",
+        "speed": 145,
+        "delta": 15
+      },
+      {
+        "name": "Blastoise",
+        "speed": 143,
+        "delta": 13
+      }
+    ],
+    "outspeeds_me_scarf_vs_opt": [
+      {
+        "name": "Greninja",
+        "speed": 286,
+        "delta": 156
+      },
+      {
+        "name": "Whimsicott",
+        "speed": 276,
+        "delta": 146
+      },
+      {
+        "name": "Gengar",
+        "speed": 267,
+        "delta": 137
+      },
+      {
+        "name": "Zoroark de Hisui",
+        "speed": 267,
+        "delta": 137
+      },
+      {
+        "name": "Espathra",
+        "speed": 258,
+        "delta": 128
+      },
+      {
+        "name": "Delphox",
+        "speed": 256,
+        "delta": 126
+      },
+      {
+        "name": "Garchomp",
+        "speed": 253,
+        "delta": 123
+      },
+      {
+        "name": "Charizard",
+        "speed": 250,
+        "delta": 120
+      },
+      {
+        "name": "Typhlosion de Hisui",
+        "speed": 241,
+        "delta": 111
+      },
+      {
+        "name": "Dragonite",
+        "speed": 217,
+        "delta": 87
+      },
+      {
+        "name": "Blastoise",
+        "speed": 214,
+        "delta": 84
+      },
+      {
+        "name": "Emboar",
+        "speed": 192,
+        "delta": 62
+      },
+      {
+        "name": "Incineroar",
+        "speed": 184,
+        "delta": 54
+      },
+      {
+        "name": "Slowking",
+        "speed": 135,
+        "delta": 5
+      }
+    ],
+    "outspeeds_me_scarf_vs_scarf": [
+      {
+        "name": "Greninja",
+        "speed": 286,
+        "delta": 91
+      },
+      {
+        "name": "Whimsicott",
+        "speed": 276,
+        "delta": 81
+      },
+      {
+        "name": "Gengar",
+        "speed": 267,
+        "delta": 72
+      },
+      {
+        "name": "Zoroark de Hisui",
+        "speed": 267,
+        "delta": 72
+      },
+      {
+        "name": "Espathra",
+        "speed": 258,
+        "delta": 63
+      },
+      {
+        "name": "Delphox",
+        "speed": 256,
+        "delta": 61
+      },
+      {
+        "name": "Garchomp",
+        "speed": 253,
+        "delta": 58
+      },
+      {
+        "name": "Charizard",
+        "speed": 250,
+        "delta": 55
+      },
+      {
+        "name": "Typhlosion de Hisui",
+        "speed": 241,
+        "delta": 46
+      },
+      {
+        "name": "Dragonite",
+        "speed": 217,
+        "delta": 22
+      },
+      {
+        "name": "Blastoise",
+        "speed": 214,
+        "delta": 19
+      }
+    ]
+  },
+  {
+    "name": "Emboar",
+    "type1": "Fuego",
+    "type2": "Lucha",
+    "base_speed": 65,
+    "speeds": {
+      "bare": 85,
+      "optimized": 128,
+      "scarfed": 192
+    },
+    "outspeeds_me_opt_vs_opt": [
+      {
+        "name": "Greninja",
+        "speed": 191,
+        "delta": 63
+      },
+      {
+        "name": "Whimsicott",
+        "speed": 184,
+        "delta": 56
+      },
+      {
+        "name": "Gengar",
+        "speed": 178,
+        "delta": 50
+      },
+      {
+        "name": "Zoroark de Hisui",
+        "speed": 178,
+        "delta": 50
+      },
+      {
+        "name": "Espathra",
+        "speed": 172,
+        "delta": 44
+      },
+      {
+        "name": "Delphox",
+        "speed": 171,
+        "delta": 43
+      },
+      {
+        "name": "Garchomp",
+        "speed": 169,
+        "delta": 41
+      },
+      {
+        "name": "Charizard",
+        "speed": 167,
+        "delta": 39
+      },
+      {
+        "name": "Typhlosion de Hisui",
+        "speed": 161,
+        "delta": 33
+      },
+      {
+        "name": "Dragonite",
+        "speed": 145,
+        "delta": 17
+      },
+      {
+        "name": "Blastoise",
+        "speed": 143,
+        "delta": 15
+      },
+      {
+        "name": "Corviknight",
+        "speed": 130,
+        "delta": 2
+      }
+    ],
+    "outspeeds_me_scarf_vs_opt": [
+      {
+        "name": "Greninja",
+        "speed": 286,
+        "delta": 158
+      },
+      {
+        "name": "Whimsicott",
+        "speed": 276,
+        "delta": 148
+      },
+      {
+        "name": "Gengar",
+        "speed": 267,
+        "delta": 139
+      },
+      {
+        "name": "Zoroark de Hisui",
+        "speed": 267,
+        "delta": 139
+      },
+      {
+        "name": "Espathra",
+        "speed": 258,
+        "delta": 130
+      },
+      {
+        "name": "Delphox",
+        "speed": 256,
+        "delta": 128
+      },
+      {
+        "name": "Garchomp",
+        "speed": 253,
+        "delta": 125
+      },
+      {
+        "name": "Charizard",
+        "speed": 250,
+        "delta": 122
+      },
+      {
+        "name": "Typhlosion de Hisui",
+        "speed": 241,
+        "delta": 113
+      },
+      {
+        "name": "Dragonite",
+        "speed": 217,
+        "delta": 89
+      },
+      {
+        "name": "Blastoise",
+        "speed": 214,
+        "delta": 86
+      },
+      {
+        "name": "Corviknight",
+        "speed": 195,
+        "delta": 67
+      },
+      {
+        "name": "Incineroar",
+        "speed": 184,
+        "delta": 56
+      },
+      {
+        "name": "Slowking",
+        "speed": 135,
+        "delta": 7
+      }
+    ],
+    "outspeeds_me_scarf_vs_scarf": [
+      {
+        "name": "Greninja",
+        "speed": 286,
+        "delta": 94
+      },
+      {
+        "name": "Whimsicott",
+        "speed": 276,
+        "delta": 84
+      },
+      {
+        "name": "Gengar",
+        "speed": 267,
+        "delta": 75
+      },
+      {
+        "name": "Zoroark de Hisui",
+        "speed": 267,
+        "delta": 75
+      },
+      {
+        "name": "Espathra",
+        "speed": 258,
+        "delta": 66
+      },
+      {
+        "name": "Delphox",
+        "speed": 256,
+        "delta": 64
+      },
+      {
+        "name": "Garchomp",
+        "speed": 253,
+        "delta": 61
+      },
+      {
+        "name": "Charizard",
+        "speed": 250,
+        "delta": 58
+      },
+      {
+        "name": "Typhlosion de Hisui",
+        "speed": 241,
+        "delta": 49
+      },
+      {
+        "name": "Dragonite",
+        "speed": 217,
+        "delta": 25
+      },
+      {
+        "name": "Blastoise",
+        "speed": 214,
+        "delta": 22
+      },
+      {
+        "name": "Corviknight",
+        "speed": 195,
+        "delta": 3
+      }
+    ]
+  },
+  {
+    "name": "Incineroar",
+    "type1": "Fuego",
+    "type2": "Siniestro",
+    "base_speed": 60,
+    "speeds": {
+      "bare": 80,
+      "optimized": 123,
+      "scarfed": 184
+    },
+    "outspeeds_me_opt_vs_opt": [
+      {
+        "name": "Greninja",
+        "speed": 191,
+        "delta": 68
+      },
+      {
+        "name": "Whimsicott",
+        "speed": 184,
+        "delta": 61
+      },
+      {
+        "name": "Gengar",
+        "speed": 178,
+        "delta": 55
+      },
+      {
+        "name": "Zoroark de Hisui",
+        "speed": 178,
+        "delta": 55
+      },
+      {
+        "name": "Espathra",
+        "speed": 172,
+        "delta": 49
+      },
+      {
+        "name": "Delphox",
+        "speed": 171,
+        "delta": 48
+      },
+      {
+        "name": "Garchomp",
+        "speed": 169,
+        "delta": 46
+      },
+      {
+        "name": "Charizard",
+        "speed": 167,
+        "delta": 44
+      },
+      {
+        "name": "Typhlosion de Hisui",
+        "speed": 161,
+        "delta": 38
+      },
+      {
+        "name": "Dragonite",
+        "speed": 145,
+        "delta": 22
+      },
+      {
+        "name": "Blastoise",
+        "speed": 143,
+        "delta": 20
+      },
+      {
+        "name": "Corviknight",
+        "speed": 130,
+        "delta": 7
+      },
+      {
+        "name": "Emboar",
+        "speed": 128,
+        "delta": 5
+      }
+    ],
+    "outspeeds_me_scarf_vs_opt": [
+      {
+        "name": "Greninja",
+        "speed": 286,
+        "delta": 163
+      },
+      {
+        "name": "Whimsicott",
+        "speed": 276,
+        "delta": 153
+      },
+      {
+        "name": "Gengar",
+        "speed": 267,
+        "delta": 144
+      },
+      {
+        "name": "Zoroark de Hisui",
+        "speed": 267,
+        "delta": 144
+      },
+      {
+        "name": "Espathra",
+        "speed": 258,
+        "delta": 135
+      },
+      {
+        "name": "Delphox",
+        "speed": 256,
+        "delta": 133
+      },
+      {
+        "name": "Garchomp",
+        "speed": 253,
+        "delta": 130
+      },
+      {
+        "name": "Charizard",
+        "speed": 250,
+        "delta": 127
+      },
+      {
+        "name": "Typhlosion de Hisui",
+        "speed": 241,
+        "delta": 118
+      },
+      {
+        "name": "Dragonite",
+        "speed": 217,
+        "delta": 94
+      },
+      {
+        "name": "Blastoise",
+        "speed": 214,
+        "delta": 91
+      },
+      {
+        "name": "Corviknight",
+        "speed": 195,
+        "delta": 72
+      },
+      {
+        "name": "Emboar",
+        "speed": 192,
+        "delta": 69
+      },
+      {
+        "name": "Slowking",
+        "speed": 135,
+        "delta": 12
+      }
+    ],
+    "outspeeds_me_scarf_vs_scarf": [
+      {
+        "name": "Greninja",
+        "speed": 286,
+        "delta": 102
+      },
+      {
+        "name": "Whimsicott",
+        "speed": 276,
+        "delta": 92
+      },
+      {
+        "name": "Gengar",
+        "speed": 267,
+        "delta": 83
+      },
+      {
+        "name": "Zoroark de Hisui",
+        "speed": 267,
+        "delta": 83
+      },
+      {
+        "name": "Espathra",
+        "speed": 258,
+        "delta": 74
+      },
+      {
+        "name": "Delphox",
+        "speed": 256,
+        "delta": 72
+      },
+      {
+        "name": "Garchomp",
+        "speed": 253,
+        "delta": 69
+      },
+      {
+        "name": "Charizard",
+        "speed": 250,
+        "delta": 66
+      },
+      {
+        "name": "Typhlosion de Hisui",
+        "speed": 241,
+        "delta": 57
+      },
+      {
+        "name": "Dragonite",
+        "speed": 217,
+        "delta": 33
+      },
+      {
+        "name": "Blastoise",
+        "speed": 214,
+        "delta": 30
+      },
+      {
+        "name": "Corviknight",
+        "speed": 195,
+        "delta": 11
+      },
+      {
+        "name": "Emboar",
+        "speed": 192,
+        "delta": 8
+      }
+    ]
+  },
+  {
+    "name": "Slowking",
+    "type1": "Agua",
+    "type2": "Psiquico",
+    "base_speed": 30,
+    "speeds": {
+      "bare": 50,
+      "optimized": 90,
+      "scarfed": 135
+    },
+    "outspeeds_me_opt_vs_opt": [
+      {
+        "name": "Greninja",
+        "speed": 191,
+        "delta": 101
+      },
+      {
+        "name": "Whimsicott",
+        "speed": 184,
+        "delta": 94
+      },
+      {
+        "name": "Gengar",
+        "speed": 178,
+        "delta": 88
+      },
+      {
+        "name": "Zoroark de Hisui",
+        "speed": 178,
+        "delta": 88
+      },
+      {
+        "name": "Espathra",
+        "speed": 172,
+        "delta": 82
+      },
+      {
+        "name": "Delphox",
+        "speed": 171,
+        "delta": 81
+      },
+      {
+        "name": "Garchomp",
+        "speed": 169,
+        "delta": 79
+      },
+      {
+        "name": "Charizard",
+        "speed": 167,
+        "delta": 77
+      },
+      {
+        "name": "Typhlosion de Hisui",
+        "speed": 161,
+        "delta": 71
+      },
+      {
+        "name": "Dragonite",
+        "speed": 145,
+        "delta": 55
+      },
+      {
+        "name": "Blastoise",
+        "speed": 143,
+        "delta": 53
+      },
+      {
+        "name": "Corviknight",
+        "speed": 130,
+        "delta": 40
+      },
+      {
+        "name": "Emboar",
+        "speed": 128,
+        "delta": 38
+      },
+      {
+        "name": "Incineroar",
+        "speed": 123,
+        "delta": 33
+      }
+    ],
+    "outspeeds_me_scarf_vs_opt": [
+      {
+        "name": "Greninja",
+        "speed": 286,
+        "delta": 196
+      },
+      {
+        "name": "Whimsicott",
+        "speed": 276,
+        "delta": 186
+      },
+      {
+        "name": "Gengar",
+        "speed": 267,
+        "delta": 177
+      },
+      {
+        "name": "Zoroark de Hisui",
+        "speed": 267,
+        "delta": 177
+      },
+      {
+        "name": "Espathra",
+        "speed": 258,
+        "delta": 168
+      },
+      {
+        "name": "Delphox",
+        "speed": 256,
+        "delta": 166
+      },
+      {
+        "name": "Garchomp",
+        "speed": 253,
+        "delta": 163
+      },
+      {
+        "name": "Charizard",
+        "speed": 250,
+        "delta": 160
+      },
+      {
+        "name": "Typhlosion de Hisui",
+        "speed": 241,
+        "delta": 151
+      },
+      {
+        "name": "Dragonite",
+        "speed": 217,
+        "delta": 127
+      },
+      {
+        "name": "Blastoise",
+        "speed": 214,
+        "delta": 124
+      },
+      {
+        "name": "Corviknight",
+        "speed": 195,
+        "delta": 105
+      },
+      {
+        "name": "Emboar",
+        "speed": 192,
+        "delta": 102
+      },
+      {
+        "name": "Incineroar",
+        "speed": 184,
+        "delta": 94
+      }
+    ],
+    "outspeeds_me_scarf_vs_scarf": [
+      {
+        "name": "Greninja",
+        "speed": 286,
+        "delta": 151
+      },
+      {
+        "name": "Whimsicott",
+        "speed": 276,
+        "delta": 141
+      },
+      {
+        "name": "Gengar",
+        "speed": 267,
+        "delta": 132
+      },
+      {
+        "name": "Zoroark de Hisui",
+        "speed": 267,
+        "delta": 132
+      },
+      {
+        "name": "Espathra",
+        "speed": 258,
+        "delta": 123
+      },
+      {
+        "name": "Delphox",
+        "speed": 256,
+        "delta": 121
+      },
+      {
+        "name": "Garchomp",
+        "speed": 253,
+        "delta": 118
+      },
+      {
+        "name": "Charizard",
+        "speed": 250,
+        "delta": 115
+      },
+      {
+        "name": "Typhlosion de Hisui",
+        "speed": 241,
+        "delta": 106
+      },
+      {
+        "name": "Dragonite",
+        "speed": 217,
+        "delta": 82
+      },
+      {
+        "name": "Blastoise",
+        "speed": 214,
+        "delta": 79
+      },
+      {
+        "name": "Corviknight",
+        "speed": 195,
+        "delta": 60
+      },
+      {
+        "name": "Emboar",
+        "speed": 192,
+        "delta": 57
+      },
+      {
+        "name": "Incineroar",
+        "speed": 184,
+        "delta": 49
+      }
+    ]
+  }
+]

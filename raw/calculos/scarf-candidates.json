@@ -1,0 +1,285 @@
+[
+  {
+    "name": "Corviknight",
+    "types": [
+      "Volador",
+      "Acero"
+    ],
+    "spe_opt": 130,
+    "spe_scarf": 195,
+    "outspeed_normal": 3,
+    "outspeed_scarf": 14,
+    "scarf_jump": 11,
+    "se_count": 11,
+    "ohkos": 2,
+    "twohkos": 14,
+    "best_move": "Ataque Aéreo",
+    "best_move_type": "Volador",
+    "best_move_power": 140,
+    "score": 107.0
+  },
+  {
+    "name": "Emboar",
+    "types": [
+      "Fuego",
+      "Lucha"
+    ],
+    "spe_opt": 128,
+    "spe_scarf": 192,
+    "outspeed_normal": 2,
+    "outspeed_scarf": 14,
+    "scarf_jump": 12,
+    "se_count": 17,
+    "ohkos": 2,
+    "twohkos": 6,
+    "best_move": "Puño Certero",
+    "best_move_type": "Lucha",
+    "best_move_power": 150,
+    "score": 103.9
+  },
+  {
+    "name": "Typhlosion de Hisui",
+    "types": [
+      "Fuego",
+      "Fantasma"
+    ],
+    "spe_opt": 161,
+    "spe_scarf": 241,
+    "outspeed_normal": 6,
+    "outspeed_scarf": 14,
+    "scarf_jump": 8,
+    "se_count": 18,
+    "ohkos": 4,
+    "twohkos": 6,
+    "best_move": "Estallido",
+    "best_move_type": "Fuego",
+    "best_move_power": 150,
+    "score": 103.0
+  },
+  {
+    "name": "Greninja",
+    "types": [
+      "Agua",
+      "Siniestro"
+    ],
+    "spe_opt": 191,
+    "spe_scarf": 286,
+    "outspeed_normal": 14,
+    "outspeed_scarf": 14,
+    "scarf_jump": 0,
+    "se_count": 18,
+    "ohkos": 7,
+    "twohkos": 11,
+    "best_move": "Hidrocañón",
+    "best_move_type": "Agua",
+    "best_move_power": 150,
+    "score": 85.5
+  },
+  {
+    "name": "Garchomp",
+    "types": [
+      "Dragon",
+      "Tierra"
+    ],
+    "spe_opt": 169,
+    "spe_scarf": 253,
+    "outspeed_normal": 8,
+    "outspeed_scarf": 14,
+    "scarf_jump": 6,
+    "se_count": 18,
+    "ohkos": 1,
+    "twohkos": 10,
+    "best_move": "Cometa Draco",
+    "best_move_type": "Dragón",
+    "best_move_power": 130,
+    "score": 85.5
+  },
+  {
+    "name": "Incineroar",
+    "types": [
+      "Fuego",
+      "Siniestro"
+    ],
+    "spe_opt": 123,
+    "spe_scarf": 184,
+    "outspeed_normal": 1,
+    "outspeed_scarf": 12,
+    "scarf_jump": 11,
+    "se_count": 12,
+    "ohkos": 0,
+    "twohkos": 6,
+    "best_move": "Desahogo",
+    "best_move_type": "Siniestro",
+    "best_move_power": 75,
+    "score": 80.2
+  },
+  {
+    "name": "Zoroark de Hisui",
+    "types": [
+      "Normal",
+      "Fantasma"
+    ],
+    "spe_opt": 178,
+    "spe_scarf": 267,
+    "outspeed_normal": 11,
+    "outspeed_scarf": 14,
+    "scarf_jump": 3,
+    "se_count": 17,
+    "ohkos": 1,
+    "twohkos": 11,
+    "best_move": "Hiperrayo",
+    "best_move_type": "Normal",
+    "best_move_power": 150,
+    "score": 74.4
+  },
+  {
+    "name": "Dragonite",
+    "types": [
+      "Dragon",
+      "Volador"
+    ],
+    "spe_opt": 145,
+    "spe_scarf": 217,
+    "outspeed_normal": 5,
+    "outspeed_scarf": 14,
+    "scarf_jump": 9,
+    "se_count": 14,
+    "ohkos": 0,
+    "twohkos": 2,
+    "best_move": "Vasto Impacto",
+    "best_move_type": "Dragón",
+    "best_move_power": 60,
+    "score": 68.2
+  },
+  {
+    "name": "Charizard",
+    "types": [
+      "Fuego",
+      "Volador"
+    ],
+    "spe_opt": 167,
+    "spe_scarf": 250,
+    "outspeed_normal": 7,
+    "outspeed_scarf": 14,
+    "scarf_jump": 7,
+    "se_count": 10,
+    "ohkos": 1,
+    "twohkos": 4,
+    "best_move": "Cólera Ardiente",
+    "best_move_type": "Fuego",
+    "best_move_power": 75,
+    "score": 65.3
+  },
+  {
+    "name": "Blastoise",
+    "types": [
+      "Agua"
+    ],
+    "spe_opt": 143,
+    "spe_scarf": 214,
+    "outspeed_normal": 4,
+    "outspeed_scarf": 14,
+    "scarf_jump": 10,
+    "se_count": 3,
+    "ohkos": 0,
+    "twohkos": 5,
+    "best_move": "Chilling Water",
+    "best_move_type": "Agua",
+    "best_move_power": 50,
+    "score": 61.6
+  },
+  {
+    "name": "Espathra",
+    "types": [
+      "Psiquico"
+    ],
+    "spe_opt": 172,
+    "spe_scarf": 258,
+    "outspeed_normal": 10,
+    "outspeed_scarf": 14,
+    "scarf_jump": 4,
+    "se_count": 16,
+    "ohkos": 0,
+    "twohkos": 2,
+    "best_move": "Psíquico",
+    "best_move_type": "Psíquico",
+    "best_move_power": 90,
+    "score": 52.6
+  },
+  {
+    "name": "Whimsicott",
+    "types": [
+      "Planta",
+      "Hada"
+    ],
+    "spe_opt": 184,
+    "spe_scarf": 276,
+    "outspeed_normal": 13,
+    "outspeed_scarf": 14,
+    "scarf_jump": 1,
+    "se_count": 11,
+    "ohkos": 2,
+    "twohkos": 3,
+    "best_move": "Rayo Solar",
+    "best_move_type": "Planta",
+    "best_move_power": 120,
+    "score": 47.7
+  },
+  {
+    "name": "Slowking",
+    "types": [
+      "Agua",
+      "Psiquico"
+    ],
+    "spe_opt": 90,
+    "spe_scarf": 135,
+    "outspeed_normal": 0,
+    "outspeed_scarf": 3,
+    "scarf_jump": 3,
+    "se_count": 8,
+    "ohkos": 0,
+    "twohkos": 5,
+    "best_move": "Hidroariete",
+    "best_move_type": "Agua",
+    "best_move_power": 85,
+    "score": 38.5
+  },
+  {
+    "name": "Delphox",
+    "types": [
+      "Fuego",
+      "Psiquico"
+    ],
+    "spe_opt": 171,
+    "spe_scarf": 256,
+    "outspeed_normal": 9,
+    "outspeed_scarf": 14,
+    "scarf_jump": 5,
+    "se_count": 2,
+    "ohkos": 0,
+    "twohkos": 2,
+    "best_move": "Psicorruido",
+    "best_move_type": "Psíquico",
+    "best_move_power": 75,
+    "score": 35.5
+  },
+  {
+    "name": "Gengar",
+    "types": [
+      "Fantasma",
+      "Veneno"
+    ],
+    "spe_opt": 178,
+    "spe_scarf": 267,
+    "outspeed_normal": 11,
+    "outspeed_scarf": 14,
+    "scarf_jump": 3,
+    "se_count": 2,
+    "ohkos": 0,
+    "twohkos": 0,
+    "best_move": "Tera Blast",
+    "best_move_type": "Normal",
+    "best_move_power": 80,
+    "score": 23.9
+  }
+]

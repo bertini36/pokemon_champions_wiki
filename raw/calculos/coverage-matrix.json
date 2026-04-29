@@ -1,0 +1,2241 @@
+[
+  {
+    "name": "Greninja",
+    "type1": "Agua",
+    "type2": "Siniestro",
+    "movepool_attacking_types": [
+      "Agua",
+      "Bicho",
+      "Fantasma",
+      "Hielo",
+      "Lucha",
+      "Normal",
+      "Planta",
+      "Psiquico",
+      "Roca",
+      "Siniestro",
+      "Tierra",
+      "Veneno",
+      "Volador"
+    ],
+    "coverage": {
+      "Normal": {
+        "best_mult": 2.0,
+        "best_move": "Demolición",
+        "best_move_type": "Lucha",
+        "best_move_power": 75
+      },
+      "Fuego": {
+        "best_mult": 2.0,
+        "best_move": "Hidrocañón",
+        "best_move_type": "Agua",
+        "best_move_power": 150
+      },
+      "Agua": {
+        "best_mult": 2.0,
+        "best_move": "Trailblaze",
+        "best_move_type": "Planta",
+        "best_move_power": 50
+      },
+      "Eléctrico": {
+        "best_mult": 2.0,
+        "best_move": "Excavar",
+        "best_move_type": "Tierra",
+        "best_move_power": 80
+      },
+      "Planta": {
+        "best_mult": 2.0,
+        "best_move": "Ventisca",
+        "best_move_type": "Hielo",
+        "best_move_power": 110
+      },
+      "Hielo": {
+        "best_mult": 2.0,
+        "best_move": "Avalancha",
+        "best_move_type": "Roca",
+        "best_move_power": 75
+      },
+      "Lucha": {
+        "best_mult": 2.0,
+        "best_move": "Paranormal",
+        "best_move_type": "Psíquico",
+        "best_move_power": 80
+      },
+      "Veneno": {
+        "best_mult": 2.0,
+        "best_move": "Excavar",
+        "best_move_type": "Tierra",
+        "best_move_power": 80
+      },
+      "Tierra": {
+        "best_mult": 2.0,
+        "best_move": "Ventisca",
+        "best_move_type": "Hielo",
+        "best_move_power": 110
+      },
+      "Volador": {
+        "best_mult": 2.0,
+        "best_move": "Ventisca",
+        "best_move_type": "Hielo",
+        "best_move_power": 110
+      },
+      "Psiquico": {
+        "best_mult": 2.0,
+        "best_move": "Sombra Vil",
+        "best_move_type": "Fantasma",
+        "best_move_power": 40
+      },
+      "Bicho": {
+        "best_mult": 2.0,
+        "best_move": "Avalancha",
+        "best_move_type": "Roca",
+        "best_move_power": 75
+      },
+      "Roca": {
+        "best_mult": 2.0,
+        "best_move": "Hidrocañón",
+        "best_move_type": "Agua",
+        "best_move_power": 150
+      },
+      "Fantasma": {
+        "best_mult": 2.0,
+        "best_move": "Sombra Vil",
+        "best_move_type": "Fantasma",
+        "best_move_power": 40
+      },
+      "Dragon": {
+        "best_mult": 2.0,
+        "best_move": "Ventisca",
+        "best_move_type": "Hielo",
+        "best_move_power": 110
+      },
+      "Siniestro": {
+        "best_mult": 2.0,
+        "best_move": "Demolición",
+        "best_move_type": "Lucha",
+        "best_move_power": 75
+      },
+      "Acero": {
+        "best_mult": 2.0,
+        "best_move": "Excavar",
+        "best_move_type": "Tierra",
+        "best_move_power": 80
+      },
+      "Hada": {
+        "best_mult": 2.0,
+        "best_move": "Lanzamugre",
+        "best_move_type": "Veneno",
+        "best_move_power": 120
+      }
+    },
+    "se_types": [
+      "Acero",
+      "Agua",
+      "Bicho",
+      "Dragon",
+      "Eléctrico",
+      "Fantasma",
+      "Fuego",
+      "Hada",
+      "Hielo",
+      "Lucha",
+      "Normal",
+      "Planta",
+      "Psiquico",
+      "Roca",
+      "Siniestro",
+      "Tierra",
+      "Veneno",
+      "Volador"
+    ],
+    "nve_or_neutral_types": [],
+    "no_effect_types": [],
+    "se_count": 18,
+    "no_effect_count": 0
+  },
+  {
+    "name": "Garchomp",
+    "type1": "Dragon",
+    "type2": "Tierra",
+    "movepool_attacking_types": [
+      "Acero",
+      "Agua",
+      "Dragon",
+      "Electrico",
+      "Fantasma",
+      "Fuego",
+      "Lucha",
+      "Normal",
+      "Roca",
+      "Siniestro",
+      "Tierra",
+      "Veneno",
+      "Volador"
+    ],
+    "coverage": {
+      "Normal": {
+        "best_mult": 2.0,
+        "best_move": "Demolición",
+        "best_move_type": "Lucha",
+        "best_move_power": 75
+      },
+      "Fuego": {
+        "best_mult": 2.0,
+        "best_move": "Surf",
+        "best_move_type": "Agua",
+        "best_move_power": 90
+      },
+      "Agua": {
+        "best_mult": 2.0,
+        "best_move": "Colmillo Rayo",
+        "best_move_type": "Eléctrico",
+        "best_move_power": 65
+      },
+      "Eléctrico": {
+        "best_mult": 2.0,
+        "best_move": "Terremoto",
+        "best_move_type": "Tierra",
+        "best_move_power": 100
+      },
+      "Planta": {
+        "best_mult": 2.0,
+        "best_move": "Llamarada",
+        "best_move_type": "Fuego",
+        "best_move_power": 110
+      },
+      "Hielo": {
+        "best_mult": 2.0,
+        "best_move": "Llamarada",
+        "best_move_type": "Fuego",
+        "best_move_power": 110
+      },
+      "Lucha": {
+        "best_mult": 2.0,
+        "best_move": "Golpe Aéreo",
+        "best_move_type": "Volador",
+        "best_move_power": 60
+      },
+      "Veneno": {
+        "best_mult": 2.0,
+        "best_move": "Terremoto",
+        "best_move_type": "Tierra",
+        "best_move_power": 100
+      },
+      "Tierra": {
+        "best_mult": 2.0,
+        "best_move": "Surf",
+        "best_move_type": "Agua",
+        "best_move_power": 90
+      },
+      "Volador": {
+        "best_mult": 2.0,
+        "best_move": "Roca Afilada",
+        "best_move_type": "Roca",
+        "best_move_power": 100
+      },
+      "Psiquico": {
+        "best_mult": 2.0,
+        "best_move": "Triturar",
+        "best_move_type": "Siniestro",
+        "best_move_power": 80
+      },
+      "Bicho": {
+        "best_mult": 2.0,
+        "best_move": "Llamarada",
+        "best_move_type": "Fuego",
+        "best_move_power": 110
+      },
+      "Roca": {
+        "best_mult": 2.0,
+        "best_move": "Surf",
+        "best_move_type": "Agua",
+        "best_move_power": 90
+      },
+      "Fantasma": {
+        "best_mult": 2.0,
+        "best_move": "Triturar",
+        "best_move_type": "Siniestro",
+        "best_move_power": 80
+      },
+      "Dragon": {
+        "best_mult": 2.0,
+        "best_move": "Cometa Draco",
+        "best_move_type": "Dragón",
+        "best_move_power": 130
+      },
+      "Siniestro": {
+        "best_mult": 2.0,
+        "best_move": "Demolición",
+        "best_move_type": "Lucha",
+        "best_move_power": 75
+      },
+      "Acero": {
+        "best_mult": 2.0,
+        "best_move": "Llamarada",
+        "best_move_type": "Fuego",
+        "best_move_power": 110
+      },
+      "Hada": {
+        "best_mult": 2.0,
+        "best_move": "Cola Férrea",
+        "best_move_type": "Acero",
+        "best_move_power": 100
+      }
+    },
+    "se_types": [
+      "Acero",
+      "Agua",
+      "Bicho",
+      "Dragon",
+      "Eléctrico",
+      "Fantasma",
+      "Fuego",
+      "Hada",
+      "Hielo",
+      "Lucha",
+      "Normal",
+      "Planta",
+      "Psiquico",
+      "Roca",
+      "Siniestro",
+      "Tierra",
+      "Veneno",
+      "Volador"
+    ],
+    "nve_or_neutral_types": [],
+    "no_effect_types": [],
+    "se_count": 18,
+    "no_effect_count": 0
+  },
+  {
+    "name": "Typhlosion de Hisui",
+    "type1": "Fuego",
+    "type2": "Fantasma",
+    "movepool_attacking_types": [
+      "Acero",
+      "Electrico",
+      "Fantasma",
+      "Fuego",
+      "Hada",
+      "Lucha",
+      "Normal",
+      "Planta",
+      "Psiquico",
+      "Roca",
+      "Tierra",
+      "Volador"
+    ],
+    "coverage": {
+      "Normal": {
+        "best_mult": 2.0,
+        "best_move": "Puño Certero",
+        "best_move_type": "Lucha",
+        "best_move_power": 150
+      },
+      "Fuego": {
+        "best_mult": 2.0,
+        "best_move": "Terremoto",
+        "best_move_type": "Tierra",
+        "best_move_power": 100
+      },
+      "Agua": {
+        "best_mult": 2.0,
+        "best_move": "Voltio Cruel",
+        "best_move_type": "Eléctrico",
+        "best_move_power": 90
+      },
+      "Eléctrico": {
+        "best_mult": 2.0,
+        "best_move": "Terremoto",
+        "best_move_type": "Tierra",
+        "best_move_power": 100
+      },
+      "Planta": {
+        "best_mult": 2.0,
+        "best_move": "Estallido",
+        "best_move_type": "Fuego",
+        "best_move_power": 150
+      },
+      "Hielo": {
+        "best_mult": 2.0,
+        "best_move": "Estallido",
+        "best_move_type": "Fuego",
+        "best_move_power": 150
+      },
+      "Lucha": {
+        "best_mult": 2.0,
+        "best_move": "Golpe Aéreo",
+        "best_move_type": "Volador",
+        "best_move_power": 60
+      },
+      "Veneno": {
+        "best_mult": 2.0,
+        "best_move": "Terremoto",
+        "best_move_type": "Tierra",
+        "best_move_power": 100
+      },
+      "Tierra": {
+        "best_mult": 2.0,
+        "best_move": "Rayo Solar",
+        "best_move_type": "Planta",
+        "best_move_power": 120
+      },
+      "Volador": {
+        "best_mult": 2.0,
+        "best_move": "Voltio Cruel",
+        "best_move_type": "Eléctrico",
+        "best_move_power": 90
+      },
+      "Psiquico": {
+        "best_mult": 2.0,
+        "best_move": "Poltergeist",
+        "best_move_type": "Fantasma",
+        "best_move_power": 110
+      },
+      "Bicho": {
+        "best_mult": 2.0,
+        "best_move": "Estallido",
+        "best_move_type": "Fuego",
+        "best_move_power": 150
+      },
+      "Roca": {
+        "best_mult": 2.0,
+        "best_move": "Rayo Solar",
+        "best_move_type": "Planta",
+        "best_move_power": 120
+      },
+      "Fantasma": {
+        "best_mult": 2.0,
+        "best_move": "Poltergeist",
+        "best_move_type": "Fantasma",
+        "best_move_power": 110
+      },
+      "Dragon": {
+        "best_mult": 2.0,
+        "best_move": "Carantoña",
+        "best_move_type": "Hada",
+        "best_move_power": 90
+      },
+      "Siniestro": {
+        "best_mult": 2.0,
+        "best_move": "Puño Certero",
+        "best_move_type": "Lucha",
+        "best_move_power": 150
+      },
+      "Acero": {
+        "best_mult": 2.0,
+        "best_move": "Estallido",
+        "best_move_type": "Fuego",
+        "best_move_power": 150
+      },
+      "Hada": {
+        "best_mult": 2.0,
+        "best_move": "Cola Férrea",
+        "best_move_type": "Acero",
+        "best_move_power": 100
+      }
+    },
+    "se_types": [
+      "Acero",
+      "Agua",
+      "Bicho",
+      "Dragon",
+      "Eléctrico",
+      "Fantasma",
+      "Fuego",
+      "Hada",
+      "Hielo",
+      "Lucha",
+      "Normal",
+      "Planta",
+      "Psiquico",
+      "Roca",
+      "Siniestro",
+      "Tierra",
+      "Veneno",
+      "Volador"
+    ],
+    "nve_or_neutral_types": [],
+    "no_effect_types": [],
+    "se_count": 18,
+    "no_effect_count": 0
+  },
+  {
+    "name": "Emboar",
+    "type1": "Fuego",
+    "type2": "Lucha",
+    "movepool_attacking_types": [
+      "Acero",
+      "Agua",
+      "Electrico",
+      "Fuego",
+      "Lucha",
+      "Normal",
+      "Planta",
+      "Psiquico",
+      "Roca",
+      "Siniestro",
+      "Tierra",
+      "Veneno"
+    ],
+    "coverage": {
+      "Normal": {
+        "best_mult": 2.0,
+        "best_move": "Puño Certero",
+        "best_move_type": "Lucha",
+        "best_move_power": 150
+      },
+      "Fuego": {
+        "best_mult": 2.0,
+        "best_move": "Terremoto",
+        "best_move_type": "Tierra",
+        "best_move_power": 100
+      },
+      "Agua": {
+        "best_mult": 2.0,
+        "best_move": "Voltio Cruel",
+        "best_move_type": "Eléctrico",
+        "best_move_power": 90
+      },
+      "Eléctrico": {
+        "best_mult": 2.0,
+        "best_move": "Terremoto",
+        "best_move_type": "Tierra",
+        "best_move_power": 100
+      },
+      "Planta": {
+        "best_mult": 2.0,
+        "best_move": "Anillo Ígneo",
+        "best_move_type": "Fuego",
+        "best_move_power": 150
+      },
+      "Hielo": {
+        "best_mult": 2.0,
+        "best_move": "Anillo Ígneo",
+        "best_move_type": "Fuego",
+        "best_move_power": 150
+      },
+      "Lucha": {
+        "best_mult": 2.0,
+        "best_move": "Cabezazo Zen",
+        "best_move_type": "Psíquico",
+        "best_move_power": 80
+      },
+      "Veneno": {
+        "best_mult": 2.0,
+        "best_move": "Terremoto",
+        "best_move_type": "Tierra",
+        "best_move_power": 100
+      },
+      "Tierra": {
+        "best_mult": 2.0,
+        "best_move": "Rayo Solar",
+        "best_move_type": "Planta",
+        "best_move_power": 120
+      },
+      "Volador": {
+        "best_mult": 2.0,
+        "best_move": "Voltio Cruel",
+        "best_move_type": "Eléctrico",
+        "best_move_power": 90
+      },
+      "Psiquico": {
+        "best_mult": 2.0,
+        "best_move": "Golpe Bajo",
+        "best_move_type": "Siniestro",
+        "best_move_power": 70
+      },
+      "Bicho": {
+        "best_mult": 2.0,
+        "best_move": "Anillo Ígneo",
+        "best_move_type": "Fuego",
+        "best_move_power": 150
+      },
+      "Roca": {
+        "best_mult": 2.0,
+        "best_move": "Rayo Solar",
+        "best_move_type": "Planta",
+        "best_move_power": 120
+      },
+      "Fantasma": {
+        "best_mult": 2.0,
+        "best_move": "Golpe Bajo",
+        "best_move_type": "Siniestro",
+        "best_move_power": 70
+      },
+      "Dragon": {
+        "best_mult": 1.0,
+        "best_move": "Hiperrayo",
+        "best_move_type": "Normal",
+        "best_move_power": 150
+      },
+      "Siniestro": {
+        "best_mult": 2.0,
+        "best_move": "Puño Certero",
+        "best_move_type": "Lucha",
+        "best_move_power": 150
+      },
+      "Acero": {
+        "best_mult": 2.0,
+        "best_move": "Anillo Ígneo",
+        "best_move_type": "Fuego",
+        "best_move_power": 150
+      },
+      "Hada": {
+        "best_mult": 2.0,
+        "best_move": "Puya Nociva",
+        "best_move_type": "Veneno",
+        "best_move_power": 80
+      }
+    },
+    "se_types": [
+      "Acero",
+      "Agua",
+      "Bicho",
+      "Eléctrico",
+      "Fantasma",
+      "Fuego",
+      "Hada",
+      "Hielo",
+      "Lucha",
+      "Normal",
+      "Planta",
+      "Psiquico",
+      "Roca",
+      "Siniestro",
+      "Tierra",
+      "Veneno",
+      "Volador"
+    ],
+    "nve_or_neutral_types": [
+      "Dragon"
+    ],
+    "no_effect_types": [],
+    "se_count": 17,
+    "no_effect_count": 0
+  },
+  {
+    "name": "Zoroark de Hisui",
+    "type1": "Normal",
+    "type2": "Fantasma",
+    "movepool_attacking_types": [
+      "Bicho",
+      "Fantasma",
+      "Fuego",
+      "Hielo",
+      "Lucha",
+      "Normal",
+      "Psiquico",
+      "Siniestro",
+      "Tierra",
+      "Veneno",
+      "Volador"
+    ],
+    "coverage": {
+      "Normal": {
+        "best_mult": 2.0,
+        "best_move": "Puño Certero",
+        "best_move_type": "Lucha",
+        "best_move_power": 150
+      },
+      "Fuego": {
+        "best_mult": 2.0,
+        "best_move": "Excavar",
+        "best_move_type": "Tierra",
+        "best_move_power": 80
+      },
+      "Agua": {
+        "best_mult": 1.0,
+        "best_move": "Hiperrayo",
+        "best_move_type": "Normal",
+        "best_move_power": 150
+      },
+      "Eléctrico": {
+        "best_mult": 2.0,
+        "best_move": "Excavar",
+        "best_move_type": "Tierra",
+        "best_move_power": 80
+      },
+      "Planta": {
+        "best_mult": 2.0,
+        "best_move": "Lanzallamas",
+        "best_move_type": "Fuego",
+        "best_move_power": 90
+      },
+      "Hielo": {
+        "best_mult": 2.0,
+        "best_move": "Lanzallamas",
+        "best_move_type": "Fuego",
+        "best_move_power": 90
+      },
+      "Lucha": {
+        "best_mult": 2.0,
+        "best_move": "Psíquico",
+        "best_move_type": "Psíquico",
+        "best_move_power": 90
+      },
+      "Veneno": {
+        "best_mult": 2.0,
+        "best_move": "Excavar",
+        "best_move_type": "Tierra",
+        "best_move_power": 80
+      },
+      "Tierra": {
+        "best_mult": 2.0,
+        "best_move": "Viento Hielo",
+        "best_move_type": "Hielo",
+        "best_move_power": 55
+      },
+      "Volador": {
+        "best_mult": 2.0,
+        "best_move": "Viento Hielo",
+        "best_move_type": "Hielo",
+        "best_move_power": 55
+      },
+      "Psiquico": {
+        "best_mult": 2.0,
+        "best_move": "Juego Sucio",
+        "best_move_type": "Siniestro",
+        "best_move_power": 95
+      },
+      "Bicho": {
+        "best_mult": 2.0,
+        "best_move": "Lanzallamas",
+        "best_move_type": "Fuego",
+        "best_move_power": 90
+      },
+      "Roca": {
+        "best_mult": 2.0,
+        "best_move": "Excavar",
+        "best_move_type": "Tierra",
+        "best_move_power": 80
+      },
+      "Fantasma": {
+        "best_mult": 2.0,
+        "best_move": "Juego Sucio",
+        "best_move_type": "Siniestro",
+        "best_move_power": 95
+      },
+      "Dragon": {
+        "best_mult": 2.0,
+        "best_move": "Viento Hielo",
+        "best_move_type": "Hielo",
+        "best_move_power": 55
+      },
+      "Siniestro": {
+        "best_mult": 2.0,
+        "best_move": "Puño Certero",
+        "best_move_type": "Lucha",
+        "best_move_power": 150
+      },
+      "Acero": {
+        "best_mult": 2.0,
+        "best_move": "Lanzallamas",
+        "best_move_type": "Fuego",
+        "best_move_power": 90
+      },
+      "Hada": {
+        "best_mult": 2.0,
+        "best_move": "Bomba Lodo",
+        "best_move_type": "Veneno",
+        "best_move_power": 90
+      }
+    },
+    "se_types": [
+      "Acero",
+      "Bicho",
+      "Dragon",
+      "Eléctrico",
+      "Fantasma",
+      "Fuego",
+      "Hada",
+      "Hielo",
+      "Lucha",
+      "Normal",
+      "Planta",
+      "Psiquico",
+      "Roca",
+      "Siniestro",
+      "Tierra",
+      "Veneno",
+      "Volador"
+    ],
+    "nve_or_neutral_types": [
+      "Agua"
+    ],
+    "no_effect_types": [],
+    "se_count": 17,
+    "no_effect_count": 0
+  },
+  {
+    "name": "Espathra",
+    "type1": "Psiquico",
+    "type2": "-",
+    "movepool_attacking_types": [
+      "Acero",
+      "Bicho",
+      "Fantasma",
+      "Hada",
+      "Normal",
+      "Planta",
+      "Psiquico",
+      "Siniestro",
+      "Tierra",
+      "Volador"
+    ],
+    "coverage": {
+      "Normal": {
+        "best_mult": 1.0,
+        "best_move": "Hiperrayo",
+        "best_move_type": "Normal",
+        "best_move_power": 150
+      },
+      "Fuego": {
+        "best_mult": 2.0,
+        "best_move": "Bofetón Lodo",
+        "best_move_type": "Tierra",
+        "best_move_power": 20
+      },
+      "Agua": {
+        "best_mult": 2.0,
+        "best_move": "Energibola",
+        "best_move_type": "Planta",
+        "best_move_power": 90
+      },
+      "Eléctrico": {
+        "best_mult": 2.0,
+        "best_move": "Bofetón Lodo",
+        "best_move_type": "Tierra",
+        "best_move_power": 20
+      },
+      "Planta": {
+        "best_mult": 2.0,
+        "best_move": "Pájaro Osado",
+        "best_move_type": "Volador",
+        "best_move_power": 120
+      },
+      "Hielo": {
+        "best_mult": 2.0,
+        "best_move": "Foco Resplandor",
+        "best_move_type": "Acero",
+        "best_move_power": 80
+      },
+      "Lucha": {
+        "best_mult": 2.0,
+        "best_move": "Psíquico",
+        "best_move_type": "Psíquico",
+        "best_move_power": 90
+      },
+      "Veneno": {
+        "best_mult": 2.0,
+        "best_move": "Psíquico",
+        "best_move_type": "Psíquico",
+        "best_move_power": 90
+      },
+      "Tierra": {
+        "best_mult": 2.0,
+        "best_move": "Energibola",
+        "best_move_type": "Planta",
+        "best_move_power": 90
+      },
+      "Volador": {
+        "best_mult": 1.0,
+        "best_move": "Hiperrayo",
+        "best_move_type": "Normal",
+        "best_move_power": 150
+      },
+      "Psiquico": {
+        "best_mult": 2.0,
+        "best_move": "Juego Sucio",
+        "best_move_type": "Siniestro",
+        "best_move_power": 95
+      },
+      "Bicho": {
+        "best_mult": 2.0,
+        "best_move": "Pájaro Osado",
+        "best_move_type": "Volador",
+        "best_move_power": 120
+      },
+      "Roca": {
+        "best_mult": 2.0,
+        "best_move": "Bofetón Lodo",
+        "best_move_type": "Tierra",
+        "best_move_power": 20
+      },
+      "Fantasma": {
+        "best_mult": 2.0,
+        "best_move": "Juego Sucio",
+        "best_move_type": "Siniestro",
+        "best_move_power": 95
+      },
+      "Dragon": {
+        "best_mult": 2.0,
+        "best_move": "Brillo Mágico",
+        "best_move_type": "Hada",
+        "best_move_power": 80
+      },
+      "Siniestro": {
+        "best_mult": 2.0,
+        "best_move": "Ida y Vuelta",
+        "best_move_type": "Bicho",
+        "best_move_power": 70
+      },
+      "Acero": {
+        "best_mult": 2.0,
+        "best_move": "Bofetón Lodo",
+        "best_move_type": "Tierra",
+        "best_move_power": 20
+      },
+      "Hada": {
+        "best_mult": 2.0,
+        "best_move": "Foco Resplandor",
+        "best_move_type": "Acero",
+        "best_move_power": 80
+      }
+    },
+    "se_types": [
+      "Acero",
+      "Agua",
+      "Bicho",
+      "Dragon",
+      "Eléctrico",
+      "Fantasma",
+      "Fuego",
+      "Hada",
+      "Hielo",
+      "Lucha",
+      "Planta",
+      "Psiquico",
+      "Roca",
+      "Siniestro",
+      "Tierra",
+      "Veneno"
+    ],
+    "nve_or_neutral_types": [
+      "Normal",
+      "Volador"
+    ],
+    "no_effect_types": [],
+    "se_count": 16,
+    "no_effect_count": 0
+  },
+  {
+    "name": "Dragonite",
+    "type1": "Dragon",
+    "type2": "Volador",
+    "movepool_attacking_types": [
+      "Agua",
+      "Dragon",
+      "Hielo",
+      "Lucha",
+      "Normal",
+      "Tierra",
+      "Volador"
+    ],
+    "coverage": {
+      "Normal": {
+        "best_mult": 2.0,
+        "best_move": "Plancha Corporal",
+        "best_move_type": "Lucha",
+        "best_move_power": 80
+      },
+      "Fuego": {
+        "best_mult": 2.0,
+        "best_move": "Pataleta",
+        "best_move_type": "Tierra",
+        "best_move_power": 75
+      },
+      "Agua": {
+        "best_mult": 1.0,
+        "best_move": "Pataleta",
+        "best_move_type": "Tierra",
+        "best_move_power": 75
+      },
+      "Eléctrico": {
+        "best_mult": 2.0,
+        "best_move": "Pataleta",
+        "best_move_type": "Tierra",
+        "best_move_power": 75
+      },
+      "Planta": {
+        "best_mult": 2.0,
+        "best_move": "Ala Bis",
+        "best_move_type": "Volador",
+        "best_move_power": 40
+      },
+      "Hielo": {
+        "best_mult": 2.0,
+        "best_move": "Plancha Corporal",
+        "best_move_type": "Lucha",
+        "best_move_power": 80
+      },
+      "Lucha": {
+        "best_mult": 2.0,
+        "best_move": "Ala Bis",
+        "best_move_type": "Volador",
+        "best_move_power": 40
+      },
+      "Veneno": {
+        "best_mult": 2.0,
+        "best_move": "Pataleta",
+        "best_move_type": "Tierra",
+        "best_move_power": 75
+      },
+      "Tierra": {
+        "best_mult": 2.0,
+        "best_move": "Ice Spinner",
+        "best_move_type": "Hielo",
+        "best_move_power": 80
+      },
+      "Volador": {
+        "best_mult": 2.0,
+        "best_move": "Ice Spinner",
+        "best_move_type": "Hielo",
+        "best_move_power": 80
+      },
+      "Psiquico": {
+        "best_mult": 1.0,
+        "best_move": "Pataleta",
+        "best_move_type": "Tierra",
+        "best_move_power": 75
+      },
+      "Bicho": {
+        "best_mult": 2.0,
+        "best_move": "Ala Bis",
+        "best_move_type": "Volador",
+        "best_move_power": 40
+      },
+      "Roca": {
+        "best_mult": 2.0,
+        "best_move": "Pataleta",
+        "best_move_type": "Tierra",
+        "best_move_power": 75
+      },
+      "Fantasma": {
+        "best_mult": 1.0,
+        "best_move": "Pataleta",
+        "best_move_type": "Tierra",
+        "best_move_power": 75
+      },
+      "Dragon": {
+        "best_mult": 2.0,
+        "best_move": "Vasto Impacto",
+        "best_move_type": "Dragón",
+        "best_move_power": 60
+      },
+      "Siniestro": {
+        "best_mult": 2.0,
+        "best_move": "Plancha Corporal",
+        "best_move_type": "Lucha",
+        "best_move_power": 80
+      },
+      "Acero": {
+        "best_mult": 2.0,
+        "best_move": "Pataleta",
+        "best_move_type": "Tierra",
+        "best_move_power": 75
+      },
+      "Hada": {
+        "best_mult": 1.0,
+        "best_move": "Pataleta",
+        "best_move_type": "Tierra",
+        "best_move_power": 75
+      }
+    },
+    "se_types": [
+      "Acero",
+      "Bicho",
+      "Dragon",
+      "Eléctrico",
+      "Fuego",
+      "Hielo",
+      "Lucha",
+      "Normal",
+      "Planta",
+      "Roca",
+      "Siniestro",
+      "Tierra",
+      "Veneno",
+      "Volador"
+    ],
+    "nve_or_neutral_types": [
+      "Agua",
+      "Fantasma",
+      "Hada",
+      "Psiquico"
+    ],
+    "no_effect_types": [],
+    "se_count": 14,
+    "no_effect_count": 0
+  },
+  {
+    "name": "Incineroar",
+    "type1": "Fuego",
+    "type2": "Siniestro",
+    "movepool_attacking_types": [
+      "Fuego",
+      "Normal",
+      "Planta",
+      "Siniestro",
+      "Tierra"
+    ],
+    "coverage": {
+      "Normal": {
+        "best_mult": 1.0,
+        "best_move": "Cólera Ardiente",
+        "best_move_type": "Fuego",
+        "best_move_power": 75
+      },
+      "Fuego": {
+        "best_mult": 2.0,
+        "best_move": "Arenas Ardientes",
+        "best_move_type": "Tierra",
+        "best_move_power": 70
+      },
+      "Agua": {
+        "best_mult": 2.0,
+        "best_move": "Trailblaze",
+        "best_move_type": "Planta",
+        "best_move_power": 50
+      },
+      "Eléctrico": {
+        "best_mult": 2.0,
+        "best_move": "Arenas Ardientes",
+        "best_move_type": "Tierra",
+        "best_move_power": 70
+      },
+      "Planta": {
+        "best_mult": 2.0,
+        "best_move": "Cólera Ardiente",
+        "best_move_type": "Fuego",
+        "best_move_power": 75
+      },
+      "Hielo": {
+        "best_mult": 2.0,
+        "best_move": "Cólera Ardiente",
+        "best_move_type": "Fuego",
+        "best_move_power": 75
+      },
+      "Lucha": {
+        "best_mult": 1.0,
+        "best_move": "Cólera Ardiente",
+        "best_move_type": "Fuego",
+        "best_move_power": 75
+      },
+      "Veneno": {
+        "best_mult": 2.0,
+        "best_move": "Arenas Ardientes",
+        "best_move_type": "Tierra",
+        "best_move_power": 70
+      },
+      "Tierra": {
+        "best_mult": 2.0,
+        "best_move": "Trailblaze",
+        "best_move_type": "Planta",
+        "best_move_power": 50
+      },
+      "Volador": {
+        "best_mult": 1.0,
+        "best_move": "Cólera Ardiente",
+        "best_move_type": "Fuego",
+        "best_move_power": 75
+      },
+      "Psiquico": {
+        "best_mult": 2.0,
+        "best_move": "Desahogo",
+        "best_move_type": "Siniestro",
+        "best_move_power": 75
+      },
+      "Bicho": {
+        "best_mult": 2.0,
+        "best_move": "Cólera Ardiente",
+        "best_move_type": "Fuego",
+        "best_move_power": 75
+      },
+      "Roca": {
+        "best_mult": 2.0,
+        "best_move": "Arenas Ardientes",
+        "best_move_type": "Tierra",
+        "best_move_power": 70
+      },
+      "Fantasma": {
+        "best_mult": 2.0,
+        "best_move": "Desahogo",
+        "best_move_type": "Siniestro",
+        "best_move_power": 75
+      },
+      "Dragon": {
+        "best_mult": 1.0,
+        "best_move": "Desahogo",
+        "best_move_type": "Siniestro",
+        "best_move_power": 75
+      },
+      "Siniestro": {
+        "best_mult": 1.0,
+        "best_move": "Cólera Ardiente",
+        "best_move_type": "Fuego",
+        "best_move_power": 75
+      },
+      "Acero": {
+        "best_mult": 2.0,
+        "best_move": "Cólera Ardiente",
+        "best_move_type": "Fuego",
+        "best_move_power": 75
+      },
+      "Hada": {
+        "best_mult": 1.0,
+        "best_move": "Cólera Ardiente",
+        "best_move_type": "Fuego",
+        "best_move_power": 75
+      }
+    },
+    "se_types": [
+      "Acero",
+      "Agua",
+      "Bicho",
+      "Eléctrico",
+      "Fantasma",
+      "Fuego",
+      "Hielo",
+      "Planta",
+      "Psiquico",
+      "Roca",
+      "Tierra",
+      "Veneno"
+    ],
+    "nve_or_neutral_types": [
+      "Dragon",
+      "Hada",
+      "Lucha",
+      "Normal",
+      "Siniestro",
+      "Volador"
+    ],
+    "no_effect_types": [],
+    "se_count": 12,
+    "no_effect_count": 0
+  },
+  {
+    "name": "Corviknight",
+    "type1": "Volador",
+    "type2": "Acero",
+    "movepool_attacking_types": [
+      "Acero",
+      "Bicho",
+      "Lucha",
+      "Normal",
+      "Siniestro",
+      "Volador"
+    ],
+    "coverage": {
+      "Normal": {
+        "best_mult": 2.0,
+        "best_move": "Plancha Corporal",
+        "best_move_type": "Lucha",
+        "best_move_power": 80
+      },
+      "Fuego": {
+        "best_mult": 1.0,
+        "best_move": "Ataque Aéreo",
+        "best_move_type": "Volador",
+        "best_move_power": 140
+      },
+      "Agua": {
+        "best_mult": 1.0,
+        "best_move": "Ataque Aéreo",
+        "best_move_type": "Volador",
+        "best_move_power": 140
+      },
+      "Eléctrico": {
+        "best_mult": 1.0,
+        "best_move": "Hiperrayo",
+        "best_move_type": "Normal",
+        "best_move_power": 150
+      },
+      "Planta": {
+        "best_mult": 2.0,
+        "best_move": "Ataque Aéreo",
+        "best_move_type": "Volador",
+        "best_move_power": 140
+      },
+      "Hielo": {
+        "best_mult": 2.0,
+        "best_move": "Metaláser",
+        "best_move_type": "Acero",
+        "best_move_power": 140
+      },
+      "Lucha": {
+        "best_mult": 2.0,
+        "best_move": "Ataque Aéreo",
+        "best_move_type": "Volador",
+        "best_move_power": 140
+      },
+      "Veneno": {
+        "best_mult": 1.0,
+        "best_move": "Ataque Aéreo",
+        "best_move_type": "Volador",
+        "best_move_power": 140
+      },
+      "Tierra": {
+        "best_mult": 1.0,
+        "best_move": "Ataque Aéreo",
+        "best_move_type": "Volador",
+        "best_move_power": 140
+      },
+      "Volador": {
+        "best_mult": 1.0,
+        "best_move": "Ataque Aéreo",
+        "best_move_type": "Volador",
+        "best_move_power": 140
+      },
+      "Psiquico": {
+        "best_mult": 2.0,
+        "best_move": "Ladrón",
+        "best_move_type": "Siniestro",
+        "best_move_power": 60
+      },
+      "Bicho": {
+        "best_mult": 2.0,
+        "best_move": "Ataque Aéreo",
+        "best_move_type": "Volador",
+        "best_move_power": 140
+      },
+      "Roca": {
+        "best_mult": 2.0,
+        "best_move": "Metaláser",
+        "best_move_type": "Acero",
+        "best_move_power": 140
+      },
+      "Fantasma": {
+        "best_mult": 2.0,
+        "best_move": "Ladrón",
+        "best_move_type": "Siniestro",
+        "best_move_power": 60
+      },
+      "Dragon": {
+        "best_mult": 1.0,
+        "best_move": "Ataque Aéreo",
+        "best_move_type": "Volador",
+        "best_move_power": 140
+      },
+      "Siniestro": {
+        "best_mult": 2.0,
+        "best_move": "Plancha Corporal",
+        "best_move_type": "Lucha",
+        "best_move_power": 80
+      },
+      "Acero": {
+        "best_mult": 2.0,
+        "best_move": "Plancha Corporal",
+        "best_move_type": "Lucha",
+        "best_move_power": 80
+      },
+      "Hada": {
+        "best_mult": 2.0,
+        "best_move": "Metaláser",
+        "best_move_type": "Acero",
+        "best_move_power": 140
+      }
+    },
+    "se_types": [
+      "Acero",
+      "Bicho",
+      "Fantasma",
+      "Hada",
+      "Hielo",
+      "Lucha",
+      "Normal",
+      "Planta",
+      "Psiquico",
+      "Roca",
+      "Siniestro"
+    ],
+    "nve_or_neutral_types": [
+      "Agua",
+      "Dragon",
+      "Eléctrico",
+      "Fuego",
+      "Tierra",
+      "Veneno",
+      "Volador"
+    ],
+    "no_effect_types": [],
+    "se_count": 11,
+    "no_effect_count": 0
+  },
+  {
+    "name": "Whimsicott",
+    "type1": "Planta",
+    "type2": "Hada",
+    "movepool_attacking_types": [
+      "Bicho",
+      "Fantasma",
+      "Hada",
+      "Normal",
+      "Planta",
+      "Psiquico",
+      "Siniestro",
+      "Volador"
+    ],
+    "coverage": {
+      "Normal": {
+        "best_mult": 1.0,
+        "best_move": "Vendaval",
+        "best_move_type": "Volador",
+        "best_move_power": 110
+      },
+      "Fuego": {
+        "best_mult": 1.0,
+        "best_move": "Vendaval",
+        "best_move_type": "Volador",
+        "best_move_power": 110
+      },
+      "Agua": {
+        "best_mult": 2.0,
+        "best_move": "Rayo Solar",
+        "best_move_type": "Planta",
+        "best_move_power": 120
+      },
+      "Eléctrico": {
+        "best_mult": 1.0,
+        "best_move": "Hiperrayo",
+        "best_move_type": "Normal",
+        "best_move_power": 150
+      },
+      "Planta": {
+        "best_mult": 2.0,
+        "best_move": "Vendaval",
+        "best_move_type": "Volador",
+        "best_move_power": 110
+      },
+      "Hielo": {
+        "best_mult": 1.0,
+        "best_move": "Vendaval",
+        "best_move_type": "Volador",
+        "best_move_power": 110
+      },
+      "Lucha": {
+        "best_mult": 2.0,
+        "best_move": "Vendaval",
+        "best_move_type": "Volador",
+        "best_move_power": 110
+      },
+      "Veneno": {
+        "best_mult": 2.0,
+        "best_move": "Comesueños",
+        "best_move_type": "Psíquico",
+        "best_move_power": 100
+      },
+      "Tierra": {
+        "best_mult": 2.0,
+        "best_move": "Rayo Solar",
+        "best_move_type": "Planta",
+        "best_move_power": 120
+      },
+      "Volador": {
+        "best_mult": 1.0,
+        "best_move": "Vendaval",
+        "best_move_type": "Volador",
+        "best_move_power": 110
+      },
+      "Psiquico": {
+        "best_mult": 2.0,
+        "best_move": "Desarme",
+        "best_move_type": "Siniestro",
+        "best_move_power": 65
+      },
+      "Bicho": {
+        "best_mult": 2.0,
+        "best_move": "Vendaval",
+        "best_move_type": "Volador",
+        "best_move_power": 110
+      },
+      "Roca": {
+        "best_mult": 2.0,
+        "best_move": "Rayo Solar",
+        "best_move_type": "Planta",
+        "best_move_power": 120
+      },
+      "Fantasma": {
+        "best_mult": 2.0,
+        "best_move": "Desarme",
+        "best_move_type": "Siniestro",
+        "best_move_power": 65
+      },
+      "Dragon": {
+        "best_mult": 2.0,
+        "best_move": "Fuerza Lunar",
+        "best_move_type": "Hada",
+        "best_move_power": 95
+      },
+      "Siniestro": {
+        "best_mult": 2.0,
+        "best_move": "Ida y Vuelta",
+        "best_move_type": "Bicho",
+        "best_move_power": 70
+      },
+      "Acero": {
+        "best_mult": 1.0,
+        "best_move": "Desarme",
+        "best_move_type": "Siniestro",
+        "best_move_power": 65
+      },
+      "Hada": {
+        "best_mult": 1.0,
+        "best_move": "Vendaval",
+        "best_move_type": "Volador",
+        "best_move_power": 110
+      }
+    },
+    "se_types": [
+      "Agua",
+      "Bicho",
+      "Dragon",
+      "Fantasma",
+      "Lucha",
+      "Planta",
+      "Psiquico",
+      "Roca",
+      "Siniestro",
+      "Tierra",
+      "Veneno"
+    ],
+    "nve_or_neutral_types": [
+      "Acero",
+      "Eléctrico",
+      "Fuego",
+      "Hada",
+      "Hielo",
+      "Normal",
+      "Volador"
+    ],
+    "no_effect_types": [],
+    "se_count": 11,
+    "no_effect_count": 0
+  },
+  {
+    "name": "Charizard",
+    "type1": "Fuego",
+    "type2": "Volador",
+    "movepool_attacking_types": [
+      "Dragon",
+      "Fuego",
+      "Normal",
+      "Tierra",
+      "Volador"
+    ],
+    "coverage": {
+      "Normal": {
+        "best_mult": 1.0,
+        "best_move": "Vasto Impacto",
+        "best_move_type": "Dragón",
+        "best_move_power": 60
+      },
+      "Fuego": {
+        "best_mult": 2.0,
+        "best_move": "Arenas Ardientes",
+        "best_move_type": "Tierra",
+        "best_move_power": 70
+      },
+      "Agua": {
+        "best_mult": 1.0,
+        "best_move": "Vasto Impacto",
+        "best_move_type": "Dragón",
+        "best_move_power": 60
+      },
+      "Eléctrico": {
+        "best_mult": 2.0,
+        "best_move": "Arenas Ardientes",
+        "best_move_type": "Tierra",
+        "best_move_power": 70
+      },
+      "Planta": {
+        "best_mult": 2.0,
+        "best_move": "Ala Bis",
+        "best_move_type": "Volador",
+        "best_move_power": 40
+      },
+      "Hielo": {
+        "best_mult": 2.0,
+        "best_move": "Cólera Ardiente",
+        "best_move_type": "Fuego",
+        "best_move_power": 75
+      },
+      "Lucha": {
+        "best_mult": 2.0,
+        "best_move": "Ala Bis",
+        "best_move_type": "Volador",
+        "best_move_power": 40
+      },
+      "Veneno": {
+        "best_mult": 2.0,
+        "best_move": "Arenas Ardientes",
+        "best_move_type": "Tierra",
+        "best_move_power": 70
+      },
+      "Tierra": {
+        "best_mult": 1.0,
+        "best_move": "Vasto Impacto",
+        "best_move_type": "Dragón",
+        "best_move_power": 60
+      },
+      "Volador": {
+        "best_mult": 1.0,
+        "best_move": "Vasto Impacto",
+        "best_move_type": "Dragón",
+        "best_move_power": 60
+      },
+      "Psiquico": {
+        "best_mult": 1.0,
+        "best_move": "Vasto Impacto",
+        "best_move_type": "Dragón",
+        "best_move_power": 60
+      },
+      "Bicho": {
+        "best_mult": 2.0,
+        "best_move": "Ala Bis",
+        "best_move_type": "Volador",
+        "best_move_power": 40
+      },
+      "Roca": {
+        "best_mult": 2.0,
+        "best_move": "Arenas Ardientes",
+        "best_move_type": "Tierra",
+        "best_move_power": 70
+      },
+      "Fantasma": {
+        "best_mult": 1.0,
+        "best_move": "Vasto Impacto",
+        "best_move_type": "Dragón",
+        "best_move_power": 60
+      },
+      "Dragon": {
+        "best_mult": 2.0,
+        "best_move": "Vasto Impacto",
+        "best_move_type": "Dragón",
+        "best_move_power": 60
+      },
+      "Siniestro": {
+        "best_mult": 1.0,
+        "best_move": "Vasto Impacto",
+        "best_move_type": "Dragón",
+        "best_move_power": 60
+      },
+      "Acero": {
+        "best_mult": 2.0,
+        "best_move": "Arenas Ardientes",
+        "best_move_type": "Tierra",
+        "best_move_power": 70
+      },
+      "Hada": {
+        "best_mult": 1.0,
+        "best_move": "Ala Bis",
+        "best_move_type": "Volador",
+        "best_move_power": 40
+      }
+    },
+    "se_types": [
+      "Acero",
+      "Bicho",
+      "Dragon",
+      "Eléctrico",
+      "Fuego",
+      "Hielo",
+      "Lucha",
+      "Planta",
+      "Roca",
+      "Veneno"
+    ],
+    "nve_or_neutral_types": [
+      "Agua",
+      "Fantasma",
+      "Hada",
+      "Normal",
+      "Psiquico",
+      "Siniestro",
+      "Tierra",
+      "Volador"
+    ],
+    "no_effect_types": [],
+    "se_count": 10,
+    "no_effect_count": 0
+  },
+  {
+    "name": "Slowking",
+    "type1": "Agua",
+    "type2": "Psiquico",
+    "movepool_attacking_types": [
+      "Agua",
+      "Dragon",
+      "Normal",
+      "Psiquico",
+      "Tierra"
+    ],
+    "coverage": {
+      "Normal": {
+        "best_mult": 1.0,
+        "best_move": "Tera Blast",
+        "best_move_type": "Normal",
+        "best_move_power": 80
+      },
+      "Fuego": {
+        "best_mult": 2.0,
+        "best_move": "Hidroariete",
+        "best_move_type": "Agua",
+        "best_move_power": 85
+      },
+      "Agua": {
+        "best_mult": 1.0,
+        "best_move": "Tera Blast",
+        "best_move_type": "Normal",
+        "best_move_power": 80
+      },
+      "Eléctrico": {
+        "best_mult": 2.0,
+        "best_move": "Terratemblor",
+        "best_move_type": "Tierra",
+        "best_move_power": 60
+      },
+      "Planta": {
+        "best_mult": 1.0,
+        "best_move": "Tera Blast",
+        "best_move_type": "Normal",
+        "best_move_power": 80
+      },
+      "Hielo": {
+        "best_mult": 1.0,
+        "best_move": "Tera Blast",
+        "best_move_type": "Normal",
+        "best_move_power": 80
+      },
+      "Lucha": {
+        "best_mult": 2.0,
+        "best_move": "Vasta Fuerza",
+        "best_move_type": "Psíquico",
+        "best_move_power": 80
+      },
+      "Veneno": {
+        "best_mult": 2.0,
+        "best_move": "Vasta Fuerza",
+        "best_move_type": "Psíquico",
+        "best_move_power": 80
+      },
+      "Tierra": {
+        "best_mult": 2.0,
+        "best_move": "Hidroariete",
+        "best_move_type": "Agua",
+        "best_move_power": 85
+      },
+      "Volador": {
+        "best_mult": 1.0,
+        "best_move": "Tera Blast",
+        "best_move_type": "Normal",
+        "best_move_power": 80
+      },
+      "Psiquico": {
+        "best_mult": 1.0,
+        "best_move": "Tera Blast",
+        "best_move_type": "Normal",
+        "best_move_power": 80
+      },
+      "Bicho": {
+        "best_mult": 1.0,
+        "best_move": "Tera Blast",
+        "best_move_type": "Normal",
+        "best_move_power": 80
+      },
+      "Roca": {
+        "best_mult": 2.0,
+        "best_move": "Hidroariete",
+        "best_move_type": "Agua",
+        "best_move_power": 85
+      },
+      "Fantasma": {
+        "best_mult": 1.0,
+        "best_move": "Vasta Fuerza",
+        "best_move_type": "Psíquico",
+        "best_move_power": 80
+      },
+      "Dragon": {
+        "best_mult": 2.0,
+        "best_move": "Cola Dragón",
+        "best_move_type": "Dragón",
+        "best_move_power": 60
+      },
+      "Siniestro": {
+        "best_mult": 1.0,
+        "best_move": "Tera Blast",
+        "best_move_type": "Normal",
+        "best_move_power": 80
+      },
+      "Acero": {
+        "best_mult": 2.0,
+        "best_move": "Terratemblor",
+        "best_move_type": "Tierra",
+        "best_move_power": 60
+      },
+      "Hada": {
+        "best_mult": 1.0,
+        "best_move": "Tera Blast",
+        "best_move_type": "Normal",
+        "best_move_power": 80
+      }
+    },
+    "se_types": [
+      "Acero",
+      "Dragon",
+      "Eléctrico",
+      "Fuego",
+      "Lucha",
+      "Roca",
+      "Tierra",
+      "Veneno"
+    ],
+    "nve_or_neutral_types": [
+      "Agua",
+      "Bicho",
+      "Fantasma",
+      "Hada",
+      "Hielo",
+      "Normal",
+      "Planta",
+      "Psiquico",
+      "Siniestro",
+      "Volador"
+    ],
+    "no_effect_types": [],
+    "se_count": 8,
+    "no_effect_count": 0
+  },
+  {
+    "name": "Blastoise",
+    "type1": "Agua",
+    "type2": "-",
+    "movepool_attacking_types": [
+      "Agua"
+    ],
+    "coverage": {
+      "Normal": {
+        "best_mult": 1.0,
+        "best_move": "Chilling Water",
+        "best_move_type": "Agua",
+        "best_move_power": 50
+      },
+      "Fuego": {
+        "best_mult": 2.0,
+        "best_move": "Chilling Water",
+        "best_move_type": "Agua",
+        "best_move_power": 50
+      },
+      "Agua": {
+        "best_mult": 0.5,
+        "best_move": "Chilling Water",
+        "best_move_type": "Agua",
+        "best_move_power": 50
+      },
+      "Eléctrico": {
+        "best_mult": 1.0,
+        "best_move": "Chilling Water",
+        "best_move_type": "Agua",
+        "best_move_power": 50
+      },
+      "Planta": {
+        "best_mult": 0.5,
+        "best_move": "Chilling Water",
+        "best_move_type": "Agua",
+        "best_move_power": 50
+      },
+      "Hielo": {
+        "best_mult": 1.0,
+        "best_move": "Chilling Water",
+        "best_move_type": "Agua",
+        "best_move_power": 50
+      },
+      "Lucha": {
+        "best_mult": 1.0,
+        "best_move": "Chilling Water",
+        "best_move_type": "Agua",
+        "best_move_power": 50
+      },
+      "Veneno": {
+        "best_mult": 1.0,
+        "best_move": "Chilling Water",
+        "best_move_type": "Agua",
+        "best_move_power": 50
+      },
+      "Tierra": {
+        "best_mult": 2.0,
+        "best_move": "Chilling Water",
+        "best_move_type": "Agua",
+        "best_move_power": 50
+      },
+      "Volador": {
+        "best_mult": 1.0,
+        "best_move": "Chilling Water",
+        "best_move_type": "Agua",
+        "best_move_power": 50
+      },
+      "Psiquico": {
+        "best_mult": 1.0,
+        "best_move": "Chilling Water",
+        "best_move_type": "Agua",
+        "best_move_power": 50
+      },
+      "Bicho": {
+        "best_mult": 1.0,
+        "best_move": "Chilling Water",
+        "best_move_type": "Agua",
+        "best_move_power": 50
+      },
+      "Roca": {
+        "best_mult": 2.0,
+        "best_move": "Chilling Water",
+        "best_move_type": "Agua",
+        "best_move_power": 50
+      },
+      "Fantasma": {
+        "best_mult": 1.0,
+        "best_move": "Chilling Water",
+        "best_move_type": "Agua",
+        "best_move_power": 50
+      },
+      "Dragon": {
+        "best_mult": 0.5,
+        "best_move": "Chilling Water",
+        "best_move_type": "Agua",
+        "best_move_power": 50
+      },
+      "Siniestro": {
+        "best_mult": 1.0,
+        "best_move": "Chilling Water",
+        "best_move_type": "Agua",
+        "best_move_power": 50
+      },
+      "Acero": {
+        "best_mult": 1.0,
+        "best_move": "Chilling Water",
+        "best_move_type": "Agua",
+        "best_move_power": 50
+      },
+      "Hada": {
+        "best_mult": 1.0,
+        "best_move": "Chilling Water",
+        "best_move_type": "Agua",
+        "best_move_power": 50
+      }
+    },
+    "se_types": [
+      "Fuego",
+      "Roca",
+      "Tierra"
+    ],
+    "nve_or_neutral_types": [
+      "Acero",
+      "Agua",
+      "Bicho",
+      "Dragon",
+      "Eléctrico",
+      "Fantasma",
+      "Hada",
+      "Hielo",
+      "Lucha",
+      "Normal",
+      "Planta",
+      "Psiquico",
+      "Siniestro",
+      "Veneno",
+      "Volador"
+    ],
+    "no_effect_types": [],
+    "se_count": 3,
+    "no_effect_count": 0
+  },
+  {
+    "name": "Gengar",
+    "type1": "Fantasma",
+    "type2": "Veneno",
+    "movepool_attacking_types": [
+      "Normal",
+      "Psiquico"
+    ],
+    "coverage": {
+      "Normal": {
+        "best_mult": 1.0,
+        "best_move": "Tera Blast",
+        "best_move_type": "Normal",
+        "best_move_power": 80
+      },
+      "Fuego": {
+        "best_mult": 1.0,
+        "best_move": "Tera Blast",
+        "best_move_type": "Normal",
+        "best_move_power": 80
+      },
+      "Agua": {
+        "best_mult": 1.0,
+        "best_move": "Tera Blast",
+        "best_move_type": "Normal",
+        "best_move_power": 80
+      },
+      "Eléctrico": {
+        "best_mult": 1.0,
+        "best_move": "Tera Blast",
+        "best_move_type": "Normal",
+        "best_move_power": 80
+      },
+      "Planta": {
+        "best_mult": 1.0,
+        "best_move": "Tera Blast",
+        "best_move_type": "Normal",
+        "best_move_power": 80
+      },
+      "Hielo": {
+        "best_mult": 1.0,
+        "best_move": "Tera Blast",
+        "best_move_type": "Normal",
+        "best_move_power": 80
+      },
+      "Lucha": {
+        "best_mult": 2.0,
+        "best_move": "Psicorruido",
+        "best_move_type": "Psíquico",
+        "best_move_power": 75
+      },
+      "Veneno": {
+        "best_mult": 2.0,
+        "best_move": "Psicorruido",
+        "best_move_type": "Psíquico",
+        "best_move_power": 75
+      },
+      "Tierra": {
+        "best_mult": 1.0,
+        "best_move": "Tera Blast",
+        "best_move_type": "Normal",
+        "best_move_power": 80
+      },
+      "Volador": {
+        "best_mult": 1.0,
+        "best_move": "Tera Blast",
+        "best_move_type": "Normal",
+        "best_move_power": 80
+      },
+      "Psiquico": {
+        "best_mult": 1.0,
+        "best_move": "Tera Blast",
+        "best_move_type": "Normal",
+        "best_move_power": 80
+      },
+      "Bicho": {
+        "best_mult": 1.0,
+        "best_move": "Tera Blast",
+        "best_move_type": "Normal",
+        "best_move_power": 80
+      },
+      "Roca": {
+        "best_mult": 1.0,
+        "best_move": "Psicorruido",
+        "best_move_type": "Psíquico",
+        "best_move_power": 75
+      },
+      "Fantasma": {
+        "best_mult": 1.0,
+        "best_move": "Psicorruido",
+        "best_move_type": "Psíquico",
+        "best_move_power": 75
+      },
+      "Dragon": {
+        "best_mult": 1.0,
+        "best_move": "Tera Blast",
+        "best_move_type": "Normal",
+        "best_move_power": 80
+      },
+      "Siniestro": {
+        "best_mult": 1.0,
+        "best_move": "Tera Blast",
+        "best_move_type": "Normal",
+        "best_move_power": 80
+      },
+      "Acero": {
+        "best_mult": 0.5,
+        "best_move": "Tera Blast",
+        "best_move_type": "Normal",
+        "best_move_power": 80
+      },
+      "Hada": {
+        "best_mult": 1.0,
+        "best_move": "Tera Blast",
+        "best_move_type": "Normal",
+        "best_move_power": 80
+      }
+    },
+    "se_types": [
+      "Lucha",
+      "Veneno"
+    ],
+    "nve_or_neutral_types": [
+      "Acero",
+      "Agua",
+      "Bicho",
+      "Dragon",
+      "Eléctrico",
+      "Fantasma",
+      "Fuego",
+      "Hada",
+      "Hielo",
+      "Normal",
+      "Planta",
+      "Psiquico",
+      "Roca",
+      "Siniestro",
+      "Tierra",
+      "Volador"
+    ],
+    "no_effect_types": [],
+    "se_count": 2,
+    "no_effect_count": 0
+  },
+  {
+    "name": "Delphox",
+    "type1": "Fuego",
+    "type2": "Psiquico",
+    "movepool_attacking_types": [
+      "Normal",
+      "Psiquico"
+    ],
+    "coverage": {
+      "Normal": {
+        "best_mult": 1.0,
+        "best_move": "Tera Blast",
+        "best_move_type": "Normal",
+        "best_move_power": 80
+      },
+      "Fuego": {
+        "best_mult": 1.0,
+        "best_move": "Tera Blast",
+        "best_move_type": "Normal",
+        "best_move_power": 80
+      },
+      "Agua": {
+        "best_mult": 1.0,
+        "best_move": "Tera Blast",
+        "best_move_type": "Normal",
+        "best_move_power": 80
+      },
+      "Eléctrico": {
+        "best_mult": 1.0,
+        "best_move": "Tera Blast",
+        "best_move_type": "Normal",
+        "best_move_power": 80
+      },
+      "Planta": {
+        "best_mult": 1.0,
+        "best_move": "Tera Blast",
+        "best_move_type": "Normal",
+        "best_move_power": 80
+      },
+      "Hielo": {
+        "best_mult": 1.0,
+        "best_move": "Tera Blast",
+        "best_move_type": "Normal",
+        "best_move_power": 80
+      },
+      "Lucha": {
+        "best_mult": 2.0,
+        "best_move": "Psicorruido",
+        "best_move_type": "Psíquico",
+        "best_move_power": 75
+      },
+      "Veneno": {
+        "best_mult": 2.0,
+        "best_move": "Psicorruido",
+        "best_move_type": "Psíquico",
+        "best_move_power": 75
+      },
+      "Tierra": {
+        "best_mult": 1.0,
+        "best_move": "Tera Blast",
+        "best_move_type": "Normal",
+        "best_move_power": 80
+      },
+      "Volador": {
+        "best_mult": 1.0,
+        "best_move": "Tera Blast",
+        "best_move_type": "Normal",
+        "best_move_power": 80
+      },
+      "Psiquico": {
+        "best_mult": 1.0,
+        "best_move": "Tera Blast",
+        "best_move_type": "Normal",
+        "best_move_power": 80
+      },
+      "Bicho": {
+        "best_mult": 1.0,
+        "best_move": "Tera Blast",
+        "best_move_type": "Normal",
+        "best_move_power": 80
+      },
+      "Roca": {
+        "best_mult": 1.0,
+        "best_move": "Psicorruido",
+        "best_move_type": "Psíquico",
+        "best_move_power": 75
+      },
+      "Fantasma": {
+        "best_mult": 1.0,
+        "best_move": "Psicorruido",
+        "best_move_type": "Psíquico",
+        "best_move_power": 75
+      },
+      "Dragon": {
+        "best_mult": 1.0,
+        "best_move": "Tera Blast",
+        "best_move_type": "Normal",
+        "best_move_power": 80
+      },
+      "Siniestro": {
+        "best_mult": 1.0,
+        "best_move": "Tera Blast",
+        "best_move_type": "Normal",
+        "best_move_power": 80
+      },
+      "Acero": {
+        "best_mult": 0.5,
+        "best_move": "Tera Blast",
+        "best_move_type": "Normal",
+        "best_move_power": 80
+      },
+      "Hada": {
+        "best_mult": 1.0,
+        "best_move": "Tera Blast",
+        "best_move_type": "Normal",
+        "best_move_power": 80
+      }
+    },
+    "se_types": [
+      "Lucha",
+      "Veneno"
+    ],
+    "nve_or_neutral_types": [
+      "Acero",
+      "Agua",
+      "Bicho",
+      "Dragon",
+      "Eléctrico",
+      "Fantasma",
+      "Fuego",
+      "Hada",
+      "Hielo",
+      "Normal",
+      "Planta",
+      "Psiquico",
+      "Roca",
+      "Siniestro",
+      "Tierra",
+      "Volador"
+    ],
+    "no_effect_types": [],
+    "se_count": 2,
+    "no_effect_count": 0
+  }
+]

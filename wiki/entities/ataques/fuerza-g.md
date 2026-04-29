@@ -1,0 +1,42 @@
+---
+title: Fuerza G
+date: 2026-04-29
+type: entity
+tags: [ataque, planta, físico]
+slug: fuerza-g
+---
+
+# Fuerza G
+
+## Datos
+
+| Propiedad | Valor |
+|---|---|
+| Tipo | [[Planta]] |
+| Categoría | Físico |
+| Potencia | 80 |
+| Precisión | 100 |
+| PP | 10 |
+| Slug | grav-apple |
+| Op.gg | [grav-apple](https://op.gg/es/pokemon-champions/moves/grav-apple) |
+| PP (op.gg) | 12 |
+
+## Efecto
+
+El usuario ataca haciendo caer una manzana desde gran altura. Disminuye la Defensa del objetivo.
+
+## Pokémon que lo aprenden
+
+Total: 1
+
+| # | Pokémon |
+|---|---|
+| 1 | Flapple |
+
+## 🔗 Related
+
+- [[Planta]]
+- [[op-gg-moves]]
+- [[damage-matrix]]
+- [[formula-dano]]
+- [[coverage-matrix]]

@@ -1,0 +1,2380 @@
+[
+  {
+    "defender": "Blastoise",
+    "base_hp": 79,
+    "base_def": 100,
+    "base_spdef": 105,
+    "spread_results": [
+      {
+        "threat": {
+          "attacker": "Whimsicott",
+          "attacker_stats": {
+            "hp": 135,
+            "attack": 78,
+            "defense": 105,
+            "spAttack": 141,
+            "spDefense": 97,
+            "speed": 168
+          },
+          "attacker_ability": "prankster",
+          "move": "Rayo Solar",
+          "move_type": "Planta",
+          "move_power": 120,
+          "move_category": "special",
+          "stab": true,
+          "type_eff": 2.0,
+          "max_pct_default": 104.8,
+          "ohko_default": true
+        },
+        "spread": [
+          0,
+          5,
+          154
+        ]
+      },
+      {
+        "threat": {
+          "attacker": "Emboar",
+          "attacker_stats": {
+            "hp": 185,
+            "attack": 192,
+            "defense": 85,
+            "spAttack": 108,
+            "spDefense": 87,
+            "speed": 117
+          },
+          "attacker_ability": "blaze",
+          "move": "Puño Certero",
+          "move_type": "Lucha",
+          "move_power": 150,
+          "move_category": "physical",
+          "stab": true,
+          "type_eff": 1.0,
+          "max_pct_default": 65.1,
+          "ohko_default": false
+        },
+        "spread": [
+          0,
+          0,
+          154
+        ]
+      },
+      {
+        "threat": {
+          "attacker": "Zoroark de Hisui",
+          "attacker_stats": {
+            "hp": 130,
+            "attack": 108,
+            "defense": 80,
+            "spAttack": 194,
+            "spDefense": 82,
+            "speed": 162
+          },
+          "attacker_ability": "illusion",
+          "move": "Hiperrayo",
+          "move_type": "Normal",
+          "move_power": 150,
+          "move_category": "special",
+          "stab": true,
+          "type_eff": 1.0,
+          "max_pct_default": 65.1,
+          "ohko_default": false
+        },
+        "spread": [
+          0,
+          0,
+          154
+        ]
+      },
+      {
+        "threat": {
+          "attacker": "Corviknight",
+          "attacker_stats": {
+            "hp": 173,
+            "attack": 152,
+            "defense": 125,
+            "spAttack": 65,
+            "spDefense": 107,
+            "speed": 119
+          },
+          "attacker_ability": "pressure",
+          "move": "Ataque Aéreo",
+          "move_type": "Volador",
+          "move_power": 140,
+          "move_category": "physical",
+          "stab": true,
+          "type_eff": 1.0,
+          "max_pct_default": 60.2,
+          "ohko_default": false
+        },
+        "spread": [
+          0,
+          0,
+          154
+        ]
+      },
+      {
+        "threat": {
+          "attacker": "Garchomp",
+          "attacker_stats": {
+            "hp": 183,
+            "attack": 135,
+            "defense": 115,
+            "spAttack": 145,
+            "spDefense": 107,
+            "speed": 154
+          },
+          "attacker_ability": "sand-veil",
+          "move": "Cometa Draco",
+          "move_type": "Dragón",
+          "move_power": 130,
+          "move_category": "special",
+          "stab": true,
+          "type_eff": 1.0,
+          "max_pct_default": 56.5,
+          "ohko_default": false
+        },
+        "spread": [
+          0,
+          0,
+          154
+        ]
+      }
+    ]
+  },
+  {
+    "defender": "Charizard",
+    "base_hp": 78,
+    "base_def": 78,
+    "base_spdef": 85,
+    "spread_results": [
+      {
+        "threat": {
+          "attacker": "Greninja",
+          "attacker_stats": {
+            "hp": 147,
+            "attack": 103,
+            "defense": 87,
+            "spAttack": 170,
+            "spDefense": 93,
+            "speed": 174
+          },
+          "attacker_ability": "torrent",
+          "move": "Hidrocañón",
+          "move_type": "Agua",
+          "move_power": 150,
+          "move_category": "special",
+          "stab": true,
+          "type_eff": 2.0,
+          "max_pct_default": 194.6,
+          "ohko_default": true
+        },
+        "spread": null
+      },
+      {
+        "threat": {
+          "attacker": "Slowking",
+          "attacker_stats": {
+            "hp": 170,
+            "attack": 139,
+            "defense": 100,
+            "spAttack": 108,
+            "spDefense": 132,
+            "speed": 82
+          },
+          "attacker_ability": "oblivious",
+          "move": "Hidroariete",
+          "move_type": "Agua",
+          "move_power": 85,
+          "move_category": "physical",
+          "stab": true,
+          "type_eff": 2.0,
+          "max_pct_default": 74.6,
+          "ohko_default": false
+        },
+        "spread": [
+          0,
+          0,
+          153
+        ]
+      },
+      {
+        "threat": {
+          "attacker": "Blastoise",
+          "attacker_stats": {
+            "hp": 154,
+            "attack": 92,
+            "defense": 120,
+            "spAttack": 150,
+            "spDefense": 127,
+            "speed": 130
+          },
+          "attacker_ability": "torrent",
+          "move": "Chilling Water",
+          "move_type": "Agua",
+          "move_power": 50,
+          "move_category": "special",
+          "stab": true,
+          "type_eff": 2.0,
+          "max_pct_default": 66.5,
+          "ohko_default": false
+        },
+        "spread": [
+          0,
+          0,
+          153
+        ]
+      },
+      {
+        "threat": {
+          "attacker": "Zoroark de Hisui",
+          "attacker_stats": {
+            "hp": 130,
+            "attack": 108,
+            "defense": 80,
+            "spAttack": 194,
+            "spDefense": 82,
+            "speed": 162
+          },
+          "attacker_ability": "illusion",
+          "move": "Hiperrayo",
+          "move_type": "Normal",
+          "move_power": 150,
+          "move_category": "special",
+          "stab": true,
+          "type_eff": 1.0,
+          "max_pct_default": 65.4,
+          "ohko_default": false
+        },
+        "spread": [
+          0,
+          0,
+          153
+        ]
+      },
+      {
+        "threat": {
+          "attacker": "Corviknight",
+          "attacker_stats": {
+            "hp": 173,
+            "attack": 152,
+            "defense": 125,
+            "spAttack": 65,
+            "spDefense": 107,
+            "speed": 119
+          },
+          "attacker_ability": "pressure",
+          "move": "Ataque Aéreo",
+          "move_type": "Volador",
+          "move_power": 140,
+          "move_category": "physical",
+          "stab": true,
+          "type_eff": 1.0,
+          "max_pct_default": 60.5,
+          "ohko_default": false
+        },
+        "spread": [
+          0,
+          0,
+          153
+        ]
+      },
+      {
+        "threat": {
+          "attacker": "Garchomp",
+          "attacker_stats": {
+            "hp": 183,
+            "attack": 135,
+            "defense": 115,
+            "spAttack": 145,
+            "spDefense": 107,
+            "speed": 154
+          },
+          "attacker_ability": "sand-veil",
+          "move": "Cometa Draco",
+          "move_type": "Dragón",
+          "move_power": 130,
+          "move_category": "special",
+          "stab": true,
+          "type_eff": 1.0,
+          "max_pct_default": 56.8,
+          "ohko_default": false
+        },
+        "spread": [
+          0,
+          0,
+          153
+        ]
+      }
+    ]
+  },
+  {
+    "defender": "Corviknight",
+    "base_hp": 98,
+    "base_def": 105,
+    "base_spdef": 85,
+    "spread_results": [
+      {
+        "threat": {
+          "attacker": "Typhlosion de Hisui",
+          "attacker_stats": {
+            "hp": 148,
+            "attack": 93,
+            "defense": 98,
+            "spAttack": 188,
+            "spDefense": 107,
+            "speed": 147
+          },
+          "attacker_ability": "blaze",
+          "move": "Estallido",
+          "move_type": "Fuego",
+          "move_power": 150,
+          "move_category": "special",
+          "stab": true,
+          "type_eff": 2.0,
+          "max_pct_default": 175.6,
+          "ohko_default": true
+        },
+        "spread": null
+      },
+      {
+        "threat": {
+          "attacker": "Charizard",
+          "attacker_stats": {
+            "hp": 153,
+            "attack": 149,
+            "defense": 98,
+            "spAttack": 116,
+            "spDefense": 107,
+            "speed": 152
+          },
+          "attacker_ability": "blaze",
+          "move": "Cólera Ardiente",
+          "move_type": "Fuego",
+          "move_power": 75,
+          "move_category": "physical",
+          "stab": true,
+          "type_eff": 2.0,
+          "max_pct_default": 89.3,
+          "ohko_default": false
+        },
+        "spread": [
+          11,
+          0,
+          184
+        ]
+      },
+      {
+        "threat": {
+          "attacker": "Greninja",
+          "attacker_stats": {
+            "hp": 147,
+            "attack": 103,
+            "defense": 87,
+            "spAttack": 170,
+            "spDefense": 93,
+            "speed": 174
+          },
+          "attacker_ability": "torrent",
+          "move": "Hidrocañón",
+          "move_type": "Agua",
+          "move_power": 150,
+          "move_category": "special",
+          "stab": true,
+          "type_eff": 1.0,
+          "max_pct_default": 87.8,
+          "ohko_default": false
+        },
+        "spread": [
+          8,
+          0,
+          181
+        ]
+      },
+      {
+        "threat": {
+          "attacker": "Emboar",
+          "attacker_stats": {
+            "hp": 185,
+            "attack": 192,
+            "defense": 85,
+            "spAttack": 108,
+            "spDefense": 87,
+            "speed": 117
+          },
+          "attacker_ability": "blaze",
+          "move": "Puño Certero",
+          "move_type": "Lucha",
+          "move_power": 150,
+          "move_category": "physical",
+          "stab": true,
+          "type_eff": 1.0,
+          "max_pct_default": 59.0,
+          "ohko_default": false
+        },
+        "spread": [
+          0,
+          0,
+          173
+        ]
+      }
+    ]
+  },
+  {
+    "defender": "Delphox",
+    "base_hp": 75,
+    "base_def": 72,
+    "base_spdef": 100,
+    "spread_results": [
+      {
+        "threat": {
+          "attacker": "Greninja",
+          "attacker_stats": {
+            "hp": 147,
+            "attack": 103,
+            "defense": 87,
+            "spAttack": 170,
+            "spDefense": 93,
+            "speed": 174
+          },
+          "attacker_ability": "torrent",
+          "move": "Hidrocañón",
+          "move_type": "Agua",
+          "move_power": 150,
+          "move_category": "special",
+          "stab": true,
+          "type_eff": 2.0,
+          "max_pct_default": 197.8,
+          "ohko_default": true
+        },
+        "spread": null
+      },
+      {
+        "threat": {
+          "attacker": "Slowking",
+          "attacker_stats": {
+            "hp": 170,
+            "attack": 139,
+            "defense": 100,
+            "spAttack": 108,
+            "spDefense": 132,
+            "speed": 82
+          },
+          "attacker_ability": "oblivious",
+          "move": "Hidroariete",
+          "move_type": "Agua",
+          "move_power": 85,
+          "move_category": "physical",
+          "stab": true,
+          "type_eff": 2.0,
+          "max_pct_default": 75.8,
+          "ohko_default": false
+        },
+        "spread": [
+          0,
+          0,
+          150
+        ]
+      },
+      {
+        "threat": {
+          "attacker": "Incineroar",
+          "attacker_stats": {
+            "hp": 170,
+            "attack": 183,
+            "defense": 110,
+            "spAttack": 90,
+            "spDefense": 112,
+            "speed": 112
+          },
+          "attacker_ability": "blaze",
+          "move": "Desahogo",
+          "move_type": "Siniestro",
+          "move_power": 75,
+          "move_category": "physical",
+          "stab": true,
+          "type_eff": 2.0,
+          "max_pct_default": 67.6,
+          "ohko_default": false
+        },
+        "spread": [
+          0,
+          0,
+          150
+        ]
+      },
+      {
+        "threat": {
+          "attacker": "Blastoise",
+          "attacker_stats": {
+            "hp": 154,
+            "attack": 92,
+            "defense": 120,
+            "spAttack": 150,
+            "spDefense": 127,
+            "speed": 130
+          },
+          "attacker_ability": "torrent",
+          "move": "Chilling Water",
+          "move_type": "Agua",
+          "move_power": 50,
+          "move_category": "special",
+          "stab": true,
+          "type_eff": 2.0,
+          "max_pct_default": 67.6,
+          "ohko_default": false
+        },
+        "spread": [
+          0,
+          0,
+          150
+        ]
+      },
+      {
+        "threat": {
+          "attacker": "Zoroark de Hisui",
+          "attacker_stats": {
+            "hp": 130,
+            "attack": 108,
+            "defense": 80,
+            "spAttack": 194,
+            "spDefense": 82,
+            "speed": 162
+          },
+          "attacker_ability": "illusion",
+          "move": "Hiperrayo",
+          "move_type": "Normal",
+          "move_power": 150,
+          "move_category": "special",
+          "stab": true,
+          "type_eff": 1.0,
+          "max_pct_default": 66.5,
+          "ohko_default": false
+        },
+        "spread": [
+          0,
+          0,
+          150
+        ]
+      },
+      {
+        "threat": {
+          "attacker": "Corviknight",
+          "attacker_stats": {
+            "hp": 173,
+            "attack": 152,
+            "defense": 125,
+            "spAttack": 65,
+            "spDefense": 107,
+            "speed": 119
+          },
+          "attacker_ability": "pressure",
+          "move": "Ataque Aéreo",
+          "move_type": "Volador",
+          "move_power": 140,
+          "move_category": "physical",
+          "stab": true,
+          "type_eff": 1.0,
+          "max_pct_default": 61.5,
+          "ohko_default": false
+        },
+        "spread": [
+          0,
+          0,
+          150
+        ]
+      },
+      {
+        "threat": {
+          "attacker": "Garchomp",
+          "attacker_stats": {
+            "hp": 183,
+            "attack": 135,
+            "defense": 115,
+            "spAttack": 145,
+            "spDefense": 107,
+            "speed": 154
+          },
+          "attacker_ability": "sand-veil",
+          "move": "Cometa Draco",
+          "move_type": "Dragón",
+          "move_power": 130,
+          "move_category": "special",
+          "stab": true,
+          "type_eff": 1.0,
+          "max_pct_default": 57.7,
+          "ohko_default": false
+        },
+        "spread": [
+          0,
+          0,
+          150
+        ]
+      }
+    ]
+  },
+  {
+    "defender": "Dragonite",
+    "base_hp": 91,
+    "base_def": 95,
+    "base_spdef": 100,
+    "spread_results": [
+      {
+        "threat": {
+          "attacker": "Garchomp",
+          "attacker_stats": {
+            "hp": 183,
+            "attack": 135,
+            "defense": 115,
+            "spAttack": 145,
+            "spDefense": 107,
+            "speed": 154
+          },
+          "attacker_ability": "sand-veil",
+          "move": "Cometa Draco",
+          "move_type": "Dragón",
+          "move_power": 130,
+          "move_category": "special",
+          "stab": true,
+          "type_eff": 2.0,
+          "max_pct_default": 106.1,
+          "ohko_default": true
+        },
+        "spread": [
+          0,
+          13,
+          166
+        ]
+      },
+      {
+        "threat": {
+          "attacker": "Zoroark de Hisui",
+          "attacker_stats": {
+            "hp": 130,
+            "attack": 108,
+            "defense": 80,
+            "spAttack": 194,
+            "spDefense": 82,
+            "speed": 162
+          },
+          "attacker_ability": "illusion",
+          "move": "Hiperrayo",
+          "move_type": "Normal",
+          "move_power": 150,
+          "move_category": "special",
+          "stab": true,
+          "type_eff": 1.0,
+          "max_pct_default": 61.1,
+          "ohko_default": false
+        },
+        "spread": [
+          0,
+          0,
+          166
+        ]
+      },
+      {
+        "threat": {
+          "attacker": "Corviknight",
+          "attacker_stats": {
+            "hp": 173,
+            "attack": 152,
+            "defense": 125,
+            "spAttack": 65,
+            "spDefense": 107,
+            "speed": 119
+          },
+          "attacker_ability": "pressure",
+          "move": "Ataque Aéreo",
+          "move_type": "Volador",
+          "move_power": 140,
+          "move_category": "physical",
+          "stab": true,
+          "type_eff": 1.0,
+          "max_pct_default": 56.6,
+          "ohko_default": false
+        },
+        "spread": [
+          0,
+          0,
+          166
+        ]
+      }
+    ]
+  },
+  {
+    "defender": "Emboar",
+    "base_hp": 110,
+    "base_def": 65,
+    "base_spdef": 65,
+    "spread_results": [
+      {
+        "threat": {
+          "attacker": "Greninja",
+          "attacker_stats": {
+            "hp": 147,
+            "attack": 103,
+            "defense": 87,
+            "spAttack": 170,
+            "spDefense": 93,
+            "speed": 174
+          },
+          "attacker_ability": "torrent",
+          "move": "Hidrocañón",
+          "move_type": "Agua",
+          "move_power": 150,
+          "move_category": "special",
+          "stab": true,
+          "type_eff": 2.0,
+          "max_pct_default": 165.9,
+          "ohko_default": true
+        },
+        "spread": null
+      },
+      {
+        "threat": {
+          "attacker": "Corviknight",
+          "attacker_stats": {
+            "hp": 173,
+            "attack": 152,
+            "defense": 125,
+            "spAttack": 65,
+            "spDefense": 107,
+            "speed": 119
+          },
+          "attacker_ability": "pressure",
+          "move": "Ataque Aéreo",
+          "move_type": "Volador",
+          "move_power": 140,
+          "move_category": "physical",
+          "stab": true,
+          "type_eff": 2.0,
+          "max_pct_default": 103.7,
+          "ohko_default": true
+        },
+        "spread": null
+      },
+      {
+        "threat": {
+          "attacker": "Espathra",
+          "attacker_stats": {
+            "hp": 170,
+            "attack": 72,
+            "defense": 80,
+            "spAttack": 168,
+            "spDefense": 82,
+            "speed": 157
+          },
+          "attacker_ability": "opportunist",
+          "move": "Psíquico",
+          "move_type": "Psíquico",
+          "move_power": 90,
+          "move_category": "special",
+          "stab": true,
+          "type_eff": 2.0,
+          "max_pct_default": 67.7,
+          "ohko_default": false
+        },
+        "spread": [
+          0,
+          0,
+          185
+        ]
+      },
+      {
+        "threat": {
+          "attacker": "Slowking",
+          "attacker_stats": {
+            "hp": 170,
+            "attack": 139,
+            "defense": 100,
+            "spAttack": 108,
+            "spDefense": 132,
+            "speed": 82
+          },
+          "attacker_ability": "oblivious",
+          "move": "Hidroariete",
+          "move_type": "Agua",
+          "move_power": 85,
+          "move_category": "physical",
+          "stab": true,
+          "type_eff": 2.0,
+          "max_pct_default": 63.6,
+          "ohko_default": false
+        },
+        "spread": [
+          0,
+          0,
+          185
+        ]
+      },
+      {
+        "threat": {
+          "attacker": "Blastoise",
+          "attacker_stats": {
+            "hp": 154,
+            "attack": 92,
+            "defense": 120,
+            "spAttack": 150,
+            "spDefense": 127,
+            "speed": 130
+          },
+          "attacker_ability": "torrent",
+          "move": "Chilling Water",
+          "move_type": "Agua",
+          "move_power": 50,
+          "move_category": "special",
+          "stab": true,
+          "type_eff": 2.0,
+          "max_pct_default": 56.7,
+          "ohko_default": false
+        },
+        "spread": [
+          0,
+          0,
+          185
+        ]
+      },
+      {
+        "threat": {
+          "attacker": "Delphox",
+          "attacker_stats": {
+            "hp": 150,
+            "attack": 80,
+            "defense": 92,
+            "spAttack": 182,
+            "spDefense": 122,
+            "speed": 156
+          },
+          "attacker_ability": "blaze",
+          "move": "Psicorruido",
+          "move_type": "Psíquico",
+          "move_power": 75,
+          "move_category": "special",
+          "stab": true,
+          "type_eff": 2.0,
+          "max_pct_default": 56.7,
+          "ohko_default": false
+        },
+        "spread": [
+          0,
+          0,
+          185
+        ]
+      },
+      {
+        "threat": {
+          "attacker": "Zoroark de Hisui",
+          "attacker_stats": {
+            "hp": 130,
+            "attack": 108,
+            "defense": 80,
+            "spAttack": 194,
+            "spDefense": 82,
+            "speed": 162
+          },
+          "attacker_ability": "illusion",
+          "move": "Hiperrayo",
+          "move_type": "Normal",
+          "move_power": 150,
+          "move_category": "special",
+          "stab": true,
+          "type_eff": 1.0,
+          "max_pct_default": 55.8,
+          "ohko_default": false
+        },
+        "spread": [
+          0,
+          5,
+          185
+        ]
+      }
+    ]
+  },
+  {
+    "defender": "Espathra",
+    "base_hp": 95,
+    "base_def": 60,
+    "base_spdef": 60,
+    "spread_results": [
+      {
+        "threat": {
+          "attacker": "Zoroark de Hisui",
+          "attacker_stats": {
+            "hp": 130,
+            "attack": 108,
+            "defense": 80,
+            "spAttack": 194,
+            "spDefense": 82,
+            "speed": 162
+          },
+          "attacker_ability": "illusion",
+          "move": "Hiperrayo",
+          "move_type": "Normal",
+          "move_power": 150,
+          "move_category": "special",
+          "stab": true,
+          "type_eff": 1.0,
+          "max_pct_default": 118.8,
+          "ohko_default": true
+        },
+        "spread": [
+          0,
+          10,
+          170
+        ]
+      },
+      {
+        "threat": {
+          "attacker": "Greninja",
+          "attacker_stats": {
+            "hp": 147,
+            "attack": 103,
+            "defense": 87,
+            "spAttack": 170,
+            "spDefense": 93,
+            "speed": 174
+          },
+          "attacker_ability": "torrent",
+          "move": "Hidrocañón",
+          "move_type": "Agua",
+          "move_power": 150,
+          "move_category": "special",
+          "stab": true,
+          "type_eff": 1.0,
+          "max_pct_default": 89.1,
+          "ohko_default": false
+        },
+        "spread": [
+          11,
+          0,
+          181
+        ]
+      },
+      {
+        "threat": {
+          "attacker": "Typhlosion de Hisui",
+          "attacker_stats": {
+            "hp": 148,
+            "attack": 93,
+            "defense": 98,
+            "spAttack": 188,
+            "spDefense": 107,
+            "speed": 147
+          },
+          "attacker_ability": "blaze",
+          "move": "Estallido",
+          "move_type": "Fuego",
+          "move_power": 150,
+          "move_category": "special",
+          "stab": true,
+          "type_eff": 1.0,
+          "max_pct_default": 89.1,
+          "ohko_default": false
+        },
+        "spread": [
+          11,
+          7,
+          181
+        ]
+      },
+      {
+        "threat": {
+          "attacker": "Incineroar",
+          "attacker_stats": {
+            "hp": 170,
+            "attack": 183,
+            "defense": 110,
+            "spAttack": 90,
+            "spDefense": 112,
+            "speed": 112
+          },
+          "attacker_ability": "blaze",
+          "move": "Desahogo",
+          "move_type": "Siniestro",
+          "move_power": 75,
+          "move_category": "physical",
+          "stab": true,
+          "type_eff": 2.0,
+          "max_pct_default": 60.9,
+          "ohko_default": false
+        },
+        "spread": [
+          0,
+          4,
+          170
+        ]
+      },
+      {
+        "threat": {
+          "attacker": "Emboar",
+          "attacker_stats": {
+            "hp": 185,
+            "attack": 192,
+            "defense": 85,
+            "spAttack": 108,
+            "spDefense": 87,
+            "speed": 117
+          },
+          "attacker_ability": "blaze",
+          "move": "Puño Certero",
+          "move_type": "Lucha",
+          "move_power": 150,
+          "move_category": "physical",
+          "stab": true,
+          "type_eff": 0.5,
+          "max_pct_default": 59.4,
+          "ohko_default": false
+        },
+        "spread": [
+          0,
+          0,
+          170
+        ]
+      },
+      {
+        "threat": {
+          "attacker": "Corviknight",
+          "attacker_stats": {
+            "hp": 173,
+            "attack": 152,
+            "defense": 125,
+            "spAttack": 65,
+            "spDefense": 107,
+            "speed": 119
+          },
+          "attacker_ability": "pressure",
+          "move": "Ataque Aéreo",
+          "move_type": "Volador",
+          "move_power": 140,
+          "move_category": "physical",
+          "stab": true,
+          "type_eff": 1.0,
+          "max_pct_default": 55.4,
+          "ohko_default": false
+        },
+        "spread": [
+          0,
+          0,
+          170
+        ]
+      },
+      {
+        "threat": {
+          "attacker": "Garchomp",
+          "attacker_stats": {
+            "hp": 183,
+            "attack": 135,
+            "defense": 115,
+            "spAttack": 145,
+            "spDefense": 107,
+            "speed": 154
+          },
+          "attacker_ability": "sand-veil",
+          "move": "Cometa Draco",
+          "move_type": "Dragón",
+          "move_power": 130,
+          "move_category": "special",
+          "stab": true,
+          "type_eff": 1.0,
+          "max_pct_default": 52.0,
+          "ohko_default": false
+        },
+        "spread": [
+          0,
+          0,
+          170
+        ]
+      }
+    ]
+  },
+  {
+    "defender": "Garchomp",
+    "base_hp": 108,
+    "base_def": 95,
+    "base_spdef": 85,
+    "spread_results": [
+      {
+        "threat": {
+          "attacker": "Greninja",
+          "attacker_stats": {
+            "hp": 147,
+            "attack": 103,
+            "defense": 87,
+            "spAttack": 170,
+            "spDefense": 93,
+            "speed": 174
+          },
+          "attacker_ability": "torrent",
+          "move": "Hidrocañón",
+          "move_type": "Agua",
+          "move_power": 150,
+          "move_category": "special",
+          "stab": true,
+          "type_eff": 1.0,
+          "max_pct_default": 83.7,
+          "ohko_default": false
+        },
+        "spread": [
+          0,
+          0,
+          183
+        ]
+      },
+      {
+        "threat": {
+          "attacker": "Emboar",
+          "attacker_stats": {
+            "hp": 185,
+            "attack": 192,
+            "defense": 85,
+            "spAttack": 108,
+            "spDefense": 87,
+            "speed": 117
+          },
+          "attacker_ability": "blaze",
+          "move": "Puño Certero",
+          "move_type": "Lucha",
+          "move_power": 150,
+          "move_category": "physical",
+          "stab": true,
+          "type_eff": 1.0,
+          "max_pct_default": 56.3,
+          "ohko_default": false
+        },
+        "spread": [
+          0,
+          0,
+          183
+        ]
+      },
+      {
+        "threat": {
+          "attacker": "Zoroark de Hisui",
+          "attacker_stats": {
+            "hp": 130,
+            "attack": 108,
+            "defense": 80,
+            "spAttack": 194,
+            "spDefense": 82,
+            "speed": 162
+          },
+          "attacker_ability": "illusion",
+          "move": "Hiperrayo",
+          "move_type": "Normal",
+          "move_power": 150,
+          "move_category": "special",
+          "stab": true,
+          "type_eff": 1.0,
+          "max_pct_default": 56.3,
+          "ohko_default": false
+        },
+        "spread": [
+          0,
+          0,
+          183
+        ]
+      },
+      {
+        "threat": {
+          "attacker": "Corviknight",
+          "attacker_stats": {
+            "hp": 173,
+            "attack": 152,
+            "defense": 125,
+            "spAttack": 65,
+            "spDefense": 107,
+            "speed": 119
+          },
+          "attacker_ability": "pressure",
+          "move": "Ataque Aéreo",
+          "move_type": "Volador",
+          "move_power": 140,
+          "move_category": "physical",
+          "stab": true,
+          "type_eff": 1.0,
+          "max_pct_default": 52.1,
+          "ohko_default": false
+        },
+        "spread": [
+          0,
+          0,
+          183
+        ]
+      }
+    ]
+  },
+  {
+    "defender": "Gengar",
+    "base_hp": 60,
+    "base_def": 60,
+    "base_spdef": 75,
+    "spread_results": [
+      {
+        "threat": {
+          "attacker": "Greninja",
+          "attacker_stats": {
+            "hp": 147,
+            "attack": 103,
+            "defense": 87,
+            "spAttack": 170,
+            "spDefense": 93,
+            "speed": 174
+          },
+          "attacker_ability": "torrent",
+          "move": "Hidrocañón",
+          "move_type": "Agua",
+          "move_power": 150,
+          "move_category": "special",
+          "stab": true,
+          "type_eff": 1.0,
+          "max_pct_default": 107.8,
+          "ohko_default": true
+        },
+        "spread": null
+      },
+      {
+        "threat": {
+          "attacker": "Typhlosion de Hisui",
+          "attacker_stats": {
+            "hp": 148,
+            "attack": 93,
+            "defense": 98,
+            "spAttack": 188,
+            "spDefense": 107,
+            "speed": 147
+          },
+          "attacker_ability": "blaze",
+          "move": "Estallido",
+          "move_type": "Fuego",
+          "move_power": 150,
+          "move_category": "special",
+          "stab": true,
+          "type_eff": 1.0,
+          "max_pct_default": 107.8,
+          "ohko_default": true
+        },
+        "spread": null
+      },
+      {
+        "threat": {
+          "attacker": "Espathra",
+          "attacker_stats": {
+            "hp": 170,
+            "attack": 72,
+            "defense": 80,
+            "spAttack": 168,
+            "spDefense": 82,
+            "speed": 157
+          },
+          "attacker_ability": "opportunist",
+          "move": "Psíquico",
+          "move_type": "Psíquico",
+          "move_power": 90,
+          "move_category": "special",
+          "stab": true,
+          "type_eff": 2.0,
+          "max_pct_default": 88.0,
+          "ohko_default": false
+        },
+        "spread": [
+          13,
+          0,
+          148
+        ]
+      },
+      {
+        "threat": {
+          "attacker": "Incineroar",
+          "attacker_stats": {
+            "hp": 170,
+            "attack": 183,
+            "defense": 110,
+            "spAttack": 90,
+            "spDefense": 112,
+            "speed": 112
+          },
+          "attacker_ability": "blaze",
+          "move": "Desahogo",
+          "move_type": "Siniestro",
+          "move_power": 75,
+          "move_category": "physical",
+          "stab": true,
+          "type_eff": 2.0,
+          "max_pct_default": 73.7,
+          "ohko_default": false
+        },
+        "spread": [
+          0,
+          4,
+          135
+        ]
+      },
+      {
+        "threat": {
+          "attacker": "Delphox",
+          "attacker_stats": {
+            "hp": 150,
+            "attack": 80,
+            "defense": 92,
+            "spAttack": 182,
+            "spDefense": 122,
+            "speed": 156
+          },
+          "attacker_ability": "blaze",
+          "move": "Psicorruido",
+          "move_type": "Psíquico",
+          "move_power": 75,
+          "move_category": "special",
+          "stab": true,
+          "type_eff": 2.0,
+          "max_pct_default": 73.7,
+          "ohko_default": false
+        },
+        "spread": [
+          0,
+          0,
+          135
+        ]
+      },
+      {
+        "threat": {
+          "attacker": "Corviknight",
+          "attacker_stats": {
+            "hp": 173,
+            "attack": 152,
+            "defense": 125,
+            "spAttack": 65,
+            "spDefense": 107,
+            "speed": 119
+          },
+          "attacker_ability": "pressure",
+          "move": "Ataque Aéreo",
+          "move_type": "Volador",
+          "move_power": 140,
+          "move_category": "physical",
+          "stab": true,
+          "type_eff": 1.0,
+          "max_pct_default": 67.1,
+          "ohko_default": false
+        },
+        "spread": [
+          0,
+          0,
+          135
+        ]
+      },
+      {
+        "threat": {
+          "attacker": "Garchomp",
+          "attacker_stats": {
+            "hp": 183,
+            "attack": 135,
+            "defense": 115,
+            "spAttack": 145,
+            "spDefense": 107,
+            "speed": 154
+          },
+          "attacker_ability": "sand-veil",
+          "move": "Cometa Draco",
+          "move_type": "Dragón",
+          "move_power": 130,
+          "move_category": "special",
+          "stab": true,
+          "type_eff": 1.0,
+          "max_pct_default": 62.9,
+          "ohko_default": false
+        },
+        "spread": [
+          0,
+          0,
+          135
+        ]
+      },
+      {
+        "threat": {
+          "attacker": "Dragonite",
+          "attacker_stats": {
+            "hp": 166,
+            "attack": 204,
+            "defense": 115,
+            "spAttack": 108,
+            "spDefense": 122,
+            "speed": 132
+          },
+          "attacker_ability": "inner-focus",
+          "move": "Vasto Impacto",
+          "move_type": "Dragón",
+          "move_power": 60,
+          "move_category": "physical",
+          "stab": true,
+          "type_eff": 1.0,
+          "max_pct_default": 58.1,
+          "ohko_default": false
+        },
+        "spread": [
+          0,
+          0,
+          135
+        ]
+      }
+    ]
+  },
+  {
+    "defender": "Greninja",
+    "base_hp": 72,
+    "base_def": 67,
+    "base_spdef": 71,
+    "spread_results": [
+      {
+        "threat": {
+          "attacker": "Emboar",
+          "attacker_stats": {
+            "hp": 185,
+            "attack": 192,
+            "defense": 85,
+            "spAttack": 108,
+            "spDefense": 87,
+            "speed": 117
+          },
+          "attacker_ability": "blaze",
+          "move": "Puño Certero",
+          "move_type": "Lucha",
+          "move_power": 150,
+          "move_category": "physical",
+          "stab": true,
+          "type_eff": 2.0,
+          "max_pct_default": 135.8,
+          "ohko_default": true
+        },
+        "spread": null
+      },
+      {
+        "threat": {
+          "attacker": "Whimsicott",
+          "attacker_stats": {
+            "hp": 135,
+            "attack": 78,
+            "defense": 105,
+            "spAttack": 141,
+            "spDefense": 97,
+            "speed": 168
+          },
+          "attacker_ability": "prankster",
+          "move": "Rayo Solar",
+          "move_type": "Planta",
+          "move_power": 120,
+          "move_category": "special",
+          "stab": true,
+          "type_eff": 2.0,
+          "max_pct_default": 108.9,
+          "ohko_default": true
+        },
+        "spread": null
+      },
+      {
+        "threat": {
+          "attacker": "Zoroark de Hisui",
+          "attacker_stats": {
+            "hp": 130,
+            "attack": 108,
+            "defense": 80,
+            "spAttack": 194,
+            "spDefense": 82,
+            "speed": 162
+          },
+          "attacker_ability": "illusion",
+          "move": "Hiperrayo",
+          "move_type": "Normal",
+          "move_power": 150,
+          "move_category": "special",
+          "stab": true,
+          "type_eff": 1.0,
+          "max_pct_default": 67.6,
+          "ohko_default": false
+        },
+        "spread": [
+          0,
+          0,
+          147
+        ]
+      },
+      {
+        "threat": {
+          "attacker": "Corviknight",
+          "attacker_stats": {
+            "hp": 173,
+            "attack": 152,
+            "defense": 125,
+            "spAttack": 65,
+            "spDefense": 107,
+            "speed": 119
+          },
+          "attacker_ability": "pressure",
+          "move": "Ataque Aéreo",
+          "move_type": "Volador",
+          "move_power": 140,
+          "move_category": "physical",
+          "stab": true,
+          "type_eff": 1.0,
+          "max_pct_default": 62.6,
+          "ohko_default": false
+        },
+        "spread": [
+          0,
+          0,
+          147
+        ]
+      },
+      {
+        "threat": {
+          "attacker": "Garchomp",
+          "attacker_stats": {
+            "hp": 183,
+            "attack": 135,
+            "defense": 115,
+            "spAttack": 145,
+            "spDefense": 107,
+            "speed": 154
+          },
+          "attacker_ability": "sand-veil",
+          "move": "Cometa Draco",
+          "move_type": "Dragón",
+          "move_power": 130,
+          "move_category": "special",
+          "stab": true,
+          "type_eff": 1.0,
+          "max_pct_default": 58.7,
+          "ohko_default": false
+        },
+        "spread": [
+          0,
+          0,
+          147
+        ]
+      },
+      {
+        "threat": {
+          "attacker": "Typhlosion de Hisui",
+          "attacker_stats": {
+            "hp": 148,
+            "attack": 93,
+            "defense": 98,
+            "spAttack": 188,
+            "spDefense": 107,
+            "speed": 147
+          },
+          "attacker_ability": "blaze",
+          "move": "Estallido",
+          "move_type": "Fuego",
+          "move_power": 150,
+          "move_category": "special",
+          "stab": true,
+          "type_eff": 0.5,
+          "max_pct_default": 50.3,
+          "ohko_default": false
+        },
+        "spread": [
+          0,
+          0,
+          147
+        ]
+      }
+    ]
+  },
+  {
+    "defender": "Incineroar",
+    "base_hp": 95,
+    "base_def": 90,
+    "base_spdef": 90,
+    "spread_results": [
+      {
+        "threat": {
+          "attacker": "Greninja",
+          "attacker_stats": {
+            "hp": 147,
+            "attack": 103,
+            "defense": 87,
+            "spAttack": 170,
+            "spDefense": 93,
+            "speed": 174
+          },
+          "attacker_ability": "torrent",
+          "move": "Hidrocañón",
+          "move_type": "Agua",
+          "move_power": 150,
+          "move_category": "special",
+          "stab": true,
+          "type_eff": 2.0,
+          "max_pct_default": 178.2,
+          "ohko_default": true
+        },
+        "spread": null
+      },
+      {
+        "threat": {
+          "attacker": "Emboar",
+          "attacker_stats": {
+            "hp": 185,
+            "attack": 192,
+            "defense": 85,
+            "spAttack": 108,
+            "spDefense": 87,
+            "speed": 117
+          },
+          "attacker_ability": "blaze",
+          "move": "Puño Certero",
+          "move_type": "Lucha",
+          "move_power": 150,
+          "move_category": "physical",
+          "stab": true,
+          "type_eff": 2.0,
+          "max_pct_default": 120.3,
+          "ohko_default": true
+        },
+        "spread": null
+      },
+      {
+        "threat": {
+          "attacker": "Slowking",
+          "attacker_stats": {
+            "hp": 170,
+            "attack": 139,
+            "defense": 100,
+            "spAttack": 108,
+            "spDefense": 132,
+            "speed": 82
+          },
+          "attacker_ability": "oblivious",
+          "move": "Hidroariete",
+          "move_type": "Agua",
+          "move_power": 85,
+          "move_category": "physical",
+          "stab": true,
+          "type_eff": 2.0,
+          "max_pct_default": 68.3,
+          "ohko_default": false
+        },
+        "spread": [
+          0,
+          0,
+          170
+        ]
+      },
+      {
+        "threat": {
+          "attacker": "Blastoise",
+          "attacker_stats": {
+            "hp": 154,
+            "attack": 92,
+            "defense": 120,
+            "spAttack": 150,
+            "spDefense": 127,
+            "speed": 130
+          },
+          "attacker_ability": "torrent",
+          "move": "Chilling Water",
+          "move_type": "Agua",
+          "move_power": 50,
+          "move_category": "special",
+          "stab": true,
+          "type_eff": 2.0,
+          "max_pct_default": 60.9,
+          "ohko_default": false
+        },
+        "spread": [
+          0,
+          0,
+          170
+        ]
+      },
+      {
+        "threat": {
+          "attacker": "Zoroark de Hisui",
+          "attacker_stats": {
+            "hp": 130,
+            "attack": 108,
+            "defense": 80,
+            "spAttack": 194,
+            "spDefense": 82,
+            "speed": 162
+          },
+          "attacker_ability": "illusion",
+          "move": "Hiperrayo",
+          "move_type": "Normal",
+          "move_power": 150,
+          "move_category": "special",
+          "stab": true,
+          "type_eff": 1.0,
+          "max_pct_default": 59.9,
+          "ohko_default": false
+        },
+        "spread": [
+          0,
+          0,
+          170
+        ]
+      },
+      {
+        "threat": {
+          "attacker": "Corviknight",
+          "attacker_stats": {
+            "hp": 173,
+            "attack": 152,
+            "defense": 125,
+            "spAttack": 65,
+            "spDefense": 107,
+            "speed": 119
+          },
+          "attacker_ability": "pressure",
+          "move": "Ataque Aéreo",
+          "move_type": "Volador",
+          "move_power": 140,
+          "move_category": "physical",
+          "stab": true,
+          "type_eff": 1.0,
+          "max_pct_default": 55.4,
+          "ohko_default": false
+        },
+        "spread": [
+          0,
+          0,
+          170
+        ]
+      },
+      {
+        "threat": {
+          "attacker": "Garchomp",
+          "attacker_stats": {
+            "hp": 183,
+            "attack": 135,
+            "defense": 115,
+            "spAttack": 145,
+            "spDefense": 107,
+            "speed": 154
+          },
+          "attacker_ability": "sand-veil",
+          "move": "Cometa Draco",
+          "move_type": "Dragón",
+          "move_power": 130,
+          "move_category": "special",
+          "stab": true,
+          "type_eff": 1.0,
+          "max_pct_default": 52.0,
+          "ohko_default": false
+        },
+        "spread": [
+          0,
+          0,
+          170
+        ]
+      }
+    ]
+  },
+  {
+    "defender": "Slowking",
+    "base_hp": 95,
+    "base_def": 80,
+    "base_spdef": 110,
+    "spread_results": [
+      {
+        "threat": {
+          "attacker": "Incineroar",
+          "attacker_stats": {
+            "hp": 170,
+            "attack": 183,
+            "defense": 110,
+            "spAttack": 90,
+            "spDefense": 112,
+            "speed": 112
+          },
+          "attacker_ability": "blaze",
+          "move": "Desahogo",
+          "move_type": "Siniestro",
+          "move_power": 75,
+          "move_category": "physical",
+          "stab": true,
+          "type_eff": 2.0,
+          "max_pct_default": 60.9,
+          "ohko_default": false
+        },
+        "spread": [
+          0,
+          0,
+          170
+        ]
+      },
+      {
+        "threat": {
+          "attacker": "Zoroark de Hisui",
+          "attacker_stats": {
+            "hp": 130,
+            "attack": 108,
+            "defense": 80,
+            "spAttack": 194,
+            "spDefense": 82,
+            "speed": 162
+          },
+          "attacker_ability": "illusion",
+          "move": "Hiperrayo",
+          "move_type": "Normal",
+          "move_power": 150,
+          "move_category": "special",
+          "stab": true,
+          "type_eff": 1.0,
+          "max_pct_default": 59.9,
+          "ohko_default": false
+        },
+        "spread": [
+          0,
+          0,
+          170
+        ]
+      },
+      {
+        "threat": {
+          "attacker": "Corviknight",
+          "attacker_stats": {
+            "hp": 173,
+            "attack": 152,
+            "defense": 125,
+            "spAttack": 65,
+            "spDefense": 107,
+            "speed": 119
+          },
+          "attacker_ability": "pressure",
+          "move": "Ataque Aéreo",
+          "move_type": "Volador",
+          "move_power": 140,
+          "move_category": "physical",
+          "stab": true,
+          "type_eff": 1.0,
+          "max_pct_default": 55.4,
+          "ohko_default": false
+        },
+        "spread": [
+          0,
+          0,
+          170
+        ]
+      }
+    ]
+  },
+  {
+    "defender": "Typhlosion de Hisui",
+    "base_hp": 73,
+    "base_def": 78,
+    "base_spdef": 85,
+    "spread_results": [
+      {
+        "threat": {
+          "attacker": "Greninja",
+          "attacker_stats": {
+            "hp": 147,
+            "attack": 103,
+            "defense": 87,
+            "spAttack": 170,
+            "spDefense": 93,
+            "speed": 174
+          },
+          "attacker_ability": "torrent",
+          "move": "Hidrocañón",
+          "move_type": "Agua",
+          "move_power": 150,
+          "move_category": "special",
+          "stab": true,
+          "type_eff": 2.0,
+          "max_pct_default": 200.0,
+          "ohko_default": true
+        },
+        "spread": null
+      },
+      {
+        "threat": {
+          "attacker": "Slowking",
+          "attacker_stats": {
+            "hp": 170,
+            "attack": 139,
+            "defense": 100,
+            "spAttack": 108,
+            "spDefense": 132,
+            "speed": 82
+          },
+          "attacker_ability": "oblivious",
+          "move": "Hidroariete",
+          "move_type": "Agua",
+          "move_power": 85,
+          "move_category": "physical",
+          "stab": true,
+          "type_eff": 2.0,
+          "max_pct_default": 76.7,
+          "ohko_default": false
+        },
+        "spread": [
+          0,
+          0,
+          148
+        ]
+      },
+      {
+        "threat": {
+          "attacker": "Incineroar",
+          "attacker_stats": {
+            "hp": 170,
+            "attack": 183,
+            "defense": 110,
+            "spAttack": 90,
+            "spDefense": 112,
+            "speed": 112
+          },
+          "attacker_ability": "blaze",
+          "move": "Desahogo",
+          "move_type": "Siniestro",
+          "move_power": 75,
+          "move_category": "physical",
+          "stab": true,
+          "type_eff": 2.0,
+          "max_pct_default": 68.3,
+          "ohko_default": false
+        },
+        "spread": [
+          0,
+          0,
+          148
+        ]
+      },
+      {
+        "threat": {
+          "attacker": "Blastoise",
+          "attacker_stats": {
+            "hp": 154,
+            "attack": 92,
+            "defense": 120,
+            "spAttack": 150,
+            "spDefense": 127,
+            "speed": 130
+          },
+          "attacker_ability": "torrent",
+          "move": "Chilling Water",
+          "move_type": "Agua",
+          "move_power": 50,
+          "move_category": "special",
+          "stab": true,
+          "type_eff": 2.0,
+          "max_pct_default": 68.3,
+          "ohko_default": false
+        },
+        "spread": [
+          0,
+          0,
+          148
+        ]
+      },
+      {
+        "threat": {
+          "attacker": "Corviknight",
+          "attacker_stats": {
+            "hp": 173,
+            "attack": 152,
+            "defense": 125,
+            "spAttack": 65,
+            "spDefense": 107,
+            "speed": 119
+          },
+          "attacker_ability": "pressure",
+          "move": "Ataque Aéreo",
+          "move_type": "Volador",
+          "move_power": 140,
+          "move_category": "physical",
+          "stab": true,
+          "type_eff": 1.0,
+          "max_pct_default": 62.2,
+          "ohko_default": false
+        },
+        "spread": [
+          0,
+          0,
+          148
+        ]
+      },
+      {
+        "threat": {
+          "attacker": "Garchomp",
+          "attacker_stats": {
+            "hp": 183,
+            "attack": 135,
+            "defense": 115,
+            "spAttack": 145,
+            "spDefense": 107,
+            "speed": 154
+          },
+          "attacker_ability": "sand-veil",
+          "move": "Cometa Draco",
+          "move_type": "Dragón",
+          "move_power": 130,
+          "move_category": "special",
+          "stab": true,
+          "type_eff": 1.0,
+          "max_pct_default": 58.3,
+          "ohko_default": false
+        },
+        "spread": [
+          0,
+          0,
+          148
+        ]
+      }
+    ]
+  },
+  {
+    "defender": "Whimsicott",
+    "base_hp": 60,
+    "base_def": 85,
+    "base_spdef": 75,
+    "spread_results": [
+      {
+        "threat": {
+          "attacker": "Typhlosion de Hisui",
+          "attacker_stats": {
+            "hp": 148,
+            "attack": 93,
+            "defense": 98,
+            "spAttack": 188,
+            "spDefense": 107,
+            "speed": 147
+          },
+          "attacker_ability": "blaze",
+          "move": "Estallido",
+          "move_type": "Fuego",
+          "move_power": 150,
+          "move_category": "special",
+          "stab": true,
+          "type_eff": 2.0,
+          "max_pct_default": 215.6,
+          "ohko_default": true
+        },
+        "spread": null
+      },
+      {
+        "threat": {
+          "attacker": "Corviknight",
+          "attacker_stats": {
+            "hp": 173,
+            "attack": 152,
+            "defense": 125,
+            "spAttack": 65,
+            "spDefense": 107,
+            "speed": 119
+          },
+          "attacker_ability": "pressure",
+          "move": "Ataque Aéreo",
+          "move_type": "Volador",
+          "move_power": 140,
+          "move_category": "physical",
+          "stab": true,
+          "type_eff": 2.0,
+          "max_pct_default": 134.7,
+          "ohko_default": true
+        },
+        "spread": null
+      },
+      {
+        "threat": {
+          "attacker": "Charizard",
+          "attacker_stats": {
+            "hp": 153,
+            "attack": 149,
+            "defense": 98,
+            "spAttack": 116,
+            "spDefense": 107,
+            "speed": 152
+          },
+          "attacker_ability": "blaze",
+          "move": "Cólera Ardiente",
+          "move_type": "Fuego",
+          "move_power": 75,
+          "move_category": "physical",
+          "stab": true,
+          "type_eff": 2.0,
+          "max_pct_default": 109.6,
+          "ohko_default": true
+        },
+        "spread": [
+          0,
+          32,
+          135
+        ]
+      },
+      {
+        "threat": {
+          "attacker": "Zoroark de Hisui",
+          "attacker_stats": {
+            "hp": 130,
+            "attack": 108,
+            "defense": 80,
+            "spAttack": 194,
+            "spDefense": 82,
+            "speed": 162
+          },
+          "attacker_ability": "illusion",
+          "move": "Hiperrayo",
+          "move_type": "Normal",
+          "move_power": 150,
+          "move_category": "special",
+          "stab": true,
+          "type_eff": 1.0,
+          "max_pct_default": 72.5,
+          "ohko_default": false
+        },
+        "spread": [
+          0,
+          0,
+          135
+        ]
+      },
+      {
+        "threat": {
+          "attacker": "Greninja",
+          "attacker_stats": {
+            "hp": 147,
+            "attack": 103,
+            "defense": 87,
+            "spAttack": 170,
+            "spDefense": 93,
+            "speed": 174
+          },
+          "attacker_ability": "torrent",
+          "move": "Hidrocañón",
+          "move_type": "Agua",
+          "move_power": 150,
+          "move_category": "special",
+          "stab": true,
+          "type_eff": 0.5,
+          "max_pct_default": 53.9,
+          "ohko_default": false
+        },
+        "spread": [
+          0,
+          0,
+          135
+        ]
+      }
+    ]
+  },
+  {
+    "defender": "Zoroark de Hisui",
+    "base_hp": 55,
+    "base_def": 60,
+    "base_spdef": 60,
+    "spread_results": [
+      {
+        "threat": {
+          "attacker": "Greninja",
+          "attacker_stats": {
+            "hp": 147,
+            "attack": 103,
+            "defense": 87,
+            "spAttack": 170,
+            "spDefense": 93,
+            "speed": 174
+          },
+          "attacker_ability": "torrent",
+          "move": "Hidrocañón",
+          "move_type": "Agua",
+          "move_power": 150,
+          "move_category": "special",
+          "stab": true,
+          "type_eff": 1.0,
+          "max_pct_default": 111.1,
+          "ohko_default": true
+        },
+        "spread": null
+      },
+      {
+        "threat": {
+          "attacker": "Typhlosion de Hisui",
+          "attacker_stats": {
+            "hp": 148,
+            "attack": 93,
+            "defense": 98,
+            "spAttack": 188,
+            "spDefense": 107,
+            "speed": 147
+          },
+          "attacker_ability": "blaze",
+          "move": "Estallido",
+          "move_type": "Fuego",
+          "move_power": 150,
+          "move_category": "special",
+          "stab": true,
+          "type_eff": 1.0,
+          "max_pct_default": 111.1,
+          "ohko_default": true
+        },
+        "spread": null
+      },
+      {
+        "threat": {
+          "attacker": "Incineroar",
+          "attacker_stats": {
+            "hp": 170,
+            "attack": 183,
+            "defense": 110,
+            "spAttack": 90,
+            "spDefense": 112,
+            "speed": 112
+          },
+          "attacker_ability": "blaze",
+          "move": "Desahogo",
+          "move_type": "Siniestro",
+          "move_power": 75,
+          "move_category": "physical",
+          "stab": true,
+          "type_eff": 2.0,
+          "max_pct_default": 75.9,
+          "ohko_default": false
+        },
+        "spread": [
+          0,
+          4,
+          130
+        ]
+      },
+      {
+        "threat": {
+          "attacker": "Corviknight",
+          "attacker_stats": {
+            "hp": 173,
+            "attack": 152,
+            "defense": 125,
+            "spAttack": 65,
+            "spDefense": 107,
+            "speed": 119
+          },
+          "attacker_ability": "pressure",
+          "move": "Ataque Aéreo",
+          "move_type": "Volador",
+          "move_power": 140,
+          "move_category": "physical",
+          "stab": true,
+          "type_eff": 1.0,
+          "max_pct_default": 69.1,
+          "ohko_default": false
+        },
+        "spread": [
+          0,
+          0,
+          130
+        ]
+      },
+      {
+        "threat": {
+          "attacker": "Garchomp",
+          "attacker_stats": {
+            "hp": 183,
+            "attack": 135,
+            "defense": 115,
+            "spAttack": 145,
+            "spDefense": 107,
+            "speed": 154
+          },
+          "attacker_ability": "sand-veil",
+          "move": "Cometa Draco",
+          "move_type": "Dragón",
+          "move_power": 130,
+          "move_category": "special",
+          "stab": true,
+          "type_eff": 1.0,
+          "max_pct_default": 64.8,
+          "ohko_default": false
+        },
+        "spread": [
+          0,
+          0,
+          130
+        ]
+      },
+      {
+        "threat": {
+          "attacker": "Dragonite",
+          "attacker_stats": {
+            "hp": 166,
+            "attack": 204,
+            "defense": 115,
+            "spAttack": 108,
+            "spDefense": 122,
+            "speed": 132
+          },
+          "attacker_ability": "inner-focus",
+          "move": "Vasto Impacto",
+          "move_type": "Dragón",
+          "move_power": 60,
+          "move_category": "physical",
+          "stab": true,
+          "type_eff": 1.0,
+          "max_pct_default": 59.9,
+          "ohko_default": false
+        },
+        "spread": [
+          0,
+          0,
+          130
+        ]
+      },
+      {
+        "threat": {
+          "attacker": "Whimsicott",
+          "attacker_stats": {
+            "hp": 135,
+            "attack": 78,
+            "defense": 105,
+            "spAttack": 141,
+            "spDefense": 97,
+            "speed": 168
+          },
+          "attacker_ability": "prankster",
+          "move": "Rayo Solar",
+          "move_type": "Planta",
+          "move_power": 120,
+          "move_category": "special",
+          "stab": true,
+          "type_eff": 1.0,
+          "max_pct_default": 59.9,
+          "ohko_default": false
+        },
+        "spread": [
+          0,
+          0,
+          130
+        ]
+      },
+      {
+        "threat": {
+          "attacker": "Charizard",
+          "attacker_stats": {
+            "hp": 153,
+            "attack": 149,
+            "defense": 98,
+            "spAttack": 116,
+            "spDefense": 107,
+            "speed": 152
+          },
+          "attacker_ability": "blaze",
+          "move": "Cólera Ardiente",
+          "move_type": "Fuego",
+          "move_power": 75,
+          "move_category": "physical",
+          "stab": true,
+          "type_eff": 1.0,
+          "max_pct_default": 56.2,
+          "ohko_default": false
+        },
+        "spread": [
+          0,
+          0,
+          130
+        ]
+      }
+    ]
+  }
+]

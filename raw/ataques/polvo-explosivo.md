@@ -1,0 +1,25 @@
+# Polvo Explosivo
+
+## Datos
+
+| Propiedad | Valor |
+|---|---|
+| Tipo | Bicho |
+| Categoría | Estado |
+| Potencia | - |
+| Precisión | 100 |
+| PP | 20 |
+| Slug | powder |
+| Op.gg | [powder](https://op.gg/es/pokemon-champions/moves/powder) |
+
+## Efecto
+
+Esparce un polvo sobre el objetivo. Si este usa un movimiento de tipo Fuego en el mismo turno, el polvo explota y le inflige daño.
+
+## Pokémon que lo aprenden
+
+Total: 1
+
+| # | Pokémon |
+|---|---|
+| 1 | Vivillon |

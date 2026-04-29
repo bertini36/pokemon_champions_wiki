@@ -1,0 +1,7935 @@
+[
+  {
+    "attacker": "Emboar",
+    "attacker_types": [
+      "Fuego",
+      "Lucha"
+    ],
+    "attacker_stats": {
+      "hp": 185,
+      "attack": 192,
+      "defense": 85,
+      "spAttack": 108,
+      "spDefense": 87,
+      "speed": 117
+    },
+    "attacker_spread": "Physical (32 Atk / 32 Spe)",
+    "attacker_nature": "Firme",
+    "attacker_ability": "blaze",
+    "attacker_ability_es": "Mar Llamas",
+    "attacker_ability_active": true,
+    "move": "Puño Certero",
+    "move_type": "Lucha",
+    "move_power": 150,
+    "move_category": "physical",
+    "stab": true,
+    "item": "type-booster (×1.2)",
+    "vs": [
+      {
+        "defender": "Emboar",
+        "defender_types": [
+          "Fuego",
+          "Lucha"
+        ],
+        "defender_ability": "blaze",
+        "ability_notes": [],
+        "defender_hp": 217,
+        "type_eff": 1.0,
+        "min_dmg": 103,
+        "max_dmg": 121,
+        "min_pct": 47.5,
+        "max_pct": 55.8,
+        "ohko": false,
+        "two_hko": true,
+        "with_berry": {
+          "min_dmg": 103,
+          "max_dmg": 121,
+          "min_pct": 47.5,
+          "max_pct": 55.8,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 2,
+          "max_dmg": 3,
+          "min_pct": 0.9,
+          "max_pct": 1.4,
+          "ohko": false,
+          "applies": true
+        }
+      },
+      {
+        "defender": "Incineroar",
+        "defender_types": [
+          "Fuego",
+          "Siniestro"
+        ],
+        "defender_ability": "blaze",
+        "ability_notes": [],
+        "defender_hp": 202,
+        "type_eff": 2.0,
+        "min_dmg": 206,
+        "max_dmg": 243,
+        "min_pct": 102.0,
+        "max_pct": 120.3,
+        "ohko": true,
+        "two_hko": true,
+        "with_berry": {
+          "min_dmg": 103,
+          "max_dmg": 121,
+          "min_pct": 51.0,
+          "max_pct": 59.9,
+          "ohko": false,
+          "applies": true
+        },
+        "if_burned": {
+          "min_dmg": 5,
+          "max_dmg": 6,
+          "min_pct": 2.5,
+          "max_pct": 3.0,
+          "ohko": false,
+          "applies": true
+        }
+      },
+      {
+        "defender": "Espathra",
+        "defender_types": [
+          "Psiquico"
+        ],
+        "defender_ability": "opportunist",
+        "ability_notes": [],
+        "defender_hp": 202,
+        "type_eff": 0.5,
+        "min_dmg": 102,
+        "max_dmg": 120,
+        "min_pct": 50.5,
+        "max_pct": 59.4,
+        "ohko": false,
+        "two_hko": true,
+        "with_berry": {
+          "min_dmg": 102,
+          "max_dmg": 120,
+          "min_pct": 50.5,
+          "max_pct": 59.4,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 51,
+          "max_dmg": 60,
+          "min_pct": 25.2,
+          "max_pct": 29.7,
+          "ohko": false,
+          "applies": true
+        }
+      },
+      {
+        "defender": "Charizard",
+        "defender_types": [
+          "Fuego",
+          "Volador"
+        ],
+        "defender_ability": "blaze",
+        "ability_notes": [],
+        "defender_hp": 185,
+        "type_eff": 0.5,
+        "min_dmg": 51,
+        "max_dmg": 60,
+        "min_pct": 27.6,
+        "max_pct": 32.4,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 51,
+          "max_dmg": 60,
+          "min_pct": 27.6,
+          "max_pct": 32.4,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 1,
+          "max_dmg": 1,
+          "min_pct": 0.5,
+          "max_pct": 0.5,
+          "ohko": false,
+          "applies": true
+        }
+      },
+      {
+        "defender": "Gengar",
+        "defender_types": [
+          "Fantasma",
+          "Veneno"
+        ],
+        "defender_ability": "cursed-body",
+        "ability_notes": [],
+        "defender_hp": 167,
+        "type_eff": 0.0,
+        "min_dmg": 0,
+        "max_dmg": 0,
+        "min_pct": 0.0,
+        "max_pct": 0.0,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 0,
+          "max_dmg": 0,
+          "min_pct": 0.0,
+          "max_pct": 0.0,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 0,
+          "max_dmg": 0,
+          "min_pct": 0.0,
+          "max_pct": 0.0,
+          "ohko": false,
+          "applies": true
+        }
+      },
+      {
+        "defender": "Zoroark de Hisui",
+        "defender_types": [
+          "Normal",
+          "Fantasma"
+        ],
+        "defender_ability": "illusion",
+        "ability_notes": [],
+        "defender_hp": 162,
+        "type_eff": 0.0,
+        "min_dmg": 0,
+        "max_dmg": 0,
+        "min_pct": 0.0,
+        "max_pct": 0.0,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 0,
+          "max_dmg": 0,
+          "min_pct": 0.0,
+          "max_pct": 0.0,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 0,
+          "max_dmg": 0,
+          "min_pct": 0.0,
+          "max_pct": 0.0,
+          "ohko": false,
+          "applies": true
+        }
+      },
+      {
+        "defender": "Greninja",
+        "defender_types": [
+          "Agua",
+          "Siniestro"
+        ],
+        "defender_ability": "torrent",
+        "ability_notes": [],
+        "defender_hp": 179,
+        "type_eff": 2.0,
+        "min_dmg": 206,
+        "max_dmg": 243,
+        "min_pct": 115.1,
+        "max_pct": 135.8,
+        "ohko": true,
+        "two_hko": true,
+        "with_berry": {
+          "min_dmg": 103,
+          "max_dmg": 121,
+          "min_pct": 57.5,
+          "max_pct": 67.6,
+          "ohko": false,
+          "applies": true
+        },
+        "if_burned": {
+          "min_dmg": 5,
+          "max_dmg": 6,
+          "min_pct": 2.8,
+          "max_pct": 3.4,
+          "ohko": false,
+          "applies": true
+        }
+      },
+      {
+        "defender": "Corviknight",
+        "defender_types": [
+          "Volador",
+          "Acero"
+        ],
+        "defender_ability": "pressure",
+        "ability_notes": [],
+        "defender_hp": 205,
+        "type_eff": 1.0,
+        "min_dmg": 103,
+        "max_dmg": 121,
+        "min_pct": 50.2,
+        "max_pct": 59.0,
+        "ohko": false,
+        "two_hko": true,
+        "with_berry": {
+          "min_dmg": 103,
+          "max_dmg": 121,
+          "min_pct": 50.2,
+          "max_pct": 59.0,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 2,
+          "max_dmg": 3,
+          "min_pct": 1.0,
+          "max_pct": 1.5,
+          "ohko": false,
+          "applies": true
+        }
+      },
+      {
+        "defender": "Blastoise",
+        "defender_types": [
+          "Agua"
+        ],
+        "defender_ability": "torrent",
+        "ability_notes": [],
+        "defender_hp": 186,
+        "type_eff": 1.0,
+        "min_dmg": 103,
+        "max_dmg": 121,
+        "min_pct": 55.4,
+        "max_pct": 65.1,
+        "ohko": false,
+        "two_hko": true,
+        "with_berry": {
+          "min_dmg": 103,
+          "max_dmg": 121,
+          "min_pct": 55.4,
+          "max_pct": 65.1,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 2,
+          "max_dmg": 3,
+          "min_pct": 1.1,
+          "max_pct": 1.6,
+          "ohko": false,
+          "applies": true
+        }
+      },
+      {
+        "defender": "Slowking",
+        "defender_types": [
+          "Agua",
+          "Psiquico"
+        ],
+        "defender_ability": "oblivious",
+        "ability_notes": [],
+        "defender_hp": 202,
+        "type_eff": 0.5,
+        "min_dmg": 51,
+        "max_dmg": 60,
+        "min_pct": 25.2,
+        "max_pct": 29.7,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 51,
+          "max_dmg": 60,
+          "min_pct": 25.2,
+          "max_pct": 29.7,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 1,
+          "max_dmg": 1,
+          "min_pct": 0.5,
+          "max_pct": 0.5,
+          "ohko": false,
+          "applies": true
+        }
+      },
+      {
+        "defender": "Dragonite",
+        "defender_types": [
+          "Dragon",
+          "Volador"
+        ],
+        "defender_ability": "inner-focus",
+        "ability_notes": [],
+        "defender_hp": 198,
+        "type_eff": 0.5,
+        "min_dmg": 51,
+        "max_dmg": 60,
+        "min_pct": 25.8,
+        "max_pct": 30.3,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 51,
+          "max_dmg": 60,
+          "min_pct": 25.8,
+          "max_pct": 30.3,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 1,
+          "max_dmg": 1,
+          "min_pct": 0.5,
+          "max_pct": 0.5,
+          "ohko": false,
+          "applies": true
+        }
+      },
+      {
+        "defender": "Delphox",
+        "defender_types": [
+          "Fuego",
+          "Psiquico"
+        ],
+        "defender_ability": "blaze",
+        "ability_notes": [],
+        "defender_hp": 182,
+        "type_eff": 0.5,
+        "min_dmg": 51,
+        "max_dmg": 60,
+        "min_pct": 28.0,
+        "max_pct": 33.0,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 51,
+          "max_dmg": 60,
+          "min_pct": 28.0,
+          "max_pct": 33.0,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 1,
+          "max_dmg": 1,
+          "min_pct": 0.5,
+          "max_pct": 0.5,
+          "ohko": false,
+          "applies": true
+        }
+      },
+      {
+        "defender": "Whimsicott",
+        "defender_types": [
+          "Planta",
+          "Hada"
+        ],
+        "defender_ability": "prankster",
+        "ability_notes": [],
+        "defender_hp": 167,
+        "type_eff": 0.5,
+        "min_dmg": 51,
+        "max_dmg": 60,
+        "min_pct": 30.5,
+        "max_pct": 35.9,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 51,
+          "max_dmg": 60,
+          "min_pct": 30.5,
+          "max_pct": 35.9,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 1,
+          "max_dmg": 1,
+          "min_pct": 0.6,
+          "max_pct": 0.6,
+          "ohko": false,
+          "applies": true
+        }
+      },
+      {
+        "defender": "Garchomp",
+        "defender_types": [
+          "Dragon",
+          "Tierra"
+        ],
+        "defender_ability": "sand-veil",
+        "ability_notes": [],
+        "defender_hp": 215,
+        "type_eff": 1.0,
+        "min_dmg": 103,
+        "max_dmg": 121,
+        "min_pct": 47.9,
+        "max_pct": 56.3,
+        "ohko": false,
+        "two_hko": true,
+        "with_berry": {
+          "min_dmg": 103,
+          "max_dmg": 121,
+          "min_pct": 47.9,
+          "max_pct": 56.3,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 2,
+          "max_dmg": 3,
+          "min_pct": 0.9,
+          "max_pct": 1.4,
+          "ohko": false,
+          "applies": true
+        }
+      },
+      {
+        "defender": "Typhlosion de Hisui",
+        "defender_types": [
+          "Fuego",
+          "Fantasma"
+        ],
+        "defender_ability": "blaze",
+        "ability_notes": [],
+        "defender_hp": 180,
+        "type_eff": 0.0,
+        "min_dmg": 0,
+        "max_dmg": 0,
+        "min_pct": 0.0,
+        "max_pct": 0.0,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 0,
+          "max_dmg": 0,
+          "min_pct": 0.0,
+          "max_pct": 0.0,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 0,
+          "max_dmg": 0,
+          "min_pct": 0.0,
+          "max_pct": 0.0,
+          "ohko": false,
+          "applies": true
+        }
+      }
+    ]
+  },
+  {
+    "attacker": "Incineroar",
+    "attacker_types": [
+      "Fuego",
+      "Siniestro"
+    ],
+    "attacker_stats": {
+      "hp": 170,
+      "attack": 183,
+      "defense": 110,
+      "spAttack": 90,
+      "spDefense": 112,
+      "speed": 112
+    },
+    "attacker_spread": "Physical (32 Atk / 32 Spe)",
+    "attacker_nature": "Firme",
+    "attacker_ability": "blaze",
+    "attacker_ability_es": "Mar Llamas",
+    "attacker_ability_active": true,
+    "move": "Desahogo",
+    "move_type": "Siniestro",
+    "move_power": 75,
+    "move_category": "physical",
+    "stab": true,
+    "item": "type-booster (×1.2)",
+    "vs": [
+      {
+        "defender": "Emboar",
+        "defender_types": [
+          "Fuego",
+          "Lucha"
+        ],
+        "defender_ability": "blaze",
+        "ability_notes": [],
+        "defender_hp": 217,
+        "type_eff": 0.5,
+        "min_dmg": 26,
+        "max_dmg": 30,
+        "min_pct": 12.0,
+        "max_pct": 13.8,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 26,
+          "max_dmg": 30,
+          "min_pct": 12.0,
+          "max_pct": 13.8,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 1,
+          "max_dmg": 1,
+          "min_pct": 0.5,
+          "max_pct": 0.5,
+          "ohko": false,
+          "applies": true
+        }
+      },
+      {
+        "defender": "Incineroar",
+        "defender_types": [
+          "Fuego",
+          "Siniestro"
+        ],
+        "defender_ability": "blaze",
+        "ability_notes": [],
+        "defender_hp": 202,
+        "type_eff": 0.5,
+        "min_dmg": 26,
+        "max_dmg": 30,
+        "min_pct": 12.9,
+        "max_pct": 14.9,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 26,
+          "max_dmg": 30,
+          "min_pct": 12.9,
+          "max_pct": 14.9,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 1,
+          "max_dmg": 1,
+          "min_pct": 0.5,
+          "max_pct": 0.5,
+          "ohko": false,
+          "applies": true
+        }
+      },
+      {
+        "defender": "Espathra",
+        "defender_types": [
+          "Psiquico"
+        ],
+        "defender_ability": "opportunist",
+        "ability_notes": [],
+        "defender_hp": 202,
+        "type_eff": 2.0,
+        "min_dmg": 104,
+        "max_dmg": 123,
+        "min_pct": 51.5,
+        "max_pct": 60.9,
+        "ohko": false,
+        "two_hko": true,
+        "with_berry": {
+          "min_dmg": 52,
+          "max_dmg": 61,
+          "min_pct": 25.7,
+          "max_pct": 30.2,
+          "ohko": false,
+          "applies": true
+        },
+        "if_burned": {
+          "min_dmg": 5,
+          "max_dmg": 6,
+          "min_pct": 2.5,
+          "max_pct": 3.0,
+          "ohko": false,
+          "applies": true
+        }
+      },
+      {
+        "defender": "Charizard",
+        "defender_types": [
+          "Fuego",
+          "Volador"
+        ],
+        "defender_ability": "blaze",
+        "ability_notes": [],
+        "defender_hp": 185,
+        "type_eff": 1.0,
+        "min_dmg": 52,
+        "max_dmg": 61,
+        "min_pct": 28.1,
+        "max_pct": 33.0,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 52,
+          "max_dmg": 61,
+          "min_pct": 28.1,
+          "max_pct": 33.0,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 2,
+          "max_dmg": 3,
+          "min_pct": 1.1,
+          "max_pct": 1.6,
+          "ohko": false,
+          "applies": true
+        }
+      },
+      {
+        "defender": "Gengar",
+        "defender_types": [
+          "Fantasma",
+          "Veneno"
+        ],
+        "defender_ability": "cursed-body",
+        "ability_notes": [],
+        "defender_hp": 167,
+        "type_eff": 2.0,
+        "min_dmg": 104,
+        "max_dmg": 123,
+        "min_pct": 62.3,
+        "max_pct": 73.7,
+        "ohko": false,
+        "two_hko": true,
+        "with_berry": {
+          "min_dmg": 52,
+          "max_dmg": 61,
+          "min_pct": 31.1,
+          "max_pct": 36.5,
+          "ohko": false,
+          "applies": true
+        },
+        "if_burned": {
+          "min_dmg": 5,
+          "max_dmg": 6,
+          "min_pct": 3.0,
+          "max_pct": 3.6,
+          "ohko": false,
+          "applies": true
+        }
+      },
+      {
+        "defender": "Zoroark de Hisui",
+        "defender_types": [
+          "Normal",
+          "Fantasma"
+        ],
+        "defender_ability": "illusion",
+        "ability_notes": [],
+        "defender_hp": 162,
+        "type_eff": 2.0,
+        "min_dmg": 104,
+        "max_dmg": 123,
+        "min_pct": 64.2,
+        "max_pct": 75.9,
+        "ohko": false,
+        "two_hko": true,
+        "with_berry": {
+          "min_dmg": 52,
+          "max_dmg": 61,
+          "min_pct": 32.1,
+          "max_pct": 37.7,
+          "ohko": false,
+          "applies": true
+        },
+        "if_burned": {
+          "min_dmg": 5,
+          "max_dmg": 6,
+          "min_pct": 3.1,
+          "max_pct": 3.7,
+          "ohko": false,
+          "applies": true
+        }
+      },
+      {
+        "defender": "Greninja",
+        "defender_types": [
+          "Agua",
+          "Siniestro"
+        ],
+        "defender_ability": "torrent",
+        "ability_notes": [],
+        "defender_hp": 179,
+        "type_eff": 0.5,
+        "min_dmg": 26,
+        "max_dmg": 30,
+        "min_pct": 14.5,
+        "max_pct": 16.8,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 26,
+          "max_dmg": 30,
+          "min_pct": 14.5,
+          "max_pct": 16.8,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 1,
+          "max_dmg": 1,
+          "min_pct": 0.6,
+          "max_pct": 0.6,
+          "ohko": false,
+          "applies": true
+        }
+      },
+      {
+        "defender": "Corviknight",
+        "defender_types": [
+          "Volador",
+          "Acero"
+        ],
+        "defender_ability": "pressure",
+        "ability_notes": [],
+        "defender_hp": 205,
+        "type_eff": 1.0,
+        "min_dmg": 52,
+        "max_dmg": 61,
+        "min_pct": 25.4,
+        "max_pct": 29.8,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 52,
+          "max_dmg": 61,
+          "min_pct": 25.4,
+          "max_pct": 29.8,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 2,
+          "max_dmg": 3,
+          "min_pct": 1.0,
+          "max_pct": 1.5,
+          "ohko": false,
+          "applies": true
+        }
+      },
+      {
+        "defender": "Blastoise",
+        "defender_types": [
+          "Agua"
+        ],
+        "defender_ability": "torrent",
+        "ability_notes": [],
+        "defender_hp": 186,
+        "type_eff": 1.0,
+        "min_dmg": 52,
+        "max_dmg": 61,
+        "min_pct": 28.0,
+        "max_pct": 32.8,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 52,
+          "max_dmg": 61,
+          "min_pct": 28.0,
+          "max_pct": 32.8,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 2,
+          "max_dmg": 3,
+          "min_pct": 1.1,
+          "max_pct": 1.6,
+          "ohko": false,
+          "applies": true
+        }
+      },
+      {
+        "defender": "Slowking",
+        "defender_types": [
+          "Agua",
+          "Psiquico"
+        ],
+        "defender_ability": "oblivious",
+        "ability_notes": [],
+        "defender_hp": 202,
+        "type_eff": 2.0,
+        "min_dmg": 104,
+        "max_dmg": 123,
+        "min_pct": 51.5,
+        "max_pct": 60.9,
+        "ohko": false,
+        "two_hko": true,
+        "with_berry": {
+          "min_dmg": 52,
+          "max_dmg": 61,
+          "min_pct": 25.7,
+          "max_pct": 30.2,
+          "ohko": false,
+          "applies": true
+        },
+        "if_burned": {
+          "min_dmg": 5,
+          "max_dmg": 6,
+          "min_pct": 2.5,
+          "max_pct": 3.0,
+          "ohko": false,
+          "applies": true
+        }
+      },
+      {
+        "defender": "Dragonite",
+        "defender_types": [
+          "Dragon",
+          "Volador"
+        ],
+        "defender_ability": "inner-focus",
+        "ability_notes": [],
+        "defender_hp": 198,
+        "type_eff": 1.0,
+        "min_dmg": 52,
+        "max_dmg": 61,
+        "min_pct": 26.3,
+        "max_pct": 30.8,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 52,
+          "max_dmg": 61,
+          "min_pct": 26.3,
+          "max_pct": 30.8,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 2,
+          "max_dmg": 3,
+          "min_pct": 1.0,
+          "max_pct": 1.5,
+          "ohko": false,
+          "applies": true
+        }
+      },
+      {
+        "defender": "Delphox",
+        "defender_types": [
+          "Fuego",
+          "Psiquico"
+        ],
+        "defender_ability": "blaze",
+        "ability_notes": [],
+        "defender_hp": 182,
+        "type_eff": 2.0,
+        "min_dmg": 104,
+        "max_dmg": 123,
+        "min_pct": 57.1,
+        "max_pct": 67.6,
+        "ohko": false,
+        "two_hko": true,
+        "with_berry": {
+          "min_dmg": 52,
+          "max_dmg": 61,
+          "min_pct": 28.6,
+          "max_pct": 33.5,
+          "ohko": false,
+          "applies": true
+        },
+        "if_burned": {
+          "min_dmg": 5,
+          "max_dmg": 6,
+          "min_pct": 2.7,
+          "max_pct": 3.3,
+          "ohko": false,
+          "applies": true
+        }
+      },
+      {
+        "defender": "Whimsicott",
+        "defender_types": [
+          "Planta",
+          "Hada"
+        ],
+        "defender_ability": "prankster",
+        "ability_notes": [],
+        "defender_hp": 167,
+        "type_eff": 0.5,
+        "min_dmg": 26,
+        "max_dmg": 30,
+        "min_pct": 15.6,
+        "max_pct": 18.0,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 26,
+          "max_dmg": 30,
+          "min_pct": 15.6,
+          "max_pct": 18.0,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 1,
+          "max_dmg": 1,
+          "min_pct": 0.6,
+          "max_pct": 0.6,
+          "ohko": false,
+          "applies": true
+        }
+      },
+      {
+        "defender": "Garchomp",
+        "defender_types": [
+          "Dragon",
+          "Tierra"
+        ],
+        "defender_ability": "sand-veil",
+        "ability_notes": [],
+        "defender_hp": 215,
+        "type_eff": 1.0,
+        "min_dmg": 52,
+        "max_dmg": 61,
+        "min_pct": 24.2,
+        "max_pct": 28.4,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 52,
+          "max_dmg": 61,
+          "min_pct": 24.2,
+          "max_pct": 28.4,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 2,
+          "max_dmg": 3,
+          "min_pct": 0.9,
+          "max_pct": 1.4,
+          "ohko": false,
+          "applies": true
+        }
+      },
+      {
+        "defender": "Typhlosion de Hisui",
+        "defender_types": [
+          "Fuego",
+          "Fantasma"
+        ],
+        "defender_ability": "blaze",
+        "ability_notes": [],
+        "defender_hp": 180,
+        "type_eff": 2.0,
+        "min_dmg": 104,
+        "max_dmg": 123,
+        "min_pct": 57.8,
+        "max_pct": 68.3,
+        "ohko": false,
+        "two_hko": true,
+        "with_berry": {
+          "min_dmg": 52,
+          "max_dmg": 61,
+          "min_pct": 28.9,
+          "max_pct": 33.9,
+          "ohko": false,
+          "applies": true
+        },
+        "if_burned": {
+          "min_dmg": 5,
+          "max_dmg": 6,
+          "min_pct": 2.8,
+          "max_pct": 3.3,
+          "ohko": false,
+          "applies": true
+        }
+      }
+    ]
+  },
+  {
+    "attacker": "Espathra",
+    "attacker_types": [
+      "Psiquico"
+    ],
+    "attacker_stats": {
+      "hp": 170,
+      "attack": 72,
+      "defense": 80,
+      "spAttack": 168,
+      "spDefense": 82,
+      "speed": 157
+    },
+    "attacker_spread": "Sweeper (32 SpA / 32 Spe)",
+    "attacker_nature": "Modesta",
+    "attacker_ability": "opportunist",
+    "attacker_ability_es": "Oportunista",
+    "attacker_ability_active": false,
+    "move": "Psíquico",
+    "move_type": "Psíquico",
+    "move_power": 90,
+    "move_category": "special",
+    "stab": true,
+    "item": "type-booster (×1.2)",
+    "vs": [
+      {
+        "defender": "Emboar",
+        "defender_types": [
+          "Fuego",
+          "Lucha"
+        ],
+        "defender_ability": "blaze",
+        "ability_notes": [],
+        "defender_hp": 217,
+        "type_eff": 2.0,
+        "min_dmg": 124,
+        "max_dmg": 147,
+        "min_pct": 57.1,
+        "max_pct": 67.7,
+        "ohko": false,
+        "two_hko": true,
+        "with_berry": {
+          "min_dmg": 62,
+          "max_dmg": 73,
+          "min_pct": 28.6,
+          "max_pct": 33.6,
+          "ohko": false,
+          "applies": true
+        },
+        "if_burned": {
+          "min_dmg": 124,
+          "max_dmg": 147,
+          "min_pct": 57.1,
+          "max_pct": 67.7,
+          "ohko": false,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Incineroar",
+        "defender_types": [
+          "Fuego",
+          "Siniestro"
+        ],
+        "defender_ability": "blaze",
+        "ability_notes": [],
+        "defender_hp": 202,
+        "type_eff": 0.0,
+        "min_dmg": 0,
+        "max_dmg": 0,
+        "min_pct": 0.0,
+        "max_pct": 0.0,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 0,
+          "max_dmg": 0,
+          "min_pct": 0.0,
+          "max_pct": 0.0,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 0,
+          "max_dmg": 0,
+          "min_pct": 0.0,
+          "max_pct": 0.0,
+          "ohko": false,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Espathra",
+        "defender_types": [
+          "Psiquico"
+        ],
+        "defender_ability": "opportunist",
+        "ability_notes": [],
+        "defender_hp": 202,
+        "type_eff": 0.5,
+        "min_dmg": 31,
+        "max_dmg": 36,
+        "min_pct": 15.3,
+        "max_pct": 17.8,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 31,
+          "max_dmg": 36,
+          "min_pct": 15.3,
+          "max_pct": 17.8,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 31,
+          "max_dmg": 36,
+          "min_pct": 15.3,
+          "max_pct": 17.8,
+          "ohko": false,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Charizard",
+        "defender_types": [
+          "Fuego",
+          "Volador"
+        ],
+        "defender_ability": "blaze",
+        "ability_notes": [],
+        "defender_hp": 185,
+        "type_eff": 1.0,
+        "min_dmg": 62,
+        "max_dmg": 73,
+        "min_pct": 33.5,
+        "max_pct": 39.5,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 62,
+          "max_dmg": 73,
+          "min_pct": 33.5,
+          "max_pct": 39.5,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 62,
+          "max_dmg": 73,
+          "min_pct": 33.5,
+          "max_pct": 39.5,
+          "ohko": false,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Gengar",
+        "defender_types": [
+          "Fantasma",
+          "Veneno"
+        ],
+        "defender_ability": "cursed-body",
+        "ability_notes": [],
+        "defender_hp": 167,
+        "type_eff": 2.0,
+        "min_dmg": 124,
+        "max_dmg": 147,
+        "min_pct": 74.3,
+        "max_pct": 88.0,
+        "ohko": false,
+        "two_hko": true,
+        "with_berry": {
+          "min_dmg": 62,
+          "max_dmg": 73,
+          "min_pct": 37.1,
+          "max_pct": 43.7,
+          "ohko": false,
+          "applies": true
+        },
+        "if_burned": {
+          "min_dmg": 124,
+          "max_dmg": 147,
+          "min_pct": 74.3,
+          "max_pct": 88.0,
+          "ohko": false,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Zoroark de Hisui",
+        "defender_types": [
+          "Normal",
+          "Fantasma"
+        ],
+        "defender_ability": "illusion",
+        "ability_notes": [],
+        "defender_hp": 162,
+        "type_eff": 1.0,
+        "min_dmg": 62,
+        "max_dmg": 73,
+        "min_pct": 38.3,
+        "max_pct": 45.1,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 62,
+          "max_dmg": 73,
+          "min_pct": 38.3,
+          "max_pct": 45.1,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 62,
+          "max_dmg": 73,
+          "min_pct": 38.3,
+          "max_pct": 45.1,
+          "ohko": false,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Greninja",
+        "defender_types": [
+          "Agua",
+          "Siniestro"
+        ],
+        "defender_ability": "torrent",
+        "ability_notes": [],
+        "defender_hp": 179,
+        "type_eff": 0.0,
+        "min_dmg": 0,
+        "max_dmg": 0,
+        "min_pct": 0.0,
+        "max_pct": 0.0,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 0,
+          "max_dmg": 0,
+          "min_pct": 0.0,
+          "max_pct": 0.0,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 0,
+          "max_dmg": 0,
+          "min_pct": 0.0,
+          "max_pct": 0.0,
+          "ohko": false,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Corviknight",
+        "defender_types": [
+          "Volador",
+          "Acero"
+        ],
+        "defender_ability": "pressure",
+        "ability_notes": [],
+        "defender_hp": 205,
+        "type_eff": 0.5,
+        "min_dmg": 31,
+        "max_dmg": 36,
+        "min_pct": 15.1,
+        "max_pct": 17.6,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 31,
+          "max_dmg": 36,
+          "min_pct": 15.1,
+          "max_pct": 17.6,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 31,
+          "max_dmg": 36,
+          "min_pct": 15.1,
+          "max_pct": 17.6,
+          "ohko": false,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Blastoise",
+        "defender_types": [
+          "Agua"
+        ],
+        "defender_ability": "torrent",
+        "ability_notes": [],
+        "defender_hp": 186,
+        "type_eff": 1.0,
+        "min_dmg": 62,
+        "max_dmg": 73,
+        "min_pct": 33.3,
+        "max_pct": 39.2,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 62,
+          "max_dmg": 73,
+          "min_pct": 33.3,
+          "max_pct": 39.2,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 62,
+          "max_dmg": 73,
+          "min_pct": 33.3,
+          "max_pct": 39.2,
+          "ohko": false,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Slowking",
+        "defender_types": [
+          "Agua",
+          "Psiquico"
+        ],
+        "defender_ability": "oblivious",
+        "ability_notes": [],
+        "defender_hp": 202,
+        "type_eff": 0.5,
+        "min_dmg": 31,
+        "max_dmg": 36,
+        "min_pct": 15.3,
+        "max_pct": 17.8,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 31,
+          "max_dmg": 36,
+          "min_pct": 15.3,
+          "max_pct": 17.8,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 31,
+          "max_dmg": 36,
+          "min_pct": 15.3,
+          "max_pct": 17.8,
+          "ohko": false,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Dragonite",
+        "defender_types": [
+          "Dragon",
+          "Volador"
+        ],
+        "defender_ability": "inner-focus",
+        "ability_notes": [],
+        "defender_hp": 198,
+        "type_eff": 1.0,
+        "min_dmg": 62,
+        "max_dmg": 73,
+        "min_pct": 31.3,
+        "max_pct": 36.9,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 62,
+          "max_dmg": 73,
+          "min_pct": 31.3,
+          "max_pct": 36.9,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 62,
+          "max_dmg": 73,
+          "min_pct": 31.3,
+          "max_pct": 36.9,
+          "ohko": false,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Delphox",
+        "defender_types": [
+          "Fuego",
+          "Psiquico"
+        ],
+        "defender_ability": "blaze",
+        "ability_notes": [],
+        "defender_hp": 182,
+        "type_eff": 0.5,
+        "min_dmg": 31,
+        "max_dmg": 36,
+        "min_pct": 17.0,
+        "max_pct": 19.8,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 31,
+          "max_dmg": 36,
+          "min_pct": 17.0,
+          "max_pct": 19.8,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 31,
+          "max_dmg": 36,
+          "min_pct": 17.0,
+          "max_pct": 19.8,
+          "ohko": false,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Whimsicott",
+        "defender_types": [
+          "Planta",
+          "Hada"
+        ],
+        "defender_ability": "prankster",
+        "ability_notes": [],
+        "defender_hp": 167,
+        "type_eff": 1.0,
+        "min_dmg": 62,
+        "max_dmg": 73,
+        "min_pct": 37.1,
+        "max_pct": 43.7,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 62,
+          "max_dmg": 73,
+          "min_pct": 37.1,
+          "max_pct": 43.7,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 62,
+          "max_dmg": 73,
+          "min_pct": 37.1,
+          "max_pct": 43.7,
+          "ohko": false,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Garchomp",
+        "defender_types": [
+          "Dragon",
+          "Tierra"
+        ],
+        "defender_ability": "sand-veil",
+        "ability_notes": [],
+        "defender_hp": 215,
+        "type_eff": 1.0,
+        "min_dmg": 62,
+        "max_dmg": 73,
+        "min_pct": 28.8,
+        "max_pct": 34.0,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 62,
+          "max_dmg": 73,
+          "min_pct": 28.8,
+          "max_pct": 34.0,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 62,
+          "max_dmg": 73,
+          "min_pct": 28.8,
+          "max_pct": 34.0,
+          "ohko": false,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Typhlosion de Hisui",
+        "defender_types": [
+          "Fuego",
+          "Fantasma"
+        ],
+        "defender_ability": "blaze",
+        "ability_notes": [],
+        "defender_hp": 180,
+        "type_eff": 1.0,
+        "min_dmg": 62,
+        "max_dmg": 73,
+        "min_pct": 34.4,
+        "max_pct": 40.6,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 62,
+          "max_dmg": 73,
+          "min_pct": 34.4,
+          "max_pct": 40.6,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 62,
+          "max_dmg": 73,
+          "min_pct": 34.4,
+          "max_pct": 40.6,
+          "ohko": false,
+          "applies": false
+        }
+      }
+    ]
+  },
+  {
+    "attacker": "Charizard",
+    "attacker_types": [
+      "Fuego",
+      "Volador"
+    ],
+    "attacker_stats": {
+      "hp": 153,
+      "attack": 149,
+      "defense": 98,
+      "spAttack": 116,
+      "spDefense": 107,
+      "speed": 152
+    },
+    "attacker_spread": "Physical (32 Atk / 32 Spe)",
+    "attacker_nature": "Firme",
+    "attacker_ability": "blaze",
+    "attacker_ability_es": "Mar Llamas",
+    "attacker_ability_active": true,
+    "move": "Cólera Ardiente",
+    "move_type": "Fuego",
+    "move_power": 75,
+    "move_category": "physical",
+    "stab": true,
+    "item": "type-booster (×1.2)",
+    "vs": [
+      {
+        "defender": "Emboar",
+        "defender_types": [
+          "Fuego",
+          "Lucha"
+        ],
+        "defender_ability": "blaze",
+        "ability_notes": [
+          "blaze"
+        ],
+        "defender_hp": 217,
+        "type_eff": 0.5,
+        "min_dmg": 38,
+        "max_dmg": 45,
+        "min_pct": 17.5,
+        "max_pct": 20.7,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 38,
+          "max_dmg": 45,
+          "min_pct": 17.5,
+          "max_pct": 20.7,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 1,
+          "max_dmg": 1,
+          "min_pct": 0.5,
+          "max_pct": 0.5,
+          "ohko": false,
+          "applies": true
+        }
+      },
+      {
+        "defender": "Incineroar",
+        "defender_types": [
+          "Fuego",
+          "Siniestro"
+        ],
+        "defender_ability": "blaze",
+        "ability_notes": [
+          "blaze"
+        ],
+        "defender_hp": 202,
+        "type_eff": 0.5,
+        "min_dmg": 38,
+        "max_dmg": 45,
+        "min_pct": 18.8,
+        "max_pct": 22.3,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 38,
+          "max_dmg": 45,
+          "min_pct": 18.8,
+          "max_pct": 22.3,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 1,
+          "max_dmg": 1,
+          "min_pct": 0.5,
+          "max_pct": 0.5,
+          "ohko": false,
+          "applies": true
+        }
+      },
+      {
+        "defender": "Espathra",
+        "defender_types": [
+          "Psiquico"
+        ],
+        "defender_ability": "opportunist",
+        "ability_notes": [
+          "blaze"
+        ],
+        "defender_hp": 202,
+        "type_eff": 1.0,
+        "min_dmg": 77,
+        "max_dmg": 91,
+        "min_pct": 38.1,
+        "max_pct": 45.0,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 77,
+          "max_dmg": 91,
+          "min_pct": 38.1,
+          "max_pct": 45.0,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 2,
+          "max_dmg": 3,
+          "min_pct": 1.0,
+          "max_pct": 1.5,
+          "ohko": false,
+          "applies": true
+        }
+      },
+      {
+        "defender": "Charizard",
+        "defender_types": [
+          "Fuego",
+          "Volador"
+        ],
+        "defender_ability": "blaze",
+        "ability_notes": [
+          "blaze"
+        ],
+        "defender_hp": 185,
+        "type_eff": 0.5,
+        "min_dmg": 38,
+        "max_dmg": 45,
+        "min_pct": 20.5,
+        "max_pct": 24.3,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 38,
+          "max_dmg": 45,
+          "min_pct": 20.5,
+          "max_pct": 24.3,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 1,
+          "max_dmg": 1,
+          "min_pct": 0.5,
+          "max_pct": 0.5,
+          "ohko": false,
+          "applies": true
+        }
+      },
+      {
+        "defender": "Gengar",
+        "defender_types": [
+          "Fantasma",
+          "Veneno"
+        ],
+        "defender_ability": "cursed-body",
+        "ability_notes": [
+          "blaze"
+        ],
+        "defender_hp": 167,
+        "type_eff": 1.0,
+        "min_dmg": 77,
+        "max_dmg": 91,
+        "min_pct": 46.1,
+        "max_pct": 54.5,
+        "ohko": false,
+        "two_hko": true,
+        "with_berry": {
+          "min_dmg": 77,
+          "max_dmg": 91,
+          "min_pct": 46.1,
+          "max_pct": 54.5,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 2,
+          "max_dmg": 3,
+          "min_pct": 1.2,
+          "max_pct": 1.8,
+          "ohko": false,
+          "applies": true
+        }
+      },
+      {
+        "defender": "Zoroark de Hisui",
+        "defender_types": [
+          "Normal",
+          "Fantasma"
+        ],
+        "defender_ability": "illusion",
+        "ability_notes": [
+          "blaze"
+        ],
+        "defender_hp": 162,
+        "type_eff": 1.0,
+        "min_dmg": 77,
+        "max_dmg": 91,
+        "min_pct": 47.5,
+        "max_pct": 56.2,
+        "ohko": false,
+        "two_hko": true,
+        "with_berry": {
+          "min_dmg": 77,
+          "max_dmg": 91,
+          "min_pct": 47.5,
+          "max_pct": 56.2,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 2,
+          "max_dmg": 3,
+          "min_pct": 1.2,
+          "max_pct": 1.9,
+          "ohko": false,
+          "applies": true
+        }
+      },
+      {
+        "defender": "Greninja",
+        "defender_types": [
+          "Agua",
+          "Siniestro"
+        ],
+        "defender_ability": "torrent",
+        "ability_notes": [
+          "blaze"
+        ],
+        "defender_hp": 179,
+        "type_eff": 0.5,
+        "min_dmg": 38,
+        "max_dmg": 45,
+        "min_pct": 21.2,
+        "max_pct": 25.1,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 38,
+          "max_dmg": 45,
+          "min_pct": 21.2,
+          "max_pct": 25.1,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 1,
+          "max_dmg": 1,
+          "min_pct": 0.6,
+          "max_pct": 0.6,
+          "ohko": false,
+          "applies": true
+        }
+      },
+      {
+        "defender": "Corviknight",
+        "defender_types": [
+          "Volador",
+          "Acero"
+        ],
+        "defender_ability": "pressure",
+        "ability_notes": [
+          "blaze"
+        ],
+        "defender_hp": 205,
+        "type_eff": 2.0,
+        "min_dmg": 155,
+        "max_dmg": 183,
+        "min_pct": 75.6,
+        "max_pct": 89.3,
+        "ohko": false,
+        "two_hko": true,
+        "with_berry": {
+          "min_dmg": 77,
+          "max_dmg": 91,
+          "min_pct": 37.6,
+          "max_pct": 44.4,
+          "ohko": false,
+          "applies": true
+        },
+        "if_burned": {
+          "min_dmg": 5,
+          "max_dmg": 6,
+          "min_pct": 2.4,
+          "max_pct": 2.9,
+          "ohko": false,
+          "applies": true
+        }
+      },
+      {
+        "defender": "Blastoise",
+        "defender_types": [
+          "Agua"
+        ],
+        "defender_ability": "torrent",
+        "ability_notes": [
+          "blaze"
+        ],
+        "defender_hp": 186,
+        "type_eff": 0.5,
+        "min_dmg": 38,
+        "max_dmg": 45,
+        "min_pct": 20.4,
+        "max_pct": 24.2,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 38,
+          "max_dmg": 45,
+          "min_pct": 20.4,
+          "max_pct": 24.2,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 1,
+          "max_dmg": 1,
+          "min_pct": 0.5,
+          "max_pct": 0.5,
+          "ohko": false,
+          "applies": true
+        }
+      },
+      {
+        "defender": "Slowking",
+        "defender_types": [
+          "Agua",
+          "Psiquico"
+        ],
+        "defender_ability": "oblivious",
+        "ability_notes": [
+          "blaze"
+        ],
+        "defender_hp": 202,
+        "type_eff": 0.5,
+        "min_dmg": 38,
+        "max_dmg": 45,
+        "min_pct": 18.8,
+        "max_pct": 22.3,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 38,
+          "max_dmg": 45,
+          "min_pct": 18.8,
+          "max_pct": 22.3,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 1,
+          "max_dmg": 1,
+          "min_pct": 0.5,
+          "max_pct": 0.5,
+          "ohko": false,
+          "applies": true
+        }
+      },
+      {
+        "defender": "Dragonite",
+        "defender_types": [
+          "Dragon",
+          "Volador"
+        ],
+        "defender_ability": "inner-focus",
+        "ability_notes": [
+          "blaze"
+        ],
+        "defender_hp": 198,
+        "type_eff": 0.5,
+        "min_dmg": 38,
+        "max_dmg": 45,
+        "min_pct": 19.2,
+        "max_pct": 22.7,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 38,
+          "max_dmg": 45,
+          "min_pct": 19.2,
+          "max_pct": 22.7,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 1,
+          "max_dmg": 1,
+          "min_pct": 0.5,
+          "max_pct": 0.5,
+          "ohko": false,
+          "applies": true
+        }
+      },
+      {
+        "defender": "Delphox",
+        "defender_types": [
+          "Fuego",
+          "Psiquico"
+        ],
+        "defender_ability": "blaze",
+        "ability_notes": [
+          "blaze"
+        ],
+        "defender_hp": 182,
+        "type_eff": 0.5,
+        "min_dmg": 38,
+        "max_dmg": 45,
+        "min_pct": 20.9,
+        "max_pct": 24.7,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 38,
+          "max_dmg": 45,
+          "min_pct": 20.9,
+          "max_pct": 24.7,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 1,
+          "max_dmg": 1,
+          "min_pct": 0.5,
+          "max_pct": 0.5,
+          "ohko": false,
+          "applies": true
+        }
+      },
+      {
+        "defender": "Whimsicott",
+        "defender_types": [
+          "Planta",
+          "Hada"
+        ],
+        "defender_ability": "prankster",
+        "ability_notes": [
+          "blaze"
+        ],
+        "defender_hp": 167,
+        "type_eff": 2.0,
+        "min_dmg": 155,
+        "max_dmg": 183,
+        "min_pct": 92.8,
+        "max_pct": 109.6,
+        "ohko": true,
+        "two_hko": true,
+        "with_berry": {
+          "min_dmg": 77,
+          "max_dmg": 91,
+          "min_pct": 46.1,
+          "max_pct": 54.5,
+          "ohko": false,
+          "applies": true
+        },
+        "if_burned": {
+          "min_dmg": 5,
+          "max_dmg": 6,
+          "min_pct": 3.0,
+          "max_pct": 3.6,
+          "ohko": false,
+          "applies": true
+        }
+      },
+      {
+        "defender": "Garchomp",
+        "defender_types": [
+          "Dragon",
+          "Tierra"
+        ],
+        "defender_ability": "sand-veil",
+        "ability_notes": [
+          "blaze"
+        ],
+        "defender_hp": 215,
+        "type_eff": 0.5,
+        "min_dmg": 38,
+        "max_dmg": 45,
+        "min_pct": 17.7,
+        "max_pct": 20.9,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 38,
+          "max_dmg": 45,
+          "min_pct": 17.7,
+          "max_pct": 20.9,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 1,
+          "max_dmg": 1,
+          "min_pct": 0.5,
+          "max_pct": 0.5,
+          "ohko": false,
+          "applies": true
+        }
+      },
+      {
+        "defender": "Typhlosion de Hisui",
+        "defender_types": [
+          "Fuego",
+          "Fantasma"
+        ],
+        "defender_ability": "blaze",
+        "ability_notes": [
+          "blaze"
+        ],
+        "defender_hp": 180,
+        "type_eff": 0.5,
+        "min_dmg": 38,
+        "max_dmg": 45,
+        "min_pct": 21.1,
+        "max_pct": 25.0,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 38,
+          "max_dmg": 45,
+          "min_pct": 21.1,
+          "max_pct": 25.0,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 1,
+          "max_dmg": 1,
+          "min_pct": 0.6,
+          "max_pct": 0.6,
+          "ohko": false,
+          "applies": true
+        }
+      }
+    ]
+  },
+  {
+    "attacker": "Gengar",
+    "attacker_types": [
+      "Fantasma",
+      "Veneno"
+    ],
+    "attacker_stats": {
+      "hp": 135,
+      "attack": 76,
+      "defense": 80,
+      "spAttack": 200,
+      "spDefense": 97,
+      "speed": 162
+    },
+    "attacker_spread": "Sweeper (32 SpA / 32 Spe)",
+    "attacker_nature": "Modesta",
+    "attacker_ability": "cursed-body",
+    "attacker_ability_es": "Cuerpo Maldito",
+    "attacker_ability_active": false,
+    "move": "Tera Blast",
+    "move_type": "Normal",
+    "move_power": 80,
+    "move_category": "special",
+    "stab": false,
+    "item": "type-booster (×1.2)",
+    "vs": [
+      {
+        "defender": "Emboar",
+        "defender_types": [
+          "Fuego",
+          "Lucha"
+        ],
+        "defender_ability": "blaze",
+        "ability_notes": [],
+        "defender_hp": 217,
+        "type_eff": 1.0,
+        "min_dmg": 37,
+        "max_dmg": 44,
+        "min_pct": 17.1,
+        "max_pct": 20.3,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 37,
+          "max_dmg": 44,
+          "min_pct": 17.1,
+          "max_pct": 20.3,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 37,
+          "max_dmg": 44,
+          "min_pct": 17.1,
+          "max_pct": 20.3,
+          "ohko": false,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Incineroar",
+        "defender_types": [
+          "Fuego",
+          "Siniestro"
+        ],
+        "defender_ability": "blaze",
+        "ability_notes": [],
+        "defender_hp": 202,
+        "type_eff": 1.0,
+        "min_dmg": 37,
+        "max_dmg": 44,
+        "min_pct": 18.3,
+        "max_pct": 21.8,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 37,
+          "max_dmg": 44,
+          "min_pct": 18.3,
+          "max_pct": 21.8,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 37,
+          "max_dmg": 44,
+          "min_pct": 18.3,
+          "max_pct": 21.8,
+          "ohko": false,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Espathra",
+        "defender_types": [
+          "Psiquico"
+        ],
+        "defender_ability": "opportunist",
+        "ability_notes": [],
+        "defender_hp": 202,
+        "type_eff": 1.0,
+        "min_dmg": 73,
+        "max_dmg": 86,
+        "min_pct": 36.1,
+        "max_pct": 42.6,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 73,
+          "max_dmg": 86,
+          "min_pct": 36.1,
+          "max_pct": 42.6,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 73,
+          "max_dmg": 86,
+          "min_pct": 36.1,
+          "max_pct": 42.6,
+          "ohko": false,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Charizard",
+        "defender_types": [
+          "Fuego",
+          "Volador"
+        ],
+        "defender_ability": "blaze",
+        "ability_notes": [],
+        "defender_hp": 185,
+        "type_eff": 1.0,
+        "min_dmg": 37,
+        "max_dmg": 44,
+        "min_pct": 20.0,
+        "max_pct": 23.8,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 37,
+          "max_dmg": 44,
+          "min_pct": 20.0,
+          "max_pct": 23.8,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 37,
+          "max_dmg": 44,
+          "min_pct": 20.0,
+          "max_pct": 23.8,
+          "ohko": false,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Gengar",
+        "defender_types": [
+          "Fantasma",
+          "Veneno"
+        ],
+        "defender_ability": "cursed-body",
+        "ability_notes": [],
+        "defender_hp": 167,
+        "type_eff": 0.0,
+        "min_dmg": 0,
+        "max_dmg": 0,
+        "min_pct": 0.0,
+        "max_pct": 0.0,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 0,
+          "max_dmg": 0,
+          "min_pct": 0.0,
+          "max_pct": 0.0,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 0,
+          "max_dmg": 0,
+          "min_pct": 0.0,
+          "max_pct": 0.0,
+          "ohko": false,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Zoroark de Hisui",
+        "defender_types": [
+          "Normal",
+          "Fantasma"
+        ],
+        "defender_ability": "illusion",
+        "ability_notes": [],
+        "defender_hp": 162,
+        "type_eff": 0.0,
+        "min_dmg": 0,
+        "max_dmg": 0,
+        "min_pct": 0.0,
+        "max_pct": 0.0,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 0,
+          "max_dmg": 0,
+          "min_pct": 0.0,
+          "max_pct": 0.0,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 0,
+          "max_dmg": 0,
+          "min_pct": 0.0,
+          "max_pct": 0.0,
+          "ohko": false,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Greninja",
+        "defender_types": [
+          "Agua",
+          "Siniestro"
+        ],
+        "defender_ability": "torrent",
+        "ability_notes": [],
+        "defender_hp": 179,
+        "type_eff": 1.0,
+        "min_dmg": 37,
+        "max_dmg": 44,
+        "min_pct": 20.7,
+        "max_pct": 24.6,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 37,
+          "max_dmg": 44,
+          "min_pct": 20.7,
+          "max_pct": 24.6,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 37,
+          "max_dmg": 44,
+          "min_pct": 20.7,
+          "max_pct": 24.6,
+          "ohko": false,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Corviknight",
+        "defender_types": [
+          "Volador",
+          "Acero"
+        ],
+        "defender_ability": "pressure",
+        "ability_notes": [],
+        "defender_hp": 205,
+        "type_eff": 0.5,
+        "min_dmg": 18,
+        "max_dmg": 22,
+        "min_pct": 8.8,
+        "max_pct": 10.7,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 18,
+          "max_dmg": 22,
+          "min_pct": 8.8,
+          "max_pct": 10.7,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 18,
+          "max_dmg": 22,
+          "min_pct": 8.8,
+          "max_pct": 10.7,
+          "ohko": false,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Blastoise",
+        "defender_types": [
+          "Agua"
+        ],
+        "defender_ability": "torrent",
+        "ability_notes": [],
+        "defender_hp": 186,
+        "type_eff": 1.0,
+        "min_dmg": 37,
+        "max_dmg": 44,
+        "min_pct": 19.9,
+        "max_pct": 23.7,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 37,
+          "max_dmg": 44,
+          "min_pct": 19.9,
+          "max_pct": 23.7,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 37,
+          "max_dmg": 44,
+          "min_pct": 19.9,
+          "max_pct": 23.7,
+          "ohko": false,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Slowking",
+        "defender_types": [
+          "Agua",
+          "Psiquico"
+        ],
+        "defender_ability": "oblivious",
+        "ability_notes": [],
+        "defender_hp": 202,
+        "type_eff": 1.0,
+        "min_dmg": 37,
+        "max_dmg": 44,
+        "min_pct": 18.3,
+        "max_pct": 21.8,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 37,
+          "max_dmg": 44,
+          "min_pct": 18.3,
+          "max_pct": 21.8,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 37,
+          "max_dmg": 44,
+          "min_pct": 18.3,
+          "max_pct": 21.8,
+          "ohko": false,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Dragonite",
+        "defender_types": [
+          "Dragon",
+          "Volador"
+        ],
+        "defender_ability": "inner-focus",
+        "ability_notes": [],
+        "defender_hp": 198,
+        "type_eff": 1.0,
+        "min_dmg": 37,
+        "max_dmg": 44,
+        "min_pct": 18.7,
+        "max_pct": 22.2,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 37,
+          "max_dmg": 44,
+          "min_pct": 18.7,
+          "max_pct": 22.2,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 37,
+          "max_dmg": 44,
+          "min_pct": 18.7,
+          "max_pct": 22.2,
+          "ohko": false,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Delphox",
+        "defender_types": [
+          "Fuego",
+          "Psiquico"
+        ],
+        "defender_ability": "blaze",
+        "ability_notes": [],
+        "defender_hp": 182,
+        "type_eff": 1.0,
+        "min_dmg": 37,
+        "max_dmg": 44,
+        "min_pct": 20.3,
+        "max_pct": 24.2,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 37,
+          "max_dmg": 44,
+          "min_pct": 20.3,
+          "max_pct": 24.2,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 37,
+          "max_dmg": 44,
+          "min_pct": 20.3,
+          "max_pct": 24.2,
+          "ohko": false,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Whimsicott",
+        "defender_types": [
+          "Planta",
+          "Hada"
+        ],
+        "defender_ability": "prankster",
+        "ability_notes": [],
+        "defender_hp": 167,
+        "type_eff": 1.0,
+        "min_dmg": 37,
+        "max_dmg": 44,
+        "min_pct": 22.2,
+        "max_pct": 26.3,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 37,
+          "max_dmg": 44,
+          "min_pct": 22.2,
+          "max_pct": 26.3,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 37,
+          "max_dmg": 44,
+          "min_pct": 22.2,
+          "max_pct": 26.3,
+          "ohko": false,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Garchomp",
+        "defender_types": [
+          "Dragon",
+          "Tierra"
+        ],
+        "defender_ability": "sand-veil",
+        "ability_notes": [],
+        "defender_hp": 215,
+        "type_eff": 1.0,
+        "min_dmg": 37,
+        "max_dmg": 44,
+        "min_pct": 17.2,
+        "max_pct": 20.5,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 37,
+          "max_dmg": 44,
+          "min_pct": 17.2,
+          "max_pct": 20.5,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 37,
+          "max_dmg": 44,
+          "min_pct": 17.2,
+          "max_pct": 20.5,
+          "ohko": false,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Typhlosion de Hisui",
+        "defender_types": [
+          "Fuego",
+          "Fantasma"
+        ],
+        "defender_ability": "blaze",
+        "ability_notes": [],
+        "defender_hp": 180,
+        "type_eff": 0.0,
+        "min_dmg": 0,
+        "max_dmg": 0,
+        "min_pct": 0.0,
+        "max_pct": 0.0,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 0,
+          "max_dmg": 0,
+          "min_pct": 0.0,
+          "max_pct": 0.0,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 0,
+          "max_dmg": 0,
+          "min_pct": 0.0,
+          "max_pct": 0.0,
+          "ohko": false,
+          "applies": false
+        }
+      }
+    ]
+  },
+  {
+    "attacker": "Zoroark de Hisui",
+    "attacker_types": [
+      "Normal",
+      "Fantasma"
+    ],
+    "attacker_stats": {
+      "hp": 130,
+      "attack": 108,
+      "defense": 80,
+      "spAttack": 194,
+      "spDefense": 82,
+      "speed": 162
+    },
+    "attacker_spread": "Sweeper (32 SpA / 32 Spe)",
+    "attacker_nature": "Modesta",
+    "attacker_ability": "illusion",
+    "attacker_ability_es": "Ilusión",
+    "attacker_ability_active": false,
+    "move": "Hiperrayo",
+    "move_type": "Normal",
+    "move_power": 150,
+    "move_category": "special",
+    "stab": true,
+    "item": "type-booster (×1.2)",
+    "vs": [
+      {
+        "defender": "Emboar",
+        "defender_types": [
+          "Fuego",
+          "Lucha"
+        ],
+        "defender_ability": "blaze",
+        "ability_notes": [],
+        "defender_hp": 217,
+        "type_eff": 1.0,
+        "min_dmg": 103,
+        "max_dmg": 121,
+        "min_pct": 47.5,
+        "max_pct": 55.8,
+        "ohko": false,
+        "two_hko": true,
+        "with_berry": {
+          "min_dmg": 103,
+          "max_dmg": 121,
+          "min_pct": 47.5,
+          "max_pct": 55.8,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 103,
+          "max_dmg": 121,
+          "min_pct": 47.5,
+          "max_pct": 55.8,
+          "ohko": false,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Incineroar",
+        "defender_types": [
+          "Fuego",
+          "Siniestro"
+        ],
+        "defender_ability": "blaze",
+        "ability_notes": [],
+        "defender_hp": 202,
+        "type_eff": 1.0,
+        "min_dmg": 103,
+        "max_dmg": 121,
+        "min_pct": 51.0,
+        "max_pct": 59.9,
+        "ohko": false,
+        "two_hko": true,
+        "with_berry": {
+          "min_dmg": 103,
+          "max_dmg": 121,
+          "min_pct": 51.0,
+          "max_pct": 59.9,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 103,
+          "max_dmg": 121,
+          "min_pct": 51.0,
+          "max_pct": 59.9,
+          "ohko": false,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Espathra",
+        "defender_types": [
+          "Psiquico"
+        ],
+        "defender_ability": "opportunist",
+        "ability_notes": [],
+        "defender_hp": 202,
+        "type_eff": 1.0,
+        "min_dmg": 204,
+        "max_dmg": 240,
+        "min_pct": 101.0,
+        "max_pct": 118.8,
+        "ohko": true,
+        "two_hko": true,
+        "with_berry": {
+          "min_dmg": 204,
+          "max_dmg": 240,
+          "min_pct": 101.0,
+          "max_pct": 118.8,
+          "ohko": true,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 204,
+          "max_dmg": 240,
+          "min_pct": 101.0,
+          "max_pct": 118.8,
+          "ohko": true,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Charizard",
+        "defender_types": [
+          "Fuego",
+          "Volador"
+        ],
+        "defender_ability": "blaze",
+        "ability_notes": [],
+        "defender_hp": 185,
+        "type_eff": 1.0,
+        "min_dmg": 103,
+        "max_dmg": 121,
+        "min_pct": 55.7,
+        "max_pct": 65.4,
+        "ohko": false,
+        "two_hko": true,
+        "with_berry": {
+          "min_dmg": 103,
+          "max_dmg": 121,
+          "min_pct": 55.7,
+          "max_pct": 65.4,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 103,
+          "max_dmg": 121,
+          "min_pct": 55.7,
+          "max_pct": 65.4,
+          "ohko": false,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Gengar",
+        "defender_types": [
+          "Fantasma",
+          "Veneno"
+        ],
+        "defender_ability": "cursed-body",
+        "ability_notes": [],
+        "defender_hp": 167,
+        "type_eff": 0.0,
+        "min_dmg": 0,
+        "max_dmg": 0,
+        "min_pct": 0.0,
+        "max_pct": 0.0,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 0,
+          "max_dmg": 0,
+          "min_pct": 0.0,
+          "max_pct": 0.0,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 0,
+          "max_dmg": 0,
+          "min_pct": 0.0,
+          "max_pct": 0.0,
+          "ohko": false,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Zoroark de Hisui",
+        "defender_types": [
+          "Normal",
+          "Fantasma"
+        ],
+        "defender_ability": "illusion",
+        "ability_notes": [],
+        "defender_hp": 162,
+        "type_eff": 0.0,
+        "min_dmg": 0,
+        "max_dmg": 0,
+        "min_pct": 0.0,
+        "max_pct": 0.0,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 0,
+          "max_dmg": 0,
+          "min_pct": 0.0,
+          "max_pct": 0.0,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 0,
+          "max_dmg": 0,
+          "min_pct": 0.0,
+          "max_pct": 0.0,
+          "ohko": false,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Greninja",
+        "defender_types": [
+          "Agua",
+          "Siniestro"
+        ],
+        "defender_ability": "torrent",
+        "ability_notes": [],
+        "defender_hp": 179,
+        "type_eff": 1.0,
+        "min_dmg": 103,
+        "max_dmg": 121,
+        "min_pct": 57.5,
+        "max_pct": 67.6,
+        "ohko": false,
+        "two_hko": true,
+        "with_berry": {
+          "min_dmg": 103,
+          "max_dmg": 121,
+          "min_pct": 57.5,
+          "max_pct": 67.6,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 103,
+          "max_dmg": 121,
+          "min_pct": 57.5,
+          "max_pct": 67.6,
+          "ohko": false,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Corviknight",
+        "defender_types": [
+          "Volador",
+          "Acero"
+        ],
+        "defender_ability": "pressure",
+        "ability_notes": [],
+        "defender_hp": 205,
+        "type_eff": 0.5,
+        "min_dmg": 51,
+        "max_dmg": 60,
+        "min_pct": 24.9,
+        "max_pct": 29.3,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 51,
+          "max_dmg": 60,
+          "min_pct": 24.9,
+          "max_pct": 29.3,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 51,
+          "max_dmg": 60,
+          "min_pct": 24.9,
+          "max_pct": 29.3,
+          "ohko": false,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Blastoise",
+        "defender_types": [
+          "Agua"
+        ],
+        "defender_ability": "torrent",
+        "ability_notes": [],
+        "defender_hp": 186,
+        "type_eff": 1.0,
+        "min_dmg": 103,
+        "max_dmg": 121,
+        "min_pct": 55.4,
+        "max_pct": 65.1,
+        "ohko": false,
+        "two_hko": true,
+        "with_berry": {
+          "min_dmg": 103,
+          "max_dmg": 121,
+          "min_pct": 55.4,
+          "max_pct": 65.1,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 103,
+          "max_dmg": 121,
+          "min_pct": 55.4,
+          "max_pct": 65.1,
+          "ohko": false,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Slowking",
+        "defender_types": [
+          "Agua",
+          "Psiquico"
+        ],
+        "defender_ability": "oblivious",
+        "ability_notes": [],
+        "defender_hp": 202,
+        "type_eff": 1.0,
+        "min_dmg": 103,
+        "max_dmg": 121,
+        "min_pct": 51.0,
+        "max_pct": 59.9,
+        "ohko": false,
+        "two_hko": true,
+        "with_berry": {
+          "min_dmg": 103,
+          "max_dmg": 121,
+          "min_pct": 51.0,
+          "max_pct": 59.9,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 103,
+          "max_dmg": 121,
+          "min_pct": 51.0,
+          "max_pct": 59.9,
+          "ohko": false,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Dragonite",
+        "defender_types": [
+          "Dragon",
+          "Volador"
+        ],
+        "defender_ability": "inner-focus",
+        "ability_notes": [],
+        "defender_hp": 198,
+        "type_eff": 1.0,
+        "min_dmg": 103,
+        "max_dmg": 121,
+        "min_pct": 52.0,
+        "max_pct": 61.1,
+        "ohko": false,
+        "two_hko": true,
+        "with_berry": {
+          "min_dmg": 103,
+          "max_dmg": 121,
+          "min_pct": 52.0,
+          "max_pct": 61.1,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 103,
+          "max_dmg": 121,
+          "min_pct": 52.0,
+          "max_pct": 61.1,
+          "ohko": false,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Delphox",
+        "defender_types": [
+          "Fuego",
+          "Psiquico"
+        ],
+        "defender_ability": "blaze",
+        "ability_notes": [],
+        "defender_hp": 182,
+        "type_eff": 1.0,
+        "min_dmg": 103,
+        "max_dmg": 121,
+        "min_pct": 56.6,
+        "max_pct": 66.5,
+        "ohko": false,
+        "two_hko": true,
+        "with_berry": {
+          "min_dmg": 103,
+          "max_dmg": 121,
+          "min_pct": 56.6,
+          "max_pct": 66.5,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 103,
+          "max_dmg": 121,
+          "min_pct": 56.6,
+          "max_pct": 66.5,
+          "ohko": false,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Whimsicott",
+        "defender_types": [
+          "Planta",
+          "Hada"
+        ],
+        "defender_ability": "prankster",
+        "ability_notes": [],
+        "defender_hp": 167,
+        "type_eff": 1.0,
+        "min_dmg": 103,
+        "max_dmg": 121,
+        "min_pct": 61.7,
+        "max_pct": 72.5,
+        "ohko": false,
+        "two_hko": true,
+        "with_berry": {
+          "min_dmg": 103,
+          "max_dmg": 121,
+          "min_pct": 61.7,
+          "max_pct": 72.5,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 103,
+          "max_dmg": 121,
+          "min_pct": 61.7,
+          "max_pct": 72.5,
+          "ohko": false,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Garchomp",
+        "defender_types": [
+          "Dragon",
+          "Tierra"
+        ],
+        "defender_ability": "sand-veil",
+        "ability_notes": [],
+        "defender_hp": 215,
+        "type_eff": 1.0,
+        "min_dmg": 103,
+        "max_dmg": 121,
+        "min_pct": 47.9,
+        "max_pct": 56.3,
+        "ohko": false,
+        "two_hko": true,
+        "with_berry": {
+          "min_dmg": 103,
+          "max_dmg": 121,
+          "min_pct": 47.9,
+          "max_pct": 56.3,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 103,
+          "max_dmg": 121,
+          "min_pct": 47.9,
+          "max_pct": 56.3,
+          "ohko": false,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Typhlosion de Hisui",
+        "defender_types": [
+          "Fuego",
+          "Fantasma"
+        ],
+        "defender_ability": "blaze",
+        "ability_notes": [],
+        "defender_hp": 180,
+        "type_eff": 0.0,
+        "min_dmg": 0,
+        "max_dmg": 0,
+        "min_pct": 0.0,
+        "max_pct": 0.0,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 0,
+          "max_dmg": 0,
+          "min_pct": 0.0,
+          "max_pct": 0.0,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 0,
+          "max_dmg": 0,
+          "min_pct": 0.0,
+          "max_pct": 0.0,
+          "ohko": false,
+          "applies": false
+        }
+      }
+    ]
+  },
+  {
+    "attacker": "Greninja",
+    "attacker_types": [
+      "Agua",
+      "Siniestro"
+    ],
+    "attacker_stats": {
+      "hp": 147,
+      "attack": 103,
+      "defense": 87,
+      "spAttack": 170,
+      "spDefense": 93,
+      "speed": 174
+    },
+    "attacker_spread": "Sweeper (32 SpA / 32 Spe)",
+    "attacker_nature": "Modesta",
+    "attacker_ability": "torrent",
+    "attacker_ability_es": "Torrente",
+    "attacker_ability_active": true,
+    "move": "Hidrocañón",
+    "move_type": "Agua",
+    "move_power": 150,
+    "move_category": "special",
+    "stab": true,
+    "item": "type-booster (×1.2)",
+    "vs": [
+      {
+        "defender": "Emboar",
+        "defender_types": [
+          "Fuego",
+          "Lucha"
+        ],
+        "defender_ability": "blaze",
+        "ability_notes": [
+          "torrent"
+        ],
+        "defender_hp": 217,
+        "type_eff": 2.0,
+        "min_dmg": 306,
+        "max_dmg": 360,
+        "min_pct": 141.0,
+        "max_pct": 165.9,
+        "ohko": true,
+        "two_hko": true,
+        "with_berry": {
+          "min_dmg": 153,
+          "max_dmg": 180,
+          "min_pct": 70.5,
+          "max_pct": 82.9,
+          "ohko": false,
+          "applies": true
+        },
+        "if_burned": {
+          "min_dmg": 306,
+          "max_dmg": 360,
+          "min_pct": 141.0,
+          "max_pct": 165.9,
+          "ohko": true,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Incineroar",
+        "defender_types": [
+          "Fuego",
+          "Siniestro"
+        ],
+        "defender_ability": "blaze",
+        "ability_notes": [
+          "torrent"
+        ],
+        "defender_hp": 202,
+        "type_eff": 2.0,
+        "min_dmg": 306,
+        "max_dmg": 360,
+        "min_pct": 151.5,
+        "max_pct": 178.2,
+        "ohko": true,
+        "two_hko": true,
+        "with_berry": {
+          "min_dmg": 153,
+          "max_dmg": 180,
+          "min_pct": 75.7,
+          "max_pct": 89.1,
+          "ohko": false,
+          "applies": true
+        },
+        "if_burned": {
+          "min_dmg": 306,
+          "max_dmg": 360,
+          "min_pct": 151.5,
+          "max_pct": 178.2,
+          "ohko": true,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Espathra",
+        "defender_types": [
+          "Psiquico"
+        ],
+        "defender_ability": "opportunist",
+        "ability_notes": [
+          "torrent"
+        ],
+        "defender_hp": 202,
+        "type_eff": 1.0,
+        "min_dmg": 153,
+        "max_dmg": 180,
+        "min_pct": 75.7,
+        "max_pct": 89.1,
+        "ohko": false,
+        "two_hko": true,
+        "with_berry": {
+          "min_dmg": 153,
+          "max_dmg": 180,
+          "min_pct": 75.7,
+          "max_pct": 89.1,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 153,
+          "max_dmg": 180,
+          "min_pct": 75.7,
+          "max_pct": 89.1,
+          "ohko": false,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Charizard",
+        "defender_types": [
+          "Fuego",
+          "Volador"
+        ],
+        "defender_ability": "blaze",
+        "ability_notes": [
+          "torrent"
+        ],
+        "defender_hp": 185,
+        "type_eff": 2.0,
+        "min_dmg": 306,
+        "max_dmg": 360,
+        "min_pct": 165.4,
+        "max_pct": 194.6,
+        "ohko": true,
+        "two_hko": true,
+        "with_berry": {
+          "min_dmg": 153,
+          "max_dmg": 180,
+          "min_pct": 82.7,
+          "max_pct": 97.3,
+          "ohko": false,
+          "applies": true
+        },
+        "if_burned": {
+          "min_dmg": 306,
+          "max_dmg": 360,
+          "min_pct": 165.4,
+          "max_pct": 194.6,
+          "ohko": true,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Gengar",
+        "defender_types": [
+          "Fantasma",
+          "Veneno"
+        ],
+        "defender_ability": "cursed-body",
+        "ability_notes": [
+          "torrent"
+        ],
+        "defender_hp": 167,
+        "type_eff": 1.0,
+        "min_dmg": 153,
+        "max_dmg": 180,
+        "min_pct": 91.6,
+        "max_pct": 107.8,
+        "ohko": true,
+        "two_hko": true,
+        "with_berry": {
+          "min_dmg": 153,
+          "max_dmg": 180,
+          "min_pct": 91.6,
+          "max_pct": 107.8,
+          "ohko": true,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 153,
+          "max_dmg": 180,
+          "min_pct": 91.6,
+          "max_pct": 107.8,
+          "ohko": true,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Zoroark de Hisui",
+        "defender_types": [
+          "Normal",
+          "Fantasma"
+        ],
+        "defender_ability": "illusion",
+        "ability_notes": [
+          "torrent"
+        ],
+        "defender_hp": 162,
+        "type_eff": 1.0,
+        "min_dmg": 153,
+        "max_dmg": 180,
+        "min_pct": 94.4,
+        "max_pct": 111.1,
+        "ohko": true,
+        "two_hko": true,
+        "with_berry": {
+          "min_dmg": 153,
+          "max_dmg": 180,
+          "min_pct": 94.4,
+          "max_pct": 111.1,
+          "ohko": true,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 153,
+          "max_dmg": 180,
+          "min_pct": 94.4,
+          "max_pct": 111.1,
+          "ohko": true,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Greninja",
+        "defender_types": [
+          "Agua",
+          "Siniestro"
+        ],
+        "defender_ability": "torrent",
+        "ability_notes": [
+          "torrent"
+        ],
+        "defender_hp": 179,
+        "type_eff": 0.5,
+        "min_dmg": 76,
+        "max_dmg": 90,
+        "min_pct": 42.5,
+        "max_pct": 50.3,
+        "ohko": false,
+        "two_hko": true,
+        "with_berry": {
+          "min_dmg": 76,
+          "max_dmg": 90,
+          "min_pct": 42.5,
+          "max_pct": 50.3,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 76,
+          "max_dmg": 90,
+          "min_pct": 42.5,
+          "max_pct": 50.3,
+          "ohko": false,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Corviknight",
+        "defender_types": [
+          "Volador",
+          "Acero"
+        ],
+        "defender_ability": "pressure",
+        "ability_notes": [
+          "torrent"
+        ],
+        "defender_hp": 205,
+        "type_eff": 1.0,
+        "min_dmg": 153,
+        "max_dmg": 180,
+        "min_pct": 74.6,
+        "max_pct": 87.8,
+        "ohko": false,
+        "two_hko": true,
+        "with_berry": {
+          "min_dmg": 153,
+          "max_dmg": 180,
+          "min_pct": 74.6,
+          "max_pct": 87.8,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 153,
+          "max_dmg": 180,
+          "min_pct": 74.6,
+          "max_pct": 87.8,
+          "ohko": false,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Blastoise",
+        "defender_types": [
+          "Agua"
+        ],
+        "defender_ability": "torrent",
+        "ability_notes": [
+          "torrent"
+        ],
+        "defender_hp": 186,
+        "type_eff": 0.5,
+        "min_dmg": 76,
+        "max_dmg": 90,
+        "min_pct": 40.9,
+        "max_pct": 48.4,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 76,
+          "max_dmg": 90,
+          "min_pct": 40.9,
+          "max_pct": 48.4,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 76,
+          "max_dmg": 90,
+          "min_pct": 40.9,
+          "max_pct": 48.4,
+          "ohko": false,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Slowking",
+        "defender_types": [
+          "Agua",
+          "Psiquico"
+        ],
+        "defender_ability": "oblivious",
+        "ability_notes": [
+          "torrent"
+        ],
+        "defender_hp": 202,
+        "type_eff": 0.5,
+        "min_dmg": 76,
+        "max_dmg": 90,
+        "min_pct": 37.6,
+        "max_pct": 44.6,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 76,
+          "max_dmg": 90,
+          "min_pct": 37.6,
+          "max_pct": 44.6,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 76,
+          "max_dmg": 90,
+          "min_pct": 37.6,
+          "max_pct": 44.6,
+          "ohko": false,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Dragonite",
+        "defender_types": [
+          "Dragon",
+          "Volador"
+        ],
+        "defender_ability": "inner-focus",
+        "ability_notes": [
+          "torrent"
+        ],
+        "defender_hp": 198,
+        "type_eff": 0.5,
+        "min_dmg": 76,
+        "max_dmg": 90,
+        "min_pct": 38.4,
+        "max_pct": 45.5,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 76,
+          "max_dmg": 90,
+          "min_pct": 38.4,
+          "max_pct": 45.5,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 76,
+          "max_dmg": 90,
+          "min_pct": 38.4,
+          "max_pct": 45.5,
+          "ohko": false,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Delphox",
+        "defender_types": [
+          "Fuego",
+          "Psiquico"
+        ],
+        "defender_ability": "blaze",
+        "ability_notes": [
+          "torrent"
+        ],
+        "defender_hp": 182,
+        "type_eff": 2.0,
+        "min_dmg": 306,
+        "max_dmg": 360,
+        "min_pct": 168.1,
+        "max_pct": 197.8,
+        "ohko": true,
+        "two_hko": true,
+        "with_berry": {
+          "min_dmg": 153,
+          "max_dmg": 180,
+          "min_pct": 84.1,
+          "max_pct": 98.9,
+          "ohko": false,
+          "applies": true
+        },
+        "if_burned": {
+          "min_dmg": 306,
+          "max_dmg": 360,
+          "min_pct": 168.1,
+          "max_pct": 197.8,
+          "ohko": true,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Whimsicott",
+        "defender_types": [
+          "Planta",
+          "Hada"
+        ],
+        "defender_ability": "prankster",
+        "ability_notes": [
+          "torrent"
+        ],
+        "defender_hp": 167,
+        "type_eff": 0.5,
+        "min_dmg": 76,
+        "max_dmg": 90,
+        "min_pct": 45.5,
+        "max_pct": 53.9,
+        "ohko": false,
+        "two_hko": true,
+        "with_berry": {
+          "min_dmg": 76,
+          "max_dmg": 90,
+          "min_pct": 45.5,
+          "max_pct": 53.9,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 76,
+          "max_dmg": 90,
+          "min_pct": 45.5,
+          "max_pct": 53.9,
+          "ohko": false,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Garchomp",
+        "defender_types": [
+          "Dragon",
+          "Tierra"
+        ],
+        "defender_ability": "sand-veil",
+        "ability_notes": [
+          "torrent"
+        ],
+        "defender_hp": 215,
+        "type_eff": 1.0,
+        "min_dmg": 153,
+        "max_dmg": 180,
+        "min_pct": 71.2,
+        "max_pct": 83.7,
+        "ohko": false,
+        "two_hko": true,
+        "with_berry": {
+          "min_dmg": 153,
+          "max_dmg": 180,
+          "min_pct": 71.2,
+          "max_pct": 83.7,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 153,
+          "max_dmg": 180,
+          "min_pct": 71.2,
+          "max_pct": 83.7,
+          "ohko": false,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Typhlosion de Hisui",
+        "defender_types": [
+          "Fuego",
+          "Fantasma"
+        ],
+        "defender_ability": "blaze",
+        "ability_notes": [
+          "torrent"
+        ],
+        "defender_hp": 180,
+        "type_eff": 2.0,
+        "min_dmg": 306,
+        "max_dmg": 360,
+        "min_pct": 170.0,
+        "max_pct": 200.0,
+        "ohko": true,
+        "two_hko": true,
+        "with_berry": {
+          "min_dmg": 153,
+          "max_dmg": 180,
+          "min_pct": 85.0,
+          "max_pct": 100.0,
+          "ohko": true,
+          "applies": true
+        },
+        "if_burned": {
+          "min_dmg": 306,
+          "max_dmg": 360,
+          "min_pct": 170.0,
+          "max_pct": 200.0,
+          "ohko": true,
+          "applies": false
+        }
+      }
+    ]
+  },
+  {
+    "attacker": "Corviknight",
+    "attacker_types": [
+      "Volador",
+      "Acero"
+    ],
+    "attacker_stats": {
+      "hp": 173,
+      "attack": 152,
+      "defense": 125,
+      "spAttack": 65,
+      "spDefense": 107,
+      "speed": 119
+    },
+    "attacker_spread": "Physical (32 Atk / 32 Spe)",
+    "attacker_nature": "Firme",
+    "attacker_ability": "pressure",
+    "attacker_ability_es": "Presión",
+    "attacker_ability_active": false,
+    "move": "Ataque Aéreo",
+    "move_type": "Volador",
+    "move_power": 140,
+    "move_category": "physical",
+    "stab": true,
+    "item": "type-booster (×1.2)",
+    "vs": [
+      {
+        "defender": "Emboar",
+        "defender_types": [
+          "Fuego",
+          "Lucha"
+        ],
+        "defender_ability": "blaze",
+        "ability_notes": [],
+        "defender_hp": 217,
+        "type_eff": 2.0,
+        "min_dmg": 191,
+        "max_dmg": 225,
+        "min_pct": 88.0,
+        "max_pct": 103.7,
+        "ohko": true,
+        "two_hko": true,
+        "with_berry": {
+          "min_dmg": 95,
+          "max_dmg": 112,
+          "min_pct": 43.8,
+          "max_pct": 51.6,
+          "ohko": false,
+          "applies": true
+        },
+        "if_burned": {
+          "min_dmg": 5,
+          "max_dmg": 6,
+          "min_pct": 2.3,
+          "max_pct": 2.8,
+          "ohko": false,
+          "applies": true
+        }
+      },
+      {
+        "defender": "Incineroar",
+        "defender_types": [
+          "Fuego",
+          "Siniestro"
+        ],
+        "defender_ability": "blaze",
+        "ability_notes": [],
+        "defender_hp": 202,
+        "type_eff": 1.0,
+        "min_dmg": 95,
+        "max_dmg": 112,
+        "min_pct": 47.0,
+        "max_pct": 55.4,
+        "ohko": false,
+        "two_hko": true,
+        "with_berry": {
+          "min_dmg": 95,
+          "max_dmg": 112,
+          "min_pct": 47.0,
+          "max_pct": 55.4,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 2,
+          "max_dmg": 3,
+          "min_pct": 1.0,
+          "max_pct": 1.5,
+          "ohko": false,
+          "applies": true
+        }
+      },
+      {
+        "defender": "Espathra",
+        "defender_types": [
+          "Psiquico"
+        ],
+        "defender_ability": "opportunist",
+        "ability_notes": [],
+        "defender_hp": 202,
+        "type_eff": 1.0,
+        "min_dmg": 95,
+        "max_dmg": 112,
+        "min_pct": 47.0,
+        "max_pct": 55.4,
+        "ohko": false,
+        "two_hko": true,
+        "with_berry": {
+          "min_dmg": 95,
+          "max_dmg": 112,
+          "min_pct": 47.0,
+          "max_pct": 55.4,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 2,
+          "max_dmg": 3,
+          "min_pct": 1.0,
+          "max_pct": 1.5,
+          "ohko": false,
+          "applies": true
+        }
+      },
+      {
+        "defender": "Charizard",
+        "defender_types": [
+          "Fuego",
+          "Volador"
+        ],
+        "defender_ability": "blaze",
+        "ability_notes": [],
+        "defender_hp": 185,
+        "type_eff": 1.0,
+        "min_dmg": 95,
+        "max_dmg": 112,
+        "min_pct": 51.4,
+        "max_pct": 60.5,
+        "ohko": false,
+        "two_hko": true,
+        "with_berry": {
+          "min_dmg": 95,
+          "max_dmg": 112,
+          "min_pct": 51.4,
+          "max_pct": 60.5,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 2,
+          "max_dmg": 3,
+          "min_pct": 1.1,
+          "max_pct": 1.6,
+          "ohko": false,
+          "applies": true
+        }
+      },
+      {
+        "defender": "Gengar",
+        "defender_types": [
+          "Fantasma",
+          "Veneno"
+        ],
+        "defender_ability": "cursed-body",
+        "ability_notes": [],
+        "defender_hp": 167,
+        "type_eff": 1.0,
+        "min_dmg": 95,
+        "max_dmg": 112,
+        "min_pct": 56.9,
+        "max_pct": 67.1,
+        "ohko": false,
+        "two_hko": true,
+        "with_berry": {
+          "min_dmg": 95,
+          "max_dmg": 112,
+          "min_pct": 56.9,
+          "max_pct": 67.1,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 2,
+          "max_dmg": 3,
+          "min_pct": 1.2,
+          "max_pct": 1.8,
+          "ohko": false,
+          "applies": true
+        }
+      },
+      {
+        "defender": "Zoroark de Hisui",
+        "defender_types": [
+          "Normal",
+          "Fantasma"
+        ],
+        "defender_ability": "illusion",
+        "ability_notes": [],
+        "defender_hp": 162,
+        "type_eff": 1.0,
+        "min_dmg": 95,
+        "max_dmg": 112,
+        "min_pct": 58.6,
+        "max_pct": 69.1,
+        "ohko": false,
+        "two_hko": true,
+        "with_berry": {
+          "min_dmg": 95,
+          "max_dmg": 112,
+          "min_pct": 58.6,
+          "max_pct": 69.1,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 2,
+          "max_dmg": 3,
+          "min_pct": 1.2,
+          "max_pct": 1.9,
+          "ohko": false,
+          "applies": true
+        }
+      },
+      {
+        "defender": "Greninja",
+        "defender_types": [
+          "Agua",
+          "Siniestro"
+        ],
+        "defender_ability": "torrent",
+        "ability_notes": [],
+        "defender_hp": 179,
+        "type_eff": 1.0,
+        "min_dmg": 95,
+        "max_dmg": 112,
+        "min_pct": 53.1,
+        "max_pct": 62.6,
+        "ohko": false,
+        "two_hko": true,
+        "with_berry": {
+          "min_dmg": 95,
+          "max_dmg": 112,
+          "min_pct": 53.1,
+          "max_pct": 62.6,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 2,
+          "max_dmg": 3,
+          "min_pct": 1.1,
+          "max_pct": 1.7,
+          "ohko": false,
+          "applies": true
+        }
+      },
+      {
+        "defender": "Corviknight",
+        "defender_types": [
+          "Volador",
+          "Acero"
+        ],
+        "defender_ability": "pressure",
+        "ability_notes": [],
+        "defender_hp": 205,
+        "type_eff": 0.5,
+        "min_dmg": 47,
+        "max_dmg": 56,
+        "min_pct": 22.9,
+        "max_pct": 27.3,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 47,
+          "max_dmg": 56,
+          "min_pct": 22.9,
+          "max_pct": 27.3,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 1,
+          "max_dmg": 1,
+          "min_pct": 0.5,
+          "max_pct": 0.5,
+          "ohko": false,
+          "applies": true
+        }
+      },
+      {
+        "defender": "Blastoise",
+        "defender_types": [
+          "Agua"
+        ],
+        "defender_ability": "torrent",
+        "ability_notes": [],
+        "defender_hp": 186,
+        "type_eff": 1.0,
+        "min_dmg": 95,
+        "max_dmg": 112,
+        "min_pct": 51.1,
+        "max_pct": 60.2,
+        "ohko": false,
+        "two_hko": true,
+        "with_berry": {
+          "min_dmg": 95,
+          "max_dmg": 112,
+          "min_pct": 51.1,
+          "max_pct": 60.2,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 2,
+          "max_dmg": 3,
+          "min_pct": 1.1,
+          "max_pct": 1.6,
+          "ohko": false,
+          "applies": true
+        }
+      },
+      {
+        "defender": "Slowking",
+        "defender_types": [
+          "Agua",
+          "Psiquico"
+        ],
+        "defender_ability": "oblivious",
+        "ability_notes": [],
+        "defender_hp": 202,
+        "type_eff": 1.0,
+        "min_dmg": 95,
+        "max_dmg": 112,
+        "min_pct": 47.0,
+        "max_pct": 55.4,
+        "ohko": false,
+        "two_hko": true,
+        "with_berry": {
+          "min_dmg": 95,
+          "max_dmg": 112,
+          "min_pct": 47.0,
+          "max_pct": 55.4,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 2,
+          "max_dmg": 3,
+          "min_pct": 1.0,
+          "max_pct": 1.5,
+          "ohko": false,
+          "applies": true
+        }
+      },
+      {
+        "defender": "Dragonite",
+        "defender_types": [
+          "Dragon",
+          "Volador"
+        ],
+        "defender_ability": "inner-focus",
+        "ability_notes": [],
+        "defender_hp": 198,
+        "type_eff": 1.0,
+        "min_dmg": 95,
+        "max_dmg": 112,
+        "min_pct": 48.0,
+        "max_pct": 56.6,
+        "ohko": false,
+        "two_hko": true,
+        "with_berry": {
+          "min_dmg": 95,
+          "max_dmg": 112,
+          "min_pct": 48.0,
+          "max_pct": 56.6,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 2,
+          "max_dmg": 3,
+          "min_pct": 1.0,
+          "max_pct": 1.5,
+          "ohko": false,
+          "applies": true
+        }
+      },
+      {
+        "defender": "Delphox",
+        "defender_types": [
+          "Fuego",
+          "Psiquico"
+        ],
+        "defender_ability": "blaze",
+        "ability_notes": [],
+        "defender_hp": 182,
+        "type_eff": 1.0,
+        "min_dmg": 95,
+        "max_dmg": 112,
+        "min_pct": 52.2,
+        "max_pct": 61.5,
+        "ohko": false,
+        "two_hko": true,
+        "with_berry": {
+          "min_dmg": 95,
+          "max_dmg": 112,
+          "min_pct": 52.2,
+          "max_pct": 61.5,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 2,
+          "max_dmg": 3,
+          "min_pct": 1.1,
+          "max_pct": 1.6,
+          "ohko": false,
+          "applies": true
+        }
+      },
+      {
+        "defender": "Whimsicott",
+        "defender_types": [
+          "Planta",
+          "Hada"
+        ],
+        "defender_ability": "prankster",
+        "ability_notes": [],
+        "defender_hp": 167,
+        "type_eff": 2.0,
+        "min_dmg": 191,
+        "max_dmg": 225,
+        "min_pct": 114.4,
+        "max_pct": 134.7,
+        "ohko": true,
+        "two_hko": true,
+        "with_berry": {
+          "min_dmg": 95,
+          "max_dmg": 112,
+          "min_pct": 56.9,
+          "max_pct": 67.1,
+          "ohko": false,
+          "applies": true
+        },
+        "if_burned": {
+          "min_dmg": 5,
+          "max_dmg": 6,
+          "min_pct": 3.0,
+          "max_pct": 3.6,
+          "ohko": false,
+          "applies": true
+        }
+      },
+      {
+        "defender": "Garchomp",
+        "defender_types": [
+          "Dragon",
+          "Tierra"
+        ],
+        "defender_ability": "sand-veil",
+        "ability_notes": [],
+        "defender_hp": 215,
+        "type_eff": 1.0,
+        "min_dmg": 95,
+        "max_dmg": 112,
+        "min_pct": 44.2,
+        "max_pct": 52.1,
+        "ohko": false,
+        "two_hko": true,
+        "with_berry": {
+          "min_dmg": 95,
+          "max_dmg": 112,
+          "min_pct": 44.2,
+          "max_pct": 52.1,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 2,
+          "max_dmg": 3,
+          "min_pct": 0.9,
+          "max_pct": 1.4,
+          "ohko": false,
+          "applies": true
+        }
+      },
+      {
+        "defender": "Typhlosion de Hisui",
+        "defender_types": [
+          "Fuego",
+          "Fantasma"
+        ],
+        "defender_ability": "blaze",
+        "ability_notes": [],
+        "defender_hp": 180,
+        "type_eff": 1.0,
+        "min_dmg": 95,
+        "max_dmg": 112,
+        "min_pct": 52.8,
+        "max_pct": 62.2,
+        "ohko": false,
+        "two_hko": true,
+        "with_berry": {
+          "min_dmg": 95,
+          "max_dmg": 112,
+          "min_pct": 52.8,
+          "max_pct": 62.2,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 2,
+          "max_dmg": 3,
+          "min_pct": 1.1,
+          "max_pct": 1.7,
+          "ohko": false,
+          "applies": true
+        }
+      }
+    ]
+  },
+  {
+    "attacker": "Blastoise",
+    "attacker_types": [
+      "Agua"
+    ],
+    "attacker_stats": {
+      "hp": 154,
+      "attack": 92,
+      "defense": 120,
+      "spAttack": 150,
+      "spDefense": 127,
+      "speed": 130
+    },
+    "attacker_spread": "Sweeper (32 SpA / 32 Spe)",
+    "attacker_nature": "Modesta",
+    "attacker_ability": "torrent",
+    "attacker_ability_es": "Torrente",
+    "attacker_ability_active": true,
+    "move": "Chilling Water",
+    "move_type": "Agua",
+    "move_power": 50,
+    "move_category": "special",
+    "stab": true,
+    "item": "type-booster (×1.2)",
+    "vs": [
+      {
+        "defender": "Emboar",
+        "defender_types": [
+          "Fuego",
+          "Lucha"
+        ],
+        "defender_ability": "blaze",
+        "ability_notes": [
+          "torrent"
+        ],
+        "defender_hp": 217,
+        "type_eff": 2.0,
+        "min_dmg": 104,
+        "max_dmg": 123,
+        "min_pct": 47.9,
+        "max_pct": 56.7,
+        "ohko": false,
+        "two_hko": true,
+        "with_berry": {
+          "min_dmg": 52,
+          "max_dmg": 61,
+          "min_pct": 24.0,
+          "max_pct": 28.1,
+          "ohko": false,
+          "applies": true
+        },
+        "if_burned": {
+          "min_dmg": 104,
+          "max_dmg": 123,
+          "min_pct": 47.9,
+          "max_pct": 56.7,
+          "ohko": false,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Incineroar",
+        "defender_types": [
+          "Fuego",
+          "Siniestro"
+        ],
+        "defender_ability": "blaze",
+        "ability_notes": [
+          "torrent"
+        ],
+        "defender_hp": 202,
+        "type_eff": 2.0,
+        "min_dmg": 104,
+        "max_dmg": 123,
+        "min_pct": 51.5,
+        "max_pct": 60.9,
+        "ohko": false,
+        "two_hko": true,
+        "with_berry": {
+          "min_dmg": 52,
+          "max_dmg": 61,
+          "min_pct": 25.7,
+          "max_pct": 30.2,
+          "ohko": false,
+          "applies": true
+        },
+        "if_burned": {
+          "min_dmg": 104,
+          "max_dmg": 123,
+          "min_pct": 51.5,
+          "max_pct": 60.9,
+          "ohko": false,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Espathra",
+        "defender_types": [
+          "Psiquico"
+        ],
+        "defender_ability": "opportunist",
+        "ability_notes": [
+          "torrent"
+        ],
+        "defender_hp": 202,
+        "type_eff": 1.0,
+        "min_dmg": 52,
+        "max_dmg": 61,
+        "min_pct": 25.7,
+        "max_pct": 30.2,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 52,
+          "max_dmg": 61,
+          "min_pct": 25.7,
+          "max_pct": 30.2,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 52,
+          "max_dmg": 61,
+          "min_pct": 25.7,
+          "max_pct": 30.2,
+          "ohko": false,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Charizard",
+        "defender_types": [
+          "Fuego",
+          "Volador"
+        ],
+        "defender_ability": "blaze",
+        "ability_notes": [
+          "torrent"
+        ],
+        "defender_hp": 185,
+        "type_eff": 2.0,
+        "min_dmg": 104,
+        "max_dmg": 123,
+        "min_pct": 56.2,
+        "max_pct": 66.5,
+        "ohko": false,
+        "two_hko": true,
+        "with_berry": {
+          "min_dmg": 52,
+          "max_dmg": 61,
+          "min_pct": 28.1,
+          "max_pct": 33.0,
+          "ohko": false,
+          "applies": true
+        },
+        "if_burned": {
+          "min_dmg": 104,
+          "max_dmg": 123,
+          "min_pct": 56.2,
+          "max_pct": 66.5,
+          "ohko": false,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Gengar",
+        "defender_types": [
+          "Fantasma",
+          "Veneno"
+        ],
+        "defender_ability": "cursed-body",
+        "ability_notes": [
+          "torrent"
+        ],
+        "defender_hp": 167,
+        "type_eff": 1.0,
+        "min_dmg": 52,
+        "max_dmg": 61,
+        "min_pct": 31.1,
+        "max_pct": 36.5,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 52,
+          "max_dmg": 61,
+          "min_pct": 31.1,
+          "max_pct": 36.5,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 52,
+          "max_dmg": 61,
+          "min_pct": 31.1,
+          "max_pct": 36.5,
+          "ohko": false,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Zoroark de Hisui",
+        "defender_types": [
+          "Normal",
+          "Fantasma"
+        ],
+        "defender_ability": "illusion",
+        "ability_notes": [
+          "torrent"
+        ],
+        "defender_hp": 162,
+        "type_eff": 1.0,
+        "min_dmg": 52,
+        "max_dmg": 61,
+        "min_pct": 32.1,
+        "max_pct": 37.7,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 52,
+          "max_dmg": 61,
+          "min_pct": 32.1,
+          "max_pct": 37.7,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 52,
+          "max_dmg": 61,
+          "min_pct": 32.1,
+          "max_pct": 37.7,
+          "ohko": false,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Greninja",
+        "defender_types": [
+          "Agua",
+          "Siniestro"
+        ],
+        "defender_ability": "torrent",
+        "ability_notes": [
+          "torrent"
+        ],
+        "defender_hp": 179,
+        "type_eff": 0.5,
+        "min_dmg": 26,
+        "max_dmg": 30,
+        "min_pct": 14.5,
+        "max_pct": 16.8,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 26,
+          "max_dmg": 30,
+          "min_pct": 14.5,
+          "max_pct": 16.8,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 26,
+          "max_dmg": 30,
+          "min_pct": 14.5,
+          "max_pct": 16.8,
+          "ohko": false,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Corviknight",
+        "defender_types": [
+          "Volador",
+          "Acero"
+        ],
+        "defender_ability": "pressure",
+        "ability_notes": [
+          "torrent"
+        ],
+        "defender_hp": 205,
+        "type_eff": 1.0,
+        "min_dmg": 52,
+        "max_dmg": 61,
+        "min_pct": 25.4,
+        "max_pct": 29.8,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 52,
+          "max_dmg": 61,
+          "min_pct": 25.4,
+          "max_pct": 29.8,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 52,
+          "max_dmg": 61,
+          "min_pct": 25.4,
+          "max_pct": 29.8,
+          "ohko": false,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Blastoise",
+        "defender_types": [
+          "Agua"
+        ],
+        "defender_ability": "torrent",
+        "ability_notes": [
+          "torrent"
+        ],
+        "defender_hp": 186,
+        "type_eff": 0.5,
+        "min_dmg": 26,
+        "max_dmg": 30,
+        "min_pct": 14.0,
+        "max_pct": 16.1,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 26,
+          "max_dmg": 30,
+          "min_pct": 14.0,
+          "max_pct": 16.1,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 26,
+          "max_dmg": 30,
+          "min_pct": 14.0,
+          "max_pct": 16.1,
+          "ohko": false,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Slowking",
+        "defender_types": [
+          "Agua",
+          "Psiquico"
+        ],
+        "defender_ability": "oblivious",
+        "ability_notes": [
+          "torrent"
+        ],
+        "defender_hp": 202,
+        "type_eff": 0.5,
+        "min_dmg": 26,
+        "max_dmg": 30,
+        "min_pct": 12.9,
+        "max_pct": 14.9,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 26,
+          "max_dmg": 30,
+          "min_pct": 12.9,
+          "max_pct": 14.9,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 26,
+          "max_dmg": 30,
+          "min_pct": 12.9,
+          "max_pct": 14.9,
+          "ohko": false,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Dragonite",
+        "defender_types": [
+          "Dragon",
+          "Volador"
+        ],
+        "defender_ability": "inner-focus",
+        "ability_notes": [
+          "torrent"
+        ],
+        "defender_hp": 198,
+        "type_eff": 0.5,
+        "min_dmg": 26,
+        "max_dmg": 30,
+        "min_pct": 13.1,
+        "max_pct": 15.2,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 26,
+          "max_dmg": 30,
+          "min_pct": 13.1,
+          "max_pct": 15.2,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 26,
+          "max_dmg": 30,
+          "min_pct": 13.1,
+          "max_pct": 15.2,
+          "ohko": false,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Delphox",
+        "defender_types": [
+          "Fuego",
+          "Psiquico"
+        ],
+        "defender_ability": "blaze",
+        "ability_notes": [
+          "torrent"
+        ],
+        "defender_hp": 182,
+        "type_eff": 2.0,
+        "min_dmg": 104,
+        "max_dmg": 123,
+        "min_pct": 57.1,
+        "max_pct": 67.6,
+        "ohko": false,
+        "two_hko": true,
+        "with_berry": {
+          "min_dmg": 52,
+          "max_dmg": 61,
+          "min_pct": 28.6,
+          "max_pct": 33.5,
+          "ohko": false,
+          "applies": true
+        },
+        "if_burned": {
+          "min_dmg": 104,
+          "max_dmg": 123,
+          "min_pct": 57.1,
+          "max_pct": 67.6,
+          "ohko": false,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Whimsicott",
+        "defender_types": [
+          "Planta",
+          "Hada"
+        ],
+        "defender_ability": "prankster",
+        "ability_notes": [
+          "torrent"
+        ],
+        "defender_hp": 167,
+        "type_eff": 0.5,
+        "min_dmg": 26,
+        "max_dmg": 30,
+        "min_pct": 15.6,
+        "max_pct": 18.0,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 26,
+          "max_dmg": 30,
+          "min_pct": 15.6,
+          "max_pct": 18.0,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 26,
+          "max_dmg": 30,
+          "min_pct": 15.6,
+          "max_pct": 18.0,
+          "ohko": false,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Garchomp",
+        "defender_types": [
+          "Dragon",
+          "Tierra"
+        ],
+        "defender_ability": "sand-veil",
+        "ability_notes": [
+          "torrent"
+        ],
+        "defender_hp": 215,
+        "type_eff": 1.0,
+        "min_dmg": 52,
+        "max_dmg": 61,
+        "min_pct": 24.2,
+        "max_pct": 28.4,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 52,
+          "max_dmg": 61,
+          "min_pct": 24.2,
+          "max_pct": 28.4,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 52,
+          "max_dmg": 61,
+          "min_pct": 24.2,
+          "max_pct": 28.4,
+          "ohko": false,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Typhlosion de Hisui",
+        "defender_types": [
+          "Fuego",
+          "Fantasma"
+        ],
+        "defender_ability": "blaze",
+        "ability_notes": [
+          "torrent"
+        ],
+        "defender_hp": 180,
+        "type_eff": 2.0,
+        "min_dmg": 104,
+        "max_dmg": 123,
+        "min_pct": 57.8,
+        "max_pct": 68.3,
+        "ohko": false,
+        "two_hko": true,
+        "with_berry": {
+          "min_dmg": 52,
+          "max_dmg": 61,
+          "min_pct": 28.9,
+          "max_pct": 33.9,
+          "ohko": false,
+          "applies": true
+        },
+        "if_burned": {
+          "min_dmg": 104,
+          "max_dmg": 123,
+          "min_pct": 57.8,
+          "max_pct": 68.3,
+          "ohko": false,
+          "applies": false
+        }
+      }
+    ]
+  },
+  {
+    "attacker": "Slowking",
+    "attacker_types": [
+      "Agua",
+      "Psiquico"
+    ],
+    "attacker_stats": {
+      "hp": 170,
+      "attack": 139,
+      "defense": 100,
+      "spAttack": 108,
+      "spDefense": 132,
+      "speed": 82
+    },
+    "attacker_spread": "Physical (32 Atk / 32 Spe)",
+    "attacker_nature": "Firme",
+    "attacker_ability": "oblivious",
+    "attacker_ability_es": "Despiste",
+    "attacker_ability_active": false,
+    "move": "Hidroariete",
+    "move_type": "Agua",
+    "move_power": 85,
+    "move_category": "physical",
+    "stab": true,
+    "item": "type-booster (×1.2)",
+    "vs": [
+      {
+        "defender": "Emboar",
+        "defender_types": [
+          "Fuego",
+          "Lucha"
+        ],
+        "defender_ability": "blaze",
+        "ability_notes": [],
+        "defender_hp": 217,
+        "type_eff": 2.0,
+        "min_dmg": 117,
+        "max_dmg": 138,
+        "min_pct": 53.9,
+        "max_pct": 63.6,
+        "ohko": false,
+        "two_hko": true,
+        "with_berry": {
+          "min_dmg": 58,
+          "max_dmg": 69,
+          "min_pct": 26.7,
+          "max_pct": 31.8,
+          "ohko": false,
+          "applies": true
+        },
+        "if_burned": {
+          "min_dmg": 5,
+          "max_dmg": 6,
+          "min_pct": 2.3,
+          "max_pct": 2.8,
+          "ohko": false,
+          "applies": true
+        }
+      },
+      {
+        "defender": "Incineroar",
+        "defender_types": [
+          "Fuego",
+          "Siniestro"
+        ],
+        "defender_ability": "blaze",
+        "ability_notes": [],
+        "defender_hp": 202,
+        "type_eff": 2.0,
+        "min_dmg": 117,
+        "max_dmg": 138,
+        "min_pct": 57.9,
+        "max_pct": 68.3,
+        "ohko": false,
+        "two_hko": true,
+        "with_berry": {
+          "min_dmg": 58,
+          "max_dmg": 69,
+          "min_pct": 28.7,
+          "max_pct": 34.2,
+          "ohko": false,
+          "applies": true
+        },
+        "if_burned": {
+          "min_dmg": 5,
+          "max_dmg": 6,
+          "min_pct": 2.5,
+          "max_pct": 3.0,
+          "ohko": false,
+          "applies": true
+        }
+      },
+      {
+        "defender": "Espathra",
+        "defender_types": [
+          "Psiquico"
+        ],
+        "defender_ability": "opportunist",
+        "ability_notes": [],
+        "defender_hp": 202,
+        "type_eff": 1.0,
+        "min_dmg": 58,
+        "max_dmg": 69,
+        "min_pct": 28.7,
+        "max_pct": 34.2,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 58,
+          "max_dmg": 69,
+          "min_pct": 28.7,
+          "max_pct": 34.2,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 2,
+          "max_dmg": 3,
+          "min_pct": 1.0,
+          "max_pct": 1.5,
+          "ohko": false,
+          "applies": true
+        }
+      },
+      {
+        "defender": "Charizard",
+        "defender_types": [
+          "Fuego",
+          "Volador"
+        ],
+        "defender_ability": "blaze",
+        "ability_notes": [],
+        "defender_hp": 185,
+        "type_eff": 2.0,
+        "min_dmg": 117,
+        "max_dmg": 138,
+        "min_pct": 63.2,
+        "max_pct": 74.6,
+        "ohko": false,
+        "two_hko": true,
+        "with_berry": {
+          "min_dmg": 58,
+          "max_dmg": 69,
+          "min_pct": 31.4,
+          "max_pct": 37.3,
+          "ohko": false,
+          "applies": true
+        },
+        "if_burned": {
+          "min_dmg": 5,
+          "max_dmg": 6,
+          "min_pct": 2.7,
+          "max_pct": 3.2,
+          "ohko": false,
+          "applies": true
+        }
+      },
+      {
+        "defender": "Gengar",
+        "defender_types": [
+          "Fantasma",
+          "Veneno"
+        ],
+        "defender_ability": "cursed-body",
+        "ability_notes": [],
+        "defender_hp": 167,
+        "type_eff": 1.0,
+        "min_dmg": 58,
+        "max_dmg": 69,
+        "min_pct": 34.7,
+        "max_pct": 41.3,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 58,
+          "max_dmg": 69,
+          "min_pct": 34.7,
+          "max_pct": 41.3,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 2,
+          "max_dmg": 3,
+          "min_pct": 1.2,
+          "max_pct": 1.8,
+          "ohko": false,
+          "applies": true
+        }
+      },
+      {
+        "defender": "Zoroark de Hisui",
+        "defender_types": [
+          "Normal",
+          "Fantasma"
+        ],
+        "defender_ability": "illusion",
+        "ability_notes": [],
+        "defender_hp": 162,
+        "type_eff": 1.0,
+        "min_dmg": 58,
+        "max_dmg": 69,
+        "min_pct": 35.8,
+        "max_pct": 42.6,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 58,
+          "max_dmg": 69,
+          "min_pct": 35.8,
+          "max_pct": 42.6,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 2,
+          "max_dmg": 3,
+          "min_pct": 1.2,
+          "max_pct": 1.9,
+          "ohko": false,
+          "applies": true
+        }
+      },
+      {
+        "defender": "Greninja",
+        "defender_types": [
+          "Agua",
+          "Siniestro"
+        ],
+        "defender_ability": "torrent",
+        "ability_notes": [],
+        "defender_hp": 179,
+        "type_eff": 0.5,
+        "min_dmg": 29,
+        "max_dmg": 34,
+        "min_pct": 16.2,
+        "max_pct": 19.0,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 29,
+          "max_dmg": 34,
+          "min_pct": 16.2,
+          "max_pct": 19.0,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 1,
+          "max_dmg": 1,
+          "min_pct": 0.6,
+          "max_pct": 0.6,
+          "ohko": false,
+          "applies": true
+        }
+      },
+      {
+        "defender": "Corviknight",
+        "defender_types": [
+          "Volador",
+          "Acero"
+        ],
+        "defender_ability": "pressure",
+        "ability_notes": [],
+        "defender_hp": 205,
+        "type_eff": 1.0,
+        "min_dmg": 2,
+        "max_dmg": 3,
+        "min_pct": 1.0,
+        "max_pct": 1.5,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 2,
+          "max_dmg": 3,
+          "min_pct": 1.0,
+          "max_pct": 1.5,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 2,
+          "max_dmg": 3,
+          "min_pct": 1.0,
+          "max_pct": 1.5,
+          "ohko": false,
+          "applies": true
+        }
+      },
+      {
+        "defender": "Blastoise",
+        "defender_types": [
+          "Agua"
+        ],
+        "defender_ability": "torrent",
+        "ability_notes": [],
+        "defender_hp": 186,
+        "type_eff": 0.5,
+        "min_dmg": 29,
+        "max_dmg": 34,
+        "min_pct": 15.6,
+        "max_pct": 18.3,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 29,
+          "max_dmg": 34,
+          "min_pct": 15.6,
+          "max_pct": 18.3,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 1,
+          "max_dmg": 1,
+          "min_pct": 0.5,
+          "max_pct": 0.5,
+          "ohko": false,
+          "applies": true
+        }
+      },
+      {
+        "defender": "Slowking",
+        "defender_types": [
+          "Agua",
+          "Psiquico"
+        ],
+        "defender_ability": "oblivious",
+        "ability_notes": [],
+        "defender_hp": 202,
+        "type_eff": 0.5,
+        "min_dmg": 29,
+        "max_dmg": 34,
+        "min_pct": 14.4,
+        "max_pct": 16.8,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 29,
+          "max_dmg": 34,
+          "min_pct": 14.4,
+          "max_pct": 16.8,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 1,
+          "max_dmg": 1,
+          "min_pct": 0.5,
+          "max_pct": 0.5,
+          "ohko": false,
+          "applies": true
+        }
+      },
+      {
+        "defender": "Dragonite",
+        "defender_types": [
+          "Dragon",
+          "Volador"
+        ],
+        "defender_ability": "inner-focus",
+        "ability_notes": [],
+        "defender_hp": 198,
+        "type_eff": 0.5,
+        "min_dmg": 29,
+        "max_dmg": 34,
+        "min_pct": 14.6,
+        "max_pct": 17.2,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 29,
+          "max_dmg": 34,
+          "min_pct": 14.6,
+          "max_pct": 17.2,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 1,
+          "max_dmg": 1,
+          "min_pct": 0.5,
+          "max_pct": 0.5,
+          "ohko": false,
+          "applies": true
+        }
+      },
+      {
+        "defender": "Delphox",
+        "defender_types": [
+          "Fuego",
+          "Psiquico"
+        ],
+        "defender_ability": "blaze",
+        "ability_notes": [],
+        "defender_hp": 182,
+        "type_eff": 2.0,
+        "min_dmg": 117,
+        "max_dmg": 138,
+        "min_pct": 64.3,
+        "max_pct": 75.8,
+        "ohko": false,
+        "two_hko": true,
+        "with_berry": {
+          "min_dmg": 58,
+          "max_dmg": 69,
+          "min_pct": 31.9,
+          "max_pct": 37.9,
+          "ohko": false,
+          "applies": true
+        },
+        "if_burned": {
+          "min_dmg": 5,
+          "max_dmg": 6,
+          "min_pct": 2.7,
+          "max_pct": 3.3,
+          "ohko": false,
+          "applies": true
+        }
+      },
+      {
+        "defender": "Whimsicott",
+        "defender_types": [
+          "Planta",
+          "Hada"
+        ],
+        "defender_ability": "prankster",
+        "ability_notes": [],
+        "defender_hp": 167,
+        "type_eff": 0.5,
+        "min_dmg": 29,
+        "max_dmg": 34,
+        "min_pct": 17.4,
+        "max_pct": 20.4,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 29,
+          "max_dmg": 34,
+          "min_pct": 17.4,
+          "max_pct": 20.4,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 1,
+          "max_dmg": 1,
+          "min_pct": 0.6,
+          "max_pct": 0.6,
+          "ohko": false,
+          "applies": true
+        }
+      },
+      {
+        "defender": "Garchomp",
+        "defender_types": [
+          "Dragon",
+          "Tierra"
+        ],
+        "defender_ability": "sand-veil",
+        "ability_notes": [],
+        "defender_hp": 215,
+        "type_eff": 1.0,
+        "min_dmg": 58,
+        "max_dmg": 69,
+        "min_pct": 27.0,
+        "max_pct": 32.1,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 58,
+          "max_dmg": 69,
+          "min_pct": 27.0,
+          "max_pct": 32.1,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 2,
+          "max_dmg": 3,
+          "min_pct": 0.9,
+          "max_pct": 1.4,
+          "ohko": false,
+          "applies": true
+        }
+      },
+      {
+        "defender": "Typhlosion de Hisui",
+        "defender_types": [
+          "Fuego",
+          "Fantasma"
+        ],
+        "defender_ability": "blaze",
+        "ability_notes": [],
+        "defender_hp": 180,
+        "type_eff": 2.0,
+        "min_dmg": 117,
+        "max_dmg": 138,
+        "min_pct": 65.0,
+        "max_pct": 76.7,
+        "ohko": false,
+        "two_hko": true,
+        "with_berry": {
+          "min_dmg": 58,
+          "max_dmg": 69,
+          "min_pct": 32.2,
+          "max_pct": 38.3,
+          "ohko": false,
+          "applies": true
+        },
+        "if_burned": {
+          "min_dmg": 5,
+          "max_dmg": 6,
+          "min_pct": 2.8,
+          "max_pct": 3.3,
+          "ohko": false,
+          "applies": true
+        }
+      }
+    ]
+  },
+  {
+    "attacker": "Dragonite",
+    "attacker_types": [
+      "Dragon",
+      "Volador"
+    ],
+    "attacker_stats": {
+      "hp": 166,
+      "attack": 204,
+      "defense": 115,
+      "spAttack": 108,
+      "spDefense": 122,
+      "speed": 132
+    },
+    "attacker_spread": "Physical (32 Atk / 32 Spe)",
+    "attacker_nature": "Firme",
+    "attacker_ability": "inner-focus",
+    "attacker_ability_es": "Foco Interno",
+    "attacker_ability_active": false,
+    "move": "Vasto Impacto",
+    "move_type": "Dragón",
+    "move_power": 60,
+    "move_category": "physical",
+    "stab": true,
+    "item": "type-booster (×1.2)",
+    "vs": [
+      {
+        "defender": "Emboar",
+        "defender_types": [
+          "Fuego",
+          "Lucha"
+        ],
+        "defender_ability": "blaze",
+        "ability_notes": [],
+        "defender_hp": 217,
+        "type_eff": 1.0,
+        "min_dmg": 82,
+        "max_dmg": 97,
+        "min_pct": 37.8,
+        "max_pct": 44.7,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 82,
+          "max_dmg": 97,
+          "min_pct": 37.8,
+          "max_pct": 44.7,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 42,
+          "max_dmg": 49,
+          "min_pct": 19.4,
+          "max_pct": 22.6,
+          "ohko": false,
+          "applies": true
+        }
+      },
+      {
+        "defender": "Incineroar",
+        "defender_types": [
+          "Fuego",
+          "Siniestro"
+        ],
+        "defender_ability": "blaze",
+        "ability_notes": [],
+        "defender_hp": 202,
+        "type_eff": 1.0,
+        "min_dmg": 42,
+        "max_dmg": 49,
+        "min_pct": 20.8,
+        "max_pct": 24.3,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 42,
+          "max_dmg": 49,
+          "min_pct": 20.8,
+          "max_pct": 24.3,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 2,
+          "max_dmg": 3,
+          "min_pct": 1.0,
+          "max_pct": 1.5,
+          "ohko": false,
+          "applies": true
+        }
+      },
+      {
+        "defender": "Espathra",
+        "defender_types": [
+          "Psiquico"
+        ],
+        "defender_ability": "opportunist",
+        "ability_notes": [],
+        "defender_hp": 202,
+        "type_eff": 1.0,
+        "min_dmg": 82,
+        "max_dmg": 97,
+        "min_pct": 40.6,
+        "max_pct": 48.0,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 82,
+          "max_dmg": 97,
+          "min_pct": 40.6,
+          "max_pct": 48.0,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 42,
+          "max_dmg": 49,
+          "min_pct": 20.8,
+          "max_pct": 24.3,
+          "ohko": false,
+          "applies": true
+        }
+      },
+      {
+        "defender": "Charizard",
+        "defender_types": [
+          "Fuego",
+          "Volador"
+        ],
+        "defender_ability": "blaze",
+        "ability_notes": [],
+        "defender_hp": 185,
+        "type_eff": 1.0,
+        "min_dmg": 42,
+        "max_dmg": 49,
+        "min_pct": 22.7,
+        "max_pct": 26.5,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 42,
+          "max_dmg": 49,
+          "min_pct": 22.7,
+          "max_pct": 26.5,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 2,
+          "max_dmg": 3,
+          "min_pct": 1.1,
+          "max_pct": 1.6,
+          "ohko": false,
+          "applies": true
+        }
+      },
+      {
+        "defender": "Gengar",
+        "defender_types": [
+          "Fantasma",
+          "Veneno"
+        ],
+        "defender_ability": "cursed-body",
+        "ability_notes": [],
+        "defender_hp": 167,
+        "type_eff": 1.0,
+        "min_dmg": 82,
+        "max_dmg": 97,
+        "min_pct": 49.1,
+        "max_pct": 58.1,
+        "ohko": false,
+        "two_hko": true,
+        "with_berry": {
+          "min_dmg": 82,
+          "max_dmg": 97,
+          "min_pct": 49.1,
+          "max_pct": 58.1,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 42,
+          "max_dmg": 49,
+          "min_pct": 25.1,
+          "max_pct": 29.3,
+          "ohko": false,
+          "applies": true
+        }
+      },
+      {
+        "defender": "Zoroark de Hisui",
+        "defender_types": [
+          "Normal",
+          "Fantasma"
+        ],
+        "defender_ability": "illusion",
+        "ability_notes": [],
+        "defender_hp": 162,
+        "type_eff": 1.0,
+        "min_dmg": 82,
+        "max_dmg": 97,
+        "min_pct": 50.6,
+        "max_pct": 59.9,
+        "ohko": false,
+        "two_hko": true,
+        "with_berry": {
+          "min_dmg": 82,
+          "max_dmg": 97,
+          "min_pct": 50.6,
+          "max_pct": 59.9,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 42,
+          "max_dmg": 49,
+          "min_pct": 25.9,
+          "max_pct": 30.2,
+          "ohko": false,
+          "applies": true
+        }
+      },
+      {
+        "defender": "Greninja",
+        "defender_types": [
+          "Agua",
+          "Siniestro"
+        ],
+        "defender_ability": "torrent",
+        "ability_notes": [],
+        "defender_hp": 179,
+        "type_eff": 1.0,
+        "min_dmg": 42,
+        "max_dmg": 49,
+        "min_pct": 23.5,
+        "max_pct": 27.4,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 42,
+          "max_dmg": 49,
+          "min_pct": 23.5,
+          "max_pct": 27.4,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 2,
+          "max_dmg": 3,
+          "min_pct": 1.1,
+          "max_pct": 1.7,
+          "ohko": false,
+          "applies": true
+        }
+      },
+      {
+        "defender": "Corviknight",
+        "defender_types": [
+          "Volador",
+          "Acero"
+        ],
+        "defender_ability": "pressure",
+        "ability_notes": [],
+        "defender_hp": 205,
+        "type_eff": 0.5,
+        "min_dmg": 21,
+        "max_dmg": 24,
+        "min_pct": 10.2,
+        "max_pct": 11.7,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 21,
+          "max_dmg": 24,
+          "min_pct": 10.2,
+          "max_pct": 11.7,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 1,
+          "max_dmg": 1,
+          "min_pct": 0.5,
+          "max_pct": 0.5,
+          "ohko": false,
+          "applies": true
+        }
+      },
+      {
+        "defender": "Blastoise",
+        "defender_types": [
+          "Agua"
+        ],
+        "defender_ability": "torrent",
+        "ability_notes": [],
+        "defender_hp": 186,
+        "type_eff": 1.0,
+        "min_dmg": 42,
+        "max_dmg": 49,
+        "min_pct": 22.6,
+        "max_pct": 26.3,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 42,
+          "max_dmg": 49,
+          "min_pct": 22.6,
+          "max_pct": 26.3,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 2,
+          "max_dmg": 3,
+          "min_pct": 1.1,
+          "max_pct": 1.6,
+          "ohko": false,
+          "applies": true
+        }
+      },
+      {
+        "defender": "Slowking",
+        "defender_types": [
+          "Agua",
+          "Psiquico"
+        ],
+        "defender_ability": "oblivious",
+        "ability_notes": [],
+        "defender_hp": 202,
+        "type_eff": 1.0,
+        "min_dmg": 42,
+        "max_dmg": 49,
+        "min_pct": 20.8,
+        "max_pct": 24.3,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 42,
+          "max_dmg": 49,
+          "min_pct": 20.8,
+          "max_pct": 24.3,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 2,
+          "max_dmg": 3,
+          "min_pct": 1.0,
+          "max_pct": 1.5,
+          "ohko": false,
+          "applies": true
+        }
+      },
+      {
+        "defender": "Dragonite",
+        "defender_types": [
+          "Dragon",
+          "Volador"
+        ],
+        "defender_ability": "inner-focus",
+        "ability_notes": [],
+        "defender_hp": 198,
+        "type_eff": 2.0,
+        "min_dmg": 84,
+        "max_dmg": 99,
+        "min_pct": 42.4,
+        "max_pct": 50.0,
+        "ohko": false,
+        "two_hko": true,
+        "with_berry": {
+          "min_dmg": 42,
+          "max_dmg": 49,
+          "min_pct": 21.2,
+          "max_pct": 24.7,
+          "ohko": false,
+          "applies": true
+        },
+        "if_burned": {
+          "min_dmg": 5,
+          "max_dmg": 6,
+          "min_pct": 2.5,
+          "max_pct": 3.0,
+          "ohko": false,
+          "applies": true
+        }
+      },
+      {
+        "defender": "Delphox",
+        "defender_types": [
+          "Fuego",
+          "Psiquico"
+        ],
+        "defender_ability": "blaze",
+        "ability_notes": [],
+        "defender_hp": 182,
+        "type_eff": 1.0,
+        "min_dmg": 42,
+        "max_dmg": 49,
+        "min_pct": 23.1,
+        "max_pct": 26.9,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 42,
+          "max_dmg": 49,
+          "min_pct": 23.1,
+          "max_pct": 26.9,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 2,
+          "max_dmg": 3,
+          "min_pct": 1.1,
+          "max_pct": 1.6,
+          "ohko": false,
+          "applies": true
+        }
+      },
+      {
+        "defender": "Whimsicott",
+        "defender_types": [
+          "Planta",
+          "Hada"
+        ],
+        "defender_ability": "prankster",
+        "ability_notes": [],
+        "defender_hp": 167,
+        "type_eff": 0.0,
+        "min_dmg": 0,
+        "max_dmg": 0,
+        "min_pct": 0.0,
+        "max_pct": 0.0,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 0,
+          "max_dmg": 0,
+          "min_pct": 0.0,
+          "max_pct": 0.0,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 0,
+          "max_dmg": 0,
+          "min_pct": 0.0,
+          "max_pct": 0.0,
+          "ohko": false,
+          "applies": true
+        }
+      },
+      {
+        "defender": "Garchomp",
+        "defender_types": [
+          "Dragon",
+          "Tierra"
+        ],
+        "defender_ability": "sand-veil",
+        "ability_notes": [],
+        "defender_hp": 215,
+        "type_eff": 2.0,
+        "min_dmg": 84,
+        "max_dmg": 99,
+        "min_pct": 39.1,
+        "max_pct": 46.0,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 42,
+          "max_dmg": 49,
+          "min_pct": 19.5,
+          "max_pct": 22.8,
+          "ohko": false,
+          "applies": true
+        },
+        "if_burned": {
+          "min_dmg": 5,
+          "max_dmg": 6,
+          "min_pct": 2.3,
+          "max_pct": 2.8,
+          "ohko": false,
+          "applies": true
+        }
+      },
+      {
+        "defender": "Typhlosion de Hisui",
+        "defender_types": [
+          "Fuego",
+          "Fantasma"
+        ],
+        "defender_ability": "blaze",
+        "ability_notes": [],
+        "defender_hp": 180,
+        "type_eff": 1.0,
+        "min_dmg": 42,
+        "max_dmg": 49,
+        "min_pct": 23.3,
+        "max_pct": 27.2,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 42,
+          "max_dmg": 49,
+          "min_pct": 23.3,
+          "max_pct": 27.2,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 2,
+          "max_dmg": 3,
+          "min_pct": 1.1,
+          "max_pct": 1.7,
+          "ohko": false,
+          "applies": true
+        }
+      }
+    ]
+  },
+  {
+    "attacker": "Delphox",
+    "attacker_types": [
+      "Fuego",
+      "Psiquico"
+    ],
+    "attacker_stats": {
+      "hp": 150,
+      "attack": 80,
+      "defense": 92,
+      "spAttack": 182,
+      "spDefense": 122,
+      "speed": 156
+    },
+    "attacker_spread": "Sweeper (32 SpA / 32 Spe)",
+    "attacker_nature": "Modesta",
+    "attacker_ability": "blaze",
+    "attacker_ability_es": "Mar Llamas",
+    "attacker_ability_active": true,
+    "move": "Psicorruido",
+    "move_type": "Psíquico",
+    "move_power": 75,
+    "move_category": "special",
+    "stab": true,
+    "item": "type-booster (×1.2)",
+    "vs": [
+      {
+        "defender": "Emboar",
+        "defender_types": [
+          "Fuego",
+          "Lucha"
+        ],
+        "defender_ability": "blaze",
+        "ability_notes": [],
+        "defender_hp": 217,
+        "type_eff": 2.0,
+        "min_dmg": 104,
+        "max_dmg": 123,
+        "min_pct": 47.9,
+        "max_pct": 56.7,
+        "ohko": false,
+        "two_hko": true,
+        "with_berry": {
+          "min_dmg": 52,
+          "max_dmg": 61,
+          "min_pct": 24.0,
+          "max_pct": 28.1,
+          "ohko": false,
+          "applies": true
+        },
+        "if_burned": {
+          "min_dmg": 104,
+          "max_dmg": 123,
+          "min_pct": 47.9,
+          "max_pct": 56.7,
+          "ohko": false,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Incineroar",
+        "defender_types": [
+          "Fuego",
+          "Siniestro"
+        ],
+        "defender_ability": "blaze",
+        "ability_notes": [],
+        "defender_hp": 202,
+        "type_eff": 0.0,
+        "min_dmg": 0,
+        "max_dmg": 0,
+        "min_pct": 0.0,
+        "max_pct": 0.0,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 0,
+          "max_dmg": 0,
+          "min_pct": 0.0,
+          "max_pct": 0.0,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 0,
+          "max_dmg": 0,
+          "min_pct": 0.0,
+          "max_pct": 0.0,
+          "ohko": false,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Espathra",
+        "defender_types": [
+          "Psiquico"
+        ],
+        "defender_ability": "opportunist",
+        "ability_notes": [],
+        "defender_hp": 202,
+        "type_eff": 0.5,
+        "min_dmg": 26,
+        "max_dmg": 30,
+        "min_pct": 12.9,
+        "max_pct": 14.9,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 26,
+          "max_dmg": 30,
+          "min_pct": 12.9,
+          "max_pct": 14.9,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 26,
+          "max_dmg": 30,
+          "min_pct": 12.9,
+          "max_pct": 14.9,
+          "ohko": false,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Charizard",
+        "defender_types": [
+          "Fuego",
+          "Volador"
+        ],
+        "defender_ability": "blaze",
+        "ability_notes": [],
+        "defender_hp": 185,
+        "type_eff": 1.0,
+        "min_dmg": 52,
+        "max_dmg": 61,
+        "min_pct": 28.1,
+        "max_pct": 33.0,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 52,
+          "max_dmg": 61,
+          "min_pct": 28.1,
+          "max_pct": 33.0,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 52,
+          "max_dmg": 61,
+          "min_pct": 28.1,
+          "max_pct": 33.0,
+          "ohko": false,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Gengar",
+        "defender_types": [
+          "Fantasma",
+          "Veneno"
+        ],
+        "defender_ability": "cursed-body",
+        "ability_notes": [],
+        "defender_hp": 167,
+        "type_eff": 2.0,
+        "min_dmg": 104,
+        "max_dmg": 123,
+        "min_pct": 62.3,
+        "max_pct": 73.7,
+        "ohko": false,
+        "two_hko": true,
+        "with_berry": {
+          "min_dmg": 52,
+          "max_dmg": 61,
+          "min_pct": 31.1,
+          "max_pct": 36.5,
+          "ohko": false,
+          "applies": true
+        },
+        "if_burned": {
+          "min_dmg": 104,
+          "max_dmg": 123,
+          "min_pct": 62.3,
+          "max_pct": 73.7,
+          "ohko": false,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Zoroark de Hisui",
+        "defender_types": [
+          "Normal",
+          "Fantasma"
+        ],
+        "defender_ability": "illusion",
+        "ability_notes": [],
+        "defender_hp": 162,
+        "type_eff": 1.0,
+        "min_dmg": 52,
+        "max_dmg": 61,
+        "min_pct": 32.1,
+        "max_pct": 37.7,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 52,
+          "max_dmg": 61,
+          "min_pct": 32.1,
+          "max_pct": 37.7,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 52,
+          "max_dmg": 61,
+          "min_pct": 32.1,
+          "max_pct": 37.7,
+          "ohko": false,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Greninja",
+        "defender_types": [
+          "Agua",
+          "Siniestro"
+        ],
+        "defender_ability": "torrent",
+        "ability_notes": [],
+        "defender_hp": 179,
+        "type_eff": 0.0,
+        "min_dmg": 0,
+        "max_dmg": 0,
+        "min_pct": 0.0,
+        "max_pct": 0.0,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 0,
+          "max_dmg": 0,
+          "min_pct": 0.0,
+          "max_pct": 0.0,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 0,
+          "max_dmg": 0,
+          "min_pct": 0.0,
+          "max_pct": 0.0,
+          "ohko": false,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Corviknight",
+        "defender_types": [
+          "Volador",
+          "Acero"
+        ],
+        "defender_ability": "pressure",
+        "ability_notes": [],
+        "defender_hp": 205,
+        "type_eff": 0.5,
+        "min_dmg": 26,
+        "max_dmg": 30,
+        "min_pct": 12.7,
+        "max_pct": 14.6,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 26,
+          "max_dmg": 30,
+          "min_pct": 12.7,
+          "max_pct": 14.6,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 26,
+          "max_dmg": 30,
+          "min_pct": 12.7,
+          "max_pct": 14.6,
+          "ohko": false,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Blastoise",
+        "defender_types": [
+          "Agua"
+        ],
+        "defender_ability": "torrent",
+        "ability_notes": [],
+        "defender_hp": 186,
+        "type_eff": 1.0,
+        "min_dmg": 52,
+        "max_dmg": 61,
+        "min_pct": 28.0,
+        "max_pct": 32.8,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 52,
+          "max_dmg": 61,
+          "min_pct": 28.0,
+          "max_pct": 32.8,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 52,
+          "max_dmg": 61,
+          "min_pct": 28.0,
+          "max_pct": 32.8,
+          "ohko": false,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Slowking",
+        "defender_types": [
+          "Agua",
+          "Psiquico"
+        ],
+        "defender_ability": "oblivious",
+        "ability_notes": [],
+        "defender_hp": 202,
+        "type_eff": 0.5,
+        "min_dmg": 26,
+        "max_dmg": 30,
+        "min_pct": 12.9,
+        "max_pct": 14.9,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 26,
+          "max_dmg": 30,
+          "min_pct": 12.9,
+          "max_pct": 14.9,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 26,
+          "max_dmg": 30,
+          "min_pct": 12.9,
+          "max_pct": 14.9,
+          "ohko": false,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Dragonite",
+        "defender_types": [
+          "Dragon",
+          "Volador"
+        ],
+        "defender_ability": "inner-focus",
+        "ability_notes": [],
+        "defender_hp": 198,
+        "type_eff": 1.0,
+        "min_dmg": 52,
+        "max_dmg": 61,
+        "min_pct": 26.3,
+        "max_pct": 30.8,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 52,
+          "max_dmg": 61,
+          "min_pct": 26.3,
+          "max_pct": 30.8,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 52,
+          "max_dmg": 61,
+          "min_pct": 26.3,
+          "max_pct": 30.8,
+          "ohko": false,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Delphox",
+        "defender_types": [
+          "Fuego",
+          "Psiquico"
+        ],
+        "defender_ability": "blaze",
+        "ability_notes": [],
+        "defender_hp": 182,
+        "type_eff": 0.5,
+        "min_dmg": 26,
+        "max_dmg": 30,
+        "min_pct": 14.3,
+        "max_pct": 16.5,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 26,
+          "max_dmg": 30,
+          "min_pct": 14.3,
+          "max_pct": 16.5,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 26,
+          "max_dmg": 30,
+          "min_pct": 14.3,
+          "max_pct": 16.5,
+          "ohko": false,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Whimsicott",
+        "defender_types": [
+          "Planta",
+          "Hada"
+        ],
+        "defender_ability": "prankster",
+        "ability_notes": [],
+        "defender_hp": 167,
+        "type_eff": 1.0,
+        "min_dmg": 52,
+        "max_dmg": 61,
+        "min_pct": 31.1,
+        "max_pct": 36.5,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 52,
+          "max_dmg": 61,
+          "min_pct": 31.1,
+          "max_pct": 36.5,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 52,
+          "max_dmg": 61,
+          "min_pct": 31.1,
+          "max_pct": 36.5,
+          "ohko": false,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Garchomp",
+        "defender_types": [
+          "Dragon",
+          "Tierra"
+        ],
+        "defender_ability": "sand-veil",
+        "ability_notes": [],
+        "defender_hp": 215,
+        "type_eff": 1.0,
+        "min_dmg": 52,
+        "max_dmg": 61,
+        "min_pct": 24.2,
+        "max_pct": 28.4,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 52,
+          "max_dmg": 61,
+          "min_pct": 24.2,
+          "max_pct": 28.4,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 52,
+          "max_dmg": 61,
+          "min_pct": 24.2,
+          "max_pct": 28.4,
+          "ohko": false,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Typhlosion de Hisui",
+        "defender_types": [
+          "Fuego",
+          "Fantasma"
+        ],
+        "defender_ability": "blaze",
+        "ability_notes": [],
+        "defender_hp": 180,
+        "type_eff": 1.0,
+        "min_dmg": 52,
+        "max_dmg": 61,
+        "min_pct": 28.9,
+        "max_pct": 33.9,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 52,
+          "max_dmg": 61,
+          "min_pct": 28.9,
+          "max_pct": 33.9,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 52,
+          "max_dmg": 61,
+          "min_pct": 28.9,
+          "max_pct": 33.9,
+          "ohko": false,
+          "applies": false
+        }
+      }
+    ]
+  },
+  {
+    "attacker": "Whimsicott",
+    "attacker_types": [
+      "Planta",
+      "Hada"
+    ],
+    "attacker_stats": {
+      "hp": 135,
+      "attack": 78,
+      "defense": 105,
+      "spAttack": 141,
+      "spDefense": 97,
+      "speed": 168
+    },
+    "attacker_spread": "Sweeper (32 SpA / 32 Spe)",
+    "attacker_nature": "Modesta",
+    "attacker_ability": "prankster",
+    "attacker_ability_es": "Bromista",
+    "attacker_ability_active": false,
+    "move": "Rayo Solar",
+    "move_type": "Planta",
+    "move_power": 120,
+    "move_category": "special",
+    "stab": true,
+    "item": "type-booster (×1.2)",
+    "vs": [
+      {
+        "defender": "Emboar",
+        "defender_types": [
+          "Fuego",
+          "Lucha"
+        ],
+        "defender_ability": "blaze",
+        "ability_notes": [],
+        "defender_hp": 217,
+        "type_eff": 0.5,
+        "min_dmg": 41,
+        "max_dmg": 48,
+        "min_pct": 18.9,
+        "max_pct": 22.1,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 41,
+          "max_dmg": 48,
+          "min_pct": 18.9,
+          "max_pct": 22.1,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 41,
+          "max_dmg": 48,
+          "min_pct": 18.9,
+          "max_pct": 22.1,
+          "ohko": false,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Incineroar",
+        "defender_types": [
+          "Fuego",
+          "Siniestro"
+        ],
+        "defender_ability": "blaze",
+        "ability_notes": [],
+        "defender_hp": 202,
+        "type_eff": 0.5,
+        "min_dmg": 41,
+        "max_dmg": 48,
+        "min_pct": 20.3,
+        "max_pct": 23.8,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 41,
+          "max_dmg": 48,
+          "min_pct": 20.3,
+          "max_pct": 23.8,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 41,
+          "max_dmg": 48,
+          "min_pct": 20.3,
+          "max_pct": 23.8,
+          "ohko": false,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Espathra",
+        "defender_types": [
+          "Psiquico"
+        ],
+        "defender_ability": "opportunist",
+        "ability_notes": [],
+        "defender_hp": 202,
+        "type_eff": 1.0,
+        "min_dmg": 82,
+        "max_dmg": 97,
+        "min_pct": 40.6,
+        "max_pct": 48.0,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 82,
+          "max_dmg": 97,
+          "min_pct": 40.6,
+          "max_pct": 48.0,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 82,
+          "max_dmg": 97,
+          "min_pct": 40.6,
+          "max_pct": 48.0,
+          "ohko": false,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Charizard",
+        "defender_types": [
+          "Fuego",
+          "Volador"
+        ],
+        "defender_ability": "blaze",
+        "ability_notes": [],
+        "defender_hp": 185,
+        "type_eff": 0.25,
+        "min_dmg": 20,
+        "max_dmg": 24,
+        "min_pct": 10.8,
+        "max_pct": 13.0,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 20,
+          "max_dmg": 24,
+          "min_pct": 10.8,
+          "max_pct": 13.0,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 20,
+          "max_dmg": 24,
+          "min_pct": 10.8,
+          "max_pct": 13.0,
+          "ohko": false,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Gengar",
+        "defender_types": [
+          "Fantasma",
+          "Veneno"
+        ],
+        "defender_ability": "cursed-body",
+        "ability_notes": [],
+        "defender_hp": 167,
+        "type_eff": 0.5,
+        "min_dmg": 41,
+        "max_dmg": 48,
+        "min_pct": 24.6,
+        "max_pct": 28.7,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 41,
+          "max_dmg": 48,
+          "min_pct": 24.6,
+          "max_pct": 28.7,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 41,
+          "max_dmg": 48,
+          "min_pct": 24.6,
+          "max_pct": 28.7,
+          "ohko": false,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Zoroark de Hisui",
+        "defender_types": [
+          "Normal",
+          "Fantasma"
+        ],
+        "defender_ability": "illusion",
+        "ability_notes": [],
+        "defender_hp": 162,
+        "type_eff": 1.0,
+        "min_dmg": 82,
+        "max_dmg": 97,
+        "min_pct": 50.6,
+        "max_pct": 59.9,
+        "ohko": false,
+        "two_hko": true,
+        "with_berry": {
+          "min_dmg": 82,
+          "max_dmg": 97,
+          "min_pct": 50.6,
+          "max_pct": 59.9,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 82,
+          "max_dmg": 97,
+          "min_pct": 50.6,
+          "max_pct": 59.9,
+          "ohko": false,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Greninja",
+        "defender_types": [
+          "Agua",
+          "Siniestro"
+        ],
+        "defender_ability": "torrent",
+        "ability_notes": [],
+        "defender_hp": 179,
+        "type_eff": 2.0,
+        "min_dmg": 165,
+        "max_dmg": 195,
+        "min_pct": 92.2,
+        "max_pct": 108.9,
+        "ohko": true,
+        "two_hko": true,
+        "with_berry": {
+          "min_dmg": 82,
+          "max_dmg": 97,
+          "min_pct": 45.8,
+          "max_pct": 54.2,
+          "ohko": false,
+          "applies": true
+        },
+        "if_burned": {
+          "min_dmg": 165,
+          "max_dmg": 195,
+          "min_pct": 92.2,
+          "max_pct": 108.9,
+          "ohko": true,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Corviknight",
+        "defender_types": [
+          "Volador",
+          "Acero"
+        ],
+        "defender_ability": "pressure",
+        "ability_notes": [],
+        "defender_hp": 205,
+        "type_eff": 0.25,
+        "min_dmg": 20,
+        "max_dmg": 24,
+        "min_pct": 9.8,
+        "max_pct": 11.7,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 20,
+          "max_dmg": 24,
+          "min_pct": 9.8,
+          "max_pct": 11.7,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 20,
+          "max_dmg": 24,
+          "min_pct": 9.8,
+          "max_pct": 11.7,
+          "ohko": false,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Blastoise",
+        "defender_types": [
+          "Agua"
+        ],
+        "defender_ability": "torrent",
+        "ability_notes": [],
+        "defender_hp": 186,
+        "type_eff": 2.0,
+        "min_dmg": 165,
+        "max_dmg": 195,
+        "min_pct": 88.7,
+        "max_pct": 104.8,
+        "ohko": true,
+        "two_hko": true,
+        "with_berry": {
+          "min_dmg": 82,
+          "max_dmg": 97,
+          "min_pct": 44.1,
+          "max_pct": 52.2,
+          "ohko": false,
+          "applies": true
+        },
+        "if_burned": {
+          "min_dmg": 165,
+          "max_dmg": 195,
+          "min_pct": 88.7,
+          "max_pct": 104.8,
+          "ohko": true,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Slowking",
+        "defender_types": [
+          "Agua",
+          "Psiquico"
+        ],
+        "defender_ability": "oblivious",
+        "ability_notes": [],
+        "defender_hp": 202,
+        "type_eff": 2.0,
+        "min_dmg": 5,
+        "max_dmg": 6,
+        "min_pct": 2.5,
+        "max_pct": 3.0,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 2,
+          "max_dmg": 3,
+          "min_pct": 1.0,
+          "max_pct": 1.5,
+          "ohko": false,
+          "applies": true
+        },
+        "if_burned": {
+          "min_dmg": 5,
+          "max_dmg": 6,
+          "min_pct": 2.5,
+          "max_pct": 3.0,
+          "ohko": false,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Dragonite",
+        "defender_types": [
+          "Dragon",
+          "Volador"
+        ],
+        "defender_ability": "inner-focus",
+        "ability_notes": [],
+        "defender_hp": 198,
+        "type_eff": 0.25,
+        "min_dmg": 20,
+        "max_dmg": 24,
+        "min_pct": 10.1,
+        "max_pct": 12.1,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 20,
+          "max_dmg": 24,
+          "min_pct": 10.1,
+          "max_pct": 12.1,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 20,
+          "max_dmg": 24,
+          "min_pct": 10.1,
+          "max_pct": 12.1,
+          "ohko": false,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Delphox",
+        "defender_types": [
+          "Fuego",
+          "Psiquico"
+        ],
+        "defender_ability": "blaze",
+        "ability_notes": [],
+        "defender_hp": 182,
+        "type_eff": 0.5,
+        "min_dmg": 41,
+        "max_dmg": 48,
+        "min_pct": 22.5,
+        "max_pct": 26.4,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 41,
+          "max_dmg": 48,
+          "min_pct": 22.5,
+          "max_pct": 26.4,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 41,
+          "max_dmg": 48,
+          "min_pct": 22.5,
+          "max_pct": 26.4,
+          "ohko": false,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Whimsicott",
+        "defender_types": [
+          "Planta",
+          "Hada"
+        ],
+        "defender_ability": "prankster",
+        "ability_notes": [],
+        "defender_hp": 167,
+        "type_eff": 0.5,
+        "min_dmg": 41,
+        "max_dmg": 48,
+        "min_pct": 24.6,
+        "max_pct": 28.7,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 41,
+          "max_dmg": 48,
+          "min_pct": 24.6,
+          "max_pct": 28.7,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 41,
+          "max_dmg": 48,
+          "min_pct": 24.6,
+          "max_pct": 28.7,
+          "ohko": false,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Garchomp",
+        "defender_types": [
+          "Dragon",
+          "Tierra"
+        ],
+        "defender_ability": "sand-veil",
+        "ability_notes": [],
+        "defender_hp": 215,
+        "type_eff": 1.0,
+        "min_dmg": 82,
+        "max_dmg": 97,
+        "min_pct": 38.1,
+        "max_pct": 45.1,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 82,
+          "max_dmg": 97,
+          "min_pct": 38.1,
+          "max_pct": 45.1,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 82,
+          "max_dmg": 97,
+          "min_pct": 38.1,
+          "max_pct": 45.1,
+          "ohko": false,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Typhlosion de Hisui",
+        "defender_types": [
+          "Fuego",
+          "Fantasma"
+        ],
+        "defender_ability": "blaze",
+        "ability_notes": [],
+        "defender_hp": 180,
+        "type_eff": 0.5,
+        "min_dmg": 41,
+        "max_dmg": 48,
+        "min_pct": 22.8,
+        "max_pct": 26.7,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 41,
+          "max_dmg": 48,
+          "min_pct": 22.8,
+          "max_pct": 26.7,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 41,
+          "max_dmg": 48,
+          "min_pct": 22.8,
+          "max_pct": 26.7,
+          "ohko": false,
+          "applies": false
+        }
+      }
+    ]
+  },
+  {
+    "attacker": "Garchomp",
+    "attacker_types": [
+      "Dragon",
+      "Tierra"
+    ],
+    "attacker_stats": {
+      "hp": 183,
+      "attack": 135,
+      "defense": 115,
+      "spAttack": 145,
+      "spDefense": 107,
+      "speed": 154
+    },
+    "attacker_spread": "Sweeper (32 SpA / 32 Spe)",
+    "attacker_nature": "Modesta",
+    "attacker_ability": "sand-veil",
+    "attacker_ability_es": "Velo Arena",
+    "attacker_ability_active": false,
+    "move": "Cometa Draco",
+    "move_type": "Dragón",
+    "move_power": 130,
+    "move_category": "special",
+    "stab": true,
+    "item": "type-booster (×1.2)",
+    "vs": [
+      {
+        "defender": "Emboar",
+        "defender_types": [
+          "Fuego",
+          "Lucha"
+        ],
+        "defender_ability": "blaze",
+        "ability_notes": [],
+        "defender_hp": 217,
+        "type_eff": 1.0,
+        "min_dmg": 89,
+        "max_dmg": 105,
+        "min_pct": 41.0,
+        "max_pct": 48.4,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 89,
+          "max_dmg": 105,
+          "min_pct": 41.0,
+          "max_pct": 48.4,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 89,
+          "max_dmg": 105,
+          "min_pct": 41.0,
+          "max_pct": 48.4,
+          "ohko": false,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Incineroar",
+        "defender_types": [
+          "Fuego",
+          "Siniestro"
+        ],
+        "defender_ability": "blaze",
+        "ability_notes": [],
+        "defender_hp": 202,
+        "type_eff": 1.0,
+        "min_dmg": 89,
+        "max_dmg": 105,
+        "min_pct": 44.1,
+        "max_pct": 52.0,
+        "ohko": false,
+        "two_hko": true,
+        "with_berry": {
+          "min_dmg": 89,
+          "max_dmg": 105,
+          "min_pct": 44.1,
+          "max_pct": 52.0,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 89,
+          "max_dmg": 105,
+          "min_pct": 44.1,
+          "max_pct": 52.0,
+          "ohko": false,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Espathra",
+        "defender_types": [
+          "Psiquico"
+        ],
+        "defender_ability": "opportunist",
+        "ability_notes": [],
+        "defender_hp": 202,
+        "type_eff": 1.0,
+        "min_dmg": 89,
+        "max_dmg": 105,
+        "min_pct": 44.1,
+        "max_pct": 52.0,
+        "ohko": false,
+        "two_hko": true,
+        "with_berry": {
+          "min_dmg": 89,
+          "max_dmg": 105,
+          "min_pct": 44.1,
+          "max_pct": 52.0,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 89,
+          "max_dmg": 105,
+          "min_pct": 44.1,
+          "max_pct": 52.0,
+          "ohko": false,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Charizard",
+        "defender_types": [
+          "Fuego",
+          "Volador"
+        ],
+        "defender_ability": "blaze",
+        "ability_notes": [],
+        "defender_hp": 185,
+        "type_eff": 1.0,
+        "min_dmg": 89,
+        "max_dmg": 105,
+        "min_pct": 48.1,
+        "max_pct": 56.8,
+        "ohko": false,
+        "two_hko": true,
+        "with_berry": {
+          "min_dmg": 89,
+          "max_dmg": 105,
+          "min_pct": 48.1,
+          "max_pct": 56.8,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 89,
+          "max_dmg": 105,
+          "min_pct": 48.1,
+          "max_pct": 56.8,
+          "ohko": false,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Gengar",
+        "defender_types": [
+          "Fantasma",
+          "Veneno"
+        ],
+        "defender_ability": "cursed-body",
+        "ability_notes": [],
+        "defender_hp": 167,
+        "type_eff": 1.0,
+        "min_dmg": 89,
+        "max_dmg": 105,
+        "min_pct": 53.3,
+        "max_pct": 62.9,
+        "ohko": false,
+        "two_hko": true,
+        "with_berry": {
+          "min_dmg": 89,
+          "max_dmg": 105,
+          "min_pct": 53.3,
+          "max_pct": 62.9,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 89,
+          "max_dmg": 105,
+          "min_pct": 53.3,
+          "max_pct": 62.9,
+          "ohko": false,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Zoroark de Hisui",
+        "defender_types": [
+          "Normal",
+          "Fantasma"
+        ],
+        "defender_ability": "illusion",
+        "ability_notes": [],
+        "defender_hp": 162,
+        "type_eff": 1.0,
+        "min_dmg": 89,
+        "max_dmg": 105,
+        "min_pct": 54.9,
+        "max_pct": 64.8,
+        "ohko": false,
+        "two_hko": true,
+        "with_berry": {
+          "min_dmg": 89,
+          "max_dmg": 105,
+          "min_pct": 54.9,
+          "max_pct": 64.8,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 89,
+          "max_dmg": 105,
+          "min_pct": 54.9,
+          "max_pct": 64.8,
+          "ohko": false,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Greninja",
+        "defender_types": [
+          "Agua",
+          "Siniestro"
+        ],
+        "defender_ability": "torrent",
+        "ability_notes": [],
+        "defender_hp": 179,
+        "type_eff": 1.0,
+        "min_dmg": 89,
+        "max_dmg": 105,
+        "min_pct": 49.7,
+        "max_pct": 58.7,
+        "ohko": false,
+        "two_hko": true,
+        "with_berry": {
+          "min_dmg": 89,
+          "max_dmg": 105,
+          "min_pct": 49.7,
+          "max_pct": 58.7,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 89,
+          "max_dmg": 105,
+          "min_pct": 49.7,
+          "max_pct": 58.7,
+          "ohko": false,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Corviknight",
+        "defender_types": [
+          "Volador",
+          "Acero"
+        ],
+        "defender_ability": "pressure",
+        "ability_notes": [],
+        "defender_hp": 205,
+        "type_eff": 0.5,
+        "min_dmg": 44,
+        "max_dmg": 52,
+        "min_pct": 21.5,
+        "max_pct": 25.4,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 44,
+          "max_dmg": 52,
+          "min_pct": 21.5,
+          "max_pct": 25.4,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 44,
+          "max_dmg": 52,
+          "min_pct": 21.5,
+          "max_pct": 25.4,
+          "ohko": false,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Blastoise",
+        "defender_types": [
+          "Agua"
+        ],
+        "defender_ability": "torrent",
+        "ability_notes": [],
+        "defender_hp": 186,
+        "type_eff": 1.0,
+        "min_dmg": 89,
+        "max_dmg": 105,
+        "min_pct": 47.8,
+        "max_pct": 56.5,
+        "ohko": false,
+        "two_hko": true,
+        "with_berry": {
+          "min_dmg": 89,
+          "max_dmg": 105,
+          "min_pct": 47.8,
+          "max_pct": 56.5,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 89,
+          "max_dmg": 105,
+          "min_pct": 47.8,
+          "max_pct": 56.5,
+          "ohko": false,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Slowking",
+        "defender_types": [
+          "Agua",
+          "Psiquico"
+        ],
+        "defender_ability": "oblivious",
+        "ability_notes": [],
+        "defender_hp": 202,
+        "type_eff": 1.0,
+        "min_dmg": 2,
+        "max_dmg": 3,
+        "min_pct": 1.0,
+        "max_pct": 1.5,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 2,
+          "max_dmg": 3,
+          "min_pct": 1.0,
+          "max_pct": 1.5,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 2,
+          "max_dmg": 3,
+          "min_pct": 1.0,
+          "max_pct": 1.5,
+          "ohko": false,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Dragonite",
+        "defender_types": [
+          "Dragon",
+          "Volador"
+        ],
+        "defender_ability": "inner-focus",
+        "ability_notes": [],
+        "defender_hp": 198,
+        "type_eff": 2.0,
+        "min_dmg": 178,
+        "max_dmg": 210,
+        "min_pct": 89.9,
+        "max_pct": 106.1,
+        "ohko": true,
+        "two_hko": true,
+        "with_berry": {
+          "min_dmg": 89,
+          "max_dmg": 105,
+          "min_pct": 44.9,
+          "max_pct": 53.0,
+          "ohko": false,
+          "applies": true
+        },
+        "if_burned": {
+          "min_dmg": 178,
+          "max_dmg": 210,
+          "min_pct": 89.9,
+          "max_pct": 106.1,
+          "ohko": true,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Delphox",
+        "defender_types": [
+          "Fuego",
+          "Psiquico"
+        ],
+        "defender_ability": "blaze",
+        "ability_notes": [],
+        "defender_hp": 182,
+        "type_eff": 1.0,
+        "min_dmg": 89,
+        "max_dmg": 105,
+        "min_pct": 48.9,
+        "max_pct": 57.7,
+        "ohko": false,
+        "two_hko": true,
+        "with_berry": {
+          "min_dmg": 89,
+          "max_dmg": 105,
+          "min_pct": 48.9,
+          "max_pct": 57.7,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 89,
+          "max_dmg": 105,
+          "min_pct": 48.9,
+          "max_pct": 57.7,
+          "ohko": false,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Whimsicott",
+        "defender_types": [
+          "Planta",
+          "Hada"
+        ],
+        "defender_ability": "prankster",
+        "ability_notes": [],
+        "defender_hp": 167,
+        "type_eff": 0.0,
+        "min_dmg": 0,
+        "max_dmg": 0,
+        "min_pct": 0.0,
+        "max_pct": 0.0,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 0,
+          "max_dmg": 0,
+          "min_pct": 0.0,
+          "max_pct": 0.0,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 0,
+          "max_dmg": 0,
+          "min_pct": 0.0,
+          "max_pct": 0.0,
+          "ohko": false,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Garchomp",
+        "defender_types": [
+          "Dragon",
+          "Tierra"
+        ],
+        "defender_ability": "sand-veil",
+        "ability_notes": [],
+        "defender_hp": 215,
+        "type_eff": 2.0,
+        "min_dmg": 178,
+        "max_dmg": 210,
+        "min_pct": 82.8,
+        "max_pct": 97.7,
+        "ohko": false,
+        "two_hko": true,
+        "with_berry": {
+          "min_dmg": 89,
+          "max_dmg": 105,
+          "min_pct": 41.4,
+          "max_pct": 48.8,
+          "ohko": false,
+          "applies": true
+        },
+        "if_burned": {
+          "min_dmg": 178,
+          "max_dmg": 210,
+          "min_pct": 82.8,
+          "max_pct": 97.7,
+          "ohko": false,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Typhlosion de Hisui",
+        "defender_types": [
+          "Fuego",
+          "Fantasma"
+        ],
+        "defender_ability": "blaze",
+        "ability_notes": [],
+        "defender_hp": 180,
+        "type_eff": 1.0,
+        "min_dmg": 89,
+        "max_dmg": 105,
+        "min_pct": 49.4,
+        "max_pct": 58.3,
+        "ohko": false,
+        "two_hko": true,
+        "with_berry": {
+          "min_dmg": 89,
+          "max_dmg": 105,
+          "min_pct": 49.4,
+          "max_pct": 58.3,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 89,
+          "max_dmg": 105,
+          "min_pct": 49.4,
+          "max_pct": 58.3,
+          "ohko": false,
+          "applies": false
+        }
+      }
+    ]
+  },
+  {
+    "attacker": "Typhlosion de Hisui",
+    "attacker_types": [
+      "Fuego",
+      "Fantasma"
+    ],
+    "attacker_stats": {
+      "hp": 148,
+      "attack": 93,
+      "defense": 98,
+      "spAttack": 188,
+      "spDefense": 107,
+      "speed": 147
+    },
+    "attacker_spread": "Sweeper (32 SpA / 32 Spe)",
+    "attacker_nature": "Modesta",
+    "attacker_ability": "blaze",
+    "attacker_ability_es": "Mar Llamas",
+    "attacker_ability_active": true,
+    "move": "Estallido",
+    "move_type": "Fuego",
+    "move_power": 150,
+    "move_category": "special",
+    "stab": true,
+    "item": "type-booster (×1.2)",
+    "vs": [
+      {
+        "defender": "Emboar",
+        "defender_types": [
+          "Fuego",
+          "Lucha"
+        ],
+        "defender_ability": "blaze",
+        "ability_notes": [
+          "blaze"
+        ],
+        "defender_hp": 217,
+        "type_eff": 0.5,
+        "min_dmg": 76,
+        "max_dmg": 90,
+        "min_pct": 35.0,
+        "max_pct": 41.5,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 76,
+          "max_dmg": 90,
+          "min_pct": 35.0,
+          "max_pct": 41.5,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 76,
+          "max_dmg": 90,
+          "min_pct": 35.0,
+          "max_pct": 41.5,
+          "ohko": false,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Incineroar",
+        "defender_types": [
+          "Fuego",
+          "Siniestro"
+        ],
+        "defender_ability": "blaze",
+        "ability_notes": [
+          "blaze"
+        ],
+        "defender_hp": 202,
+        "type_eff": 0.5,
+        "min_dmg": 76,
+        "max_dmg": 90,
+        "min_pct": 37.6,
+        "max_pct": 44.6,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 76,
+          "max_dmg": 90,
+          "min_pct": 37.6,
+          "max_pct": 44.6,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 76,
+          "max_dmg": 90,
+          "min_pct": 37.6,
+          "max_pct": 44.6,
+          "ohko": false,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Espathra",
+        "defender_types": [
+          "Psiquico"
+        ],
+        "defender_ability": "opportunist",
+        "ability_notes": [
+          "blaze"
+        ],
+        "defender_hp": 202,
+        "type_eff": 1.0,
+        "min_dmg": 153,
+        "max_dmg": 180,
+        "min_pct": 75.7,
+        "max_pct": 89.1,
+        "ohko": false,
+        "two_hko": true,
+        "with_berry": {
+          "min_dmg": 153,
+          "max_dmg": 180,
+          "min_pct": 75.7,
+          "max_pct": 89.1,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 153,
+          "max_dmg": 180,
+          "min_pct": 75.7,
+          "max_pct": 89.1,
+          "ohko": false,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Charizard",
+        "defender_types": [
+          "Fuego",
+          "Volador"
+        ],
+        "defender_ability": "blaze",
+        "ability_notes": [
+          "blaze"
+        ],
+        "defender_hp": 185,
+        "type_eff": 0.5,
+        "min_dmg": 76,
+        "max_dmg": 90,
+        "min_pct": 41.1,
+        "max_pct": 48.6,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 76,
+          "max_dmg": 90,
+          "min_pct": 41.1,
+          "max_pct": 48.6,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 76,
+          "max_dmg": 90,
+          "min_pct": 41.1,
+          "max_pct": 48.6,
+          "ohko": false,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Gengar",
+        "defender_types": [
+          "Fantasma",
+          "Veneno"
+        ],
+        "defender_ability": "cursed-body",
+        "ability_notes": [
+          "blaze"
+        ],
+        "defender_hp": 167,
+        "type_eff": 1.0,
+        "min_dmg": 153,
+        "max_dmg": 180,
+        "min_pct": 91.6,
+        "max_pct": 107.8,
+        "ohko": true,
+        "two_hko": true,
+        "with_berry": {
+          "min_dmg": 153,
+          "max_dmg": 180,
+          "min_pct": 91.6,
+          "max_pct": 107.8,
+          "ohko": true,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 153,
+          "max_dmg": 180,
+          "min_pct": 91.6,
+          "max_pct": 107.8,
+          "ohko": true,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Zoroark de Hisui",
+        "defender_types": [
+          "Normal",
+          "Fantasma"
+        ],
+        "defender_ability": "illusion",
+        "ability_notes": [
+          "blaze"
+        ],
+        "defender_hp": 162,
+        "type_eff": 1.0,
+        "min_dmg": 153,
+        "max_dmg": 180,
+        "min_pct": 94.4,
+        "max_pct": 111.1,
+        "ohko": true,
+        "two_hko": true,
+        "with_berry": {
+          "min_dmg": 153,
+          "max_dmg": 180,
+          "min_pct": 94.4,
+          "max_pct": 111.1,
+          "ohko": true,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 153,
+          "max_dmg": 180,
+          "min_pct": 94.4,
+          "max_pct": 111.1,
+          "ohko": true,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Greninja",
+        "defender_types": [
+          "Agua",
+          "Siniestro"
+        ],
+        "defender_ability": "torrent",
+        "ability_notes": [
+          "blaze"
+        ],
+        "defender_hp": 179,
+        "type_eff": 0.5,
+        "min_dmg": 76,
+        "max_dmg": 90,
+        "min_pct": 42.5,
+        "max_pct": 50.3,
+        "ohko": false,
+        "two_hko": true,
+        "with_berry": {
+          "min_dmg": 76,
+          "max_dmg": 90,
+          "min_pct": 42.5,
+          "max_pct": 50.3,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 76,
+          "max_dmg": 90,
+          "min_pct": 42.5,
+          "max_pct": 50.3,
+          "ohko": false,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Corviknight",
+        "defender_types": [
+          "Volador",
+          "Acero"
+        ],
+        "defender_ability": "pressure",
+        "ability_notes": [
+          "blaze"
+        ],
+        "defender_hp": 205,
+        "type_eff": 2.0,
+        "min_dmg": 306,
+        "max_dmg": 360,
+        "min_pct": 149.3,
+        "max_pct": 175.6,
+        "ohko": true,
+        "two_hko": true,
+        "with_berry": {
+          "min_dmg": 153,
+          "max_dmg": 180,
+          "min_pct": 74.6,
+          "max_pct": 87.8,
+          "ohko": false,
+          "applies": true
+        },
+        "if_burned": {
+          "min_dmg": 306,
+          "max_dmg": 360,
+          "min_pct": 149.3,
+          "max_pct": 175.6,
+          "ohko": true,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Blastoise",
+        "defender_types": [
+          "Agua"
+        ],
+        "defender_ability": "torrent",
+        "ability_notes": [
+          "blaze"
+        ],
+        "defender_hp": 186,
+        "type_eff": 0.5,
+        "min_dmg": 76,
+        "max_dmg": 90,
+        "min_pct": 40.9,
+        "max_pct": 48.4,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 76,
+          "max_dmg": 90,
+          "min_pct": 40.9,
+          "max_pct": 48.4,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 76,
+          "max_dmg": 90,
+          "min_pct": 40.9,
+          "max_pct": 48.4,
+          "ohko": false,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Slowking",
+        "defender_types": [
+          "Agua",
+          "Psiquico"
+        ],
+        "defender_ability": "oblivious",
+        "ability_notes": [
+          "blaze"
+        ],
+        "defender_hp": 202,
+        "type_eff": 0.5,
+        "min_dmg": 76,
+        "max_dmg": 90,
+        "min_pct": 37.6,
+        "max_pct": 44.6,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 76,
+          "max_dmg": 90,
+          "min_pct": 37.6,
+          "max_pct": 44.6,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 76,
+          "max_dmg": 90,
+          "min_pct": 37.6,
+          "max_pct": 44.6,
+          "ohko": false,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Dragonite",
+        "defender_types": [
+          "Dragon",
+          "Volador"
+        ],
+        "defender_ability": "inner-focus",
+        "ability_notes": [
+          "blaze"
+        ],
+        "defender_hp": 198,
+        "type_eff": 0.5,
+        "min_dmg": 76,
+        "max_dmg": 90,
+        "min_pct": 38.4,
+        "max_pct": 45.5,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 76,
+          "max_dmg": 90,
+          "min_pct": 38.4,
+          "max_pct": 45.5,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 76,
+          "max_dmg": 90,
+          "min_pct": 38.4,
+          "max_pct": 45.5,
+          "ohko": false,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Delphox",
+        "defender_types": [
+          "Fuego",
+          "Psiquico"
+        ],
+        "defender_ability": "blaze",
+        "ability_notes": [
+          "blaze"
+        ],
+        "defender_hp": 182,
+        "type_eff": 0.5,
+        "min_dmg": 76,
+        "max_dmg": 90,
+        "min_pct": 41.8,
+        "max_pct": 49.5,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 76,
+          "max_dmg": 90,
+          "min_pct": 41.8,
+          "max_pct": 49.5,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 76,
+          "max_dmg": 90,
+          "min_pct": 41.8,
+          "max_pct": 49.5,
+          "ohko": false,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Whimsicott",
+        "defender_types": [
+          "Planta",
+          "Hada"
+        ],
+        "defender_ability": "prankster",
+        "ability_notes": [
+          "blaze"
+        ],
+        "defender_hp": 167,
+        "type_eff": 2.0,
+        "min_dmg": 306,
+        "max_dmg": 360,
+        "min_pct": 183.2,
+        "max_pct": 215.6,
+        "ohko": true,
+        "two_hko": true,
+        "with_berry": {
+          "min_dmg": 153,
+          "max_dmg": 180,
+          "min_pct": 91.6,
+          "max_pct": 107.8,
+          "ohko": true,
+          "applies": true
+        },
+        "if_burned": {
+          "min_dmg": 306,
+          "max_dmg": 360,
+          "min_pct": 183.2,
+          "max_pct": 215.6,
+          "ohko": true,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Garchomp",
+        "defender_types": [
+          "Dragon",
+          "Tierra"
+        ],
+        "defender_ability": "sand-veil",
+        "ability_notes": [
+          "blaze"
+        ],
+        "defender_hp": 215,
+        "type_eff": 0.5,
+        "min_dmg": 76,
+        "max_dmg": 90,
+        "min_pct": 35.3,
+        "max_pct": 41.9,
+        "ohko": false,
+        "two_hko": false,
+        "with_berry": {
+          "min_dmg": 76,
+          "max_dmg": 90,
+          "min_pct": 35.3,
+          "max_pct": 41.9,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 76,
+          "max_dmg": 90,
+          "min_pct": 35.3,
+          "max_pct": 41.9,
+          "ohko": false,
+          "applies": false
+        }
+      },
+      {
+        "defender": "Typhlosion de Hisui",
+        "defender_types": [
+          "Fuego",
+          "Fantasma"
+        ],
+        "defender_ability": "blaze",
+        "ability_notes": [
+          "blaze"
+        ],
+        "defender_hp": 180,
+        "type_eff": 0.5,
+        "min_dmg": 76,
+        "max_dmg": 90,
+        "min_pct": 42.2,
+        "max_pct": 50.0,
+        "ohko": false,
+        "two_hko": true,
+        "with_berry": {
+          "min_dmg": 76,
+          "max_dmg": 90,
+          "min_pct": 42.2,
+          "max_pct": 50.0,
+          "ohko": false,
+          "applies": false
+        },
+        "if_burned": {
+          "min_dmg": 76,
+          "max_dmg": 90,
+          "min_pct": 42.2,
+          "max_pct": 50.0,
+          "ohko": false,
+          "applies": false
+        }
+      }
+    ]
+  }
+]

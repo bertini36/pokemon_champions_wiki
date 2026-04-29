@@ -1,0 +1,351 @@
+[
+  {
+    "filename": "arcanine-segundo-intimidate.md",
+    "title": "Arcanine — Segundo Intimidate",
+    "pokemon": "Arcanine",
+    "format": "VGC 2026",
+    "item": "Baya Zidra",
+    "nature": "Adamante",
+    "evs": "252 PS - 128 Atk - 128 Def.",
+    "ivs": "31 / 31 / 31 / 31 / 31 / 31",
+    "moves": [
+      "Veloc. Extrema",
+      "Onda Ignea",
+      "Triturar (Crunch)",
+      "Proteccion"
+    ],
+    "strategy": {
+      "ability_es": "Intimidacion",
+      "tips": [
+        "Segundo Intimidate del equipo. Cuando entra, el rival fisico pasa de -1 Atk a -2 Atk. Equipos fisicos rivales practicamente inutilizados.",
+        "Veloc. Extrema: prioridad +2. Remata sweepers rivales con poca vida sin importar la velocidad.",
+        "Onda Ignea es spread (dano a ambos rivales) potenciada por Sol. Chip damage constante.",
+        "EVs mixtos PS+Atk+Def para que aguante golpes fisicos mientras hace su trabajo de soporte.",
+        "Triturar cubre Psiquico y Fantasma, usados frecuentemente para contrarrestar al nucleo de Fuego."
+      ],
+      "raw": "HABILIDAD: Intimidacion\n\nTIPS:\n- Segundo Intimidate del equipo. Cuando entra, el rival fisico pasa de -1 Atk a -2 Atk. Equipos fisicos rivales practicamente inutilizados.\n- Veloc. Extrema: prioridad +2. Remata sweepers rivales con poca vida sin importar la velocidad.\n- Onda Ignea es spread (dano a ambos rivales) potenciada por Sol. Chip damage constante.\n- EVs mixtos PS+Atk+Def para que aguante golpes fisicos mientras hace su trabajo de soporte.\n- Triturar cubre Psiquico y Fantasma, usados frecuentemente para contrarrestar al nucleo de Fuego."
+    },
+    "teammates": "Incineroar (combo doble Intimidate), Mega Charizard Y (Onda Ignea spread bajo Sol)",
+    "warnings": []
+  },
+  {
+    "filename": "corviknight-pivot-defensivo.md",
+    "title": "Corviknight — Pivot Defensivo",
+    "pokemon": "Corviknight",
+    "format": "VGC 2026",
+    "item": "Restos",
+    "nature": "Basta",
+    "evs": "252 PS - 252 Def - 4 Def.Esp.",
+    "ivs": "31 / 31 / 31 / 31 / 31 / 31",
+    "moves": [
+      "Pajaro Osado (Brave Bird)",
+      "Cabeza de Hierro (Iron Head)",
+      "Viento Afin (Tailwind)",
+      "Defensa Ferrea (Iron Defense)"
+    ],
+    "strategy": {
+      "ability_es": "Coraza Reflejo (Mirror Armor)",
+      "tips": [
+        "Coraza Reflejo devuelve bajadas de stats al remitente. Si el rival usa Intimidacion, la recibe el de vuelta.",
+        "En el mirror de Incineroar (muy comun), el rival lanza Intimidacion y se la come el mismo.",
+        "Restos + Defensa Ferrea: Corviknight puede aguantar casi indefinidamente ataques fisicos.",
+        "Viento Afin de respaldo: si Whimsicott cae, Corviknight resetea el Tailwind.",
+        "NUNCA en campo cuando Garchomp vaya a usar Terremoto."
+      ],
+      "raw": "HABILIDAD: Coraza Reflejo (Mirror Armor)\n\nTIPS:\n- Coraza Reflejo devuelve bajadas de stats al remitente. Si el rival usa Intimidacion, la recibe el de vuelta.\n- En el mirror de Incineroar (muy comun), el rival lanza Intimidacion y se la come el mismo.\n- Restos + Defensa Ferrea: Corviknight puede aguantar casi indefinidamente ataques fisicos.\n- Viento Afin de respaldo: si Whimsicott cae, Corviknight resetea el Tailwind.\n- NUNCA en campo cuando Garchomp vaya a usar Terremoto."
+    },
+    "teammates": "Garchomp (sinergia defensiva: cubren Fuego/Electrico mutuamente), Incineroar",
+    "warnings": []
+  },
+  {
+    "filename": "dragonite-multiscala-fisico.md",
+    "title": "Dragonite — Multiscala Fisico",
+    "pokemon": "Dragonite",
+    "format": "VGC 2026",
+    "item": "Baya Rimoya",
+    "nature": "Adamante",
+    "evs": "4 PS - 252 Atk - 252 Vel.",
+    "ivs": "31 / 31 / 31 / 31 / 31 / 31",
+    "moves": [
+      "Veloc. Extrema",
+      "Garra Dragon",
+      "Puno Fuego",
+      "Proteccion"
+    ],
+    "strategy": {
+      "ability_es": "Multiscala (Multiscale)",
+      "tips": [
+        "Multiscala reduce a la mitad el dano del primer golpe con PS llenos. Muy dificil de OHKO al salir.",
+        "Baya Rimoya reduce dano de Hielo x0.5 una vez. Critico porque Hielo golpea x4 a Dragonite.",
+        "COMBO ESTRELLA: Incineroar (Refuerzo) + Dragonite (Veloc. Extrema prioridad +2) con +50% dano. Limpia sweepers fragiles aunque vayan primero.",
+        "Puno Fuego cubre Acero e Hielo, los dos tipos que mas complican al equipo.",
+        "Bajo Tailwind activo, Veloc. Extrema sigue siendo prioridad y resulta casi imparable."
+      ],
+      "raw": "HABILIDAD: Multiscala (Multiscale)\n\nTIPS:\n- Multiscala reduce a la mitad el dano del primer golpe con PS llenos. Muy dificil de OHKO al salir.\n- Baya Rimoya reduce dano de Hielo x0.5 una vez. Critico porque Hielo golpea x4 a Dragonite.\n- COMBO ESTRELLA: Incineroar (Refuerzo) + Dragonite (Veloc. Extrema prioridad +2) con +50% dano. Limpia sweepers fragiles aunque vayan primero.\n- Puno Fuego cubre Acero e Hielo, los dos tipos que mas complican al equipo.\n- Bajo Tailwind activo, Veloc. Extrema sigue siendo prioridad y resulta casi imparable."
+    },
+    "teammates": "Incineroar (Refuerzo + Veloc. Extrema es devastadora), Whimsicott",
+    "warnings": []
+  },
+  {
+    "filename": "garchomp-sol-cobertura-fisica.md",
+    "title": "Garchomp — Sol Cobertura Fisica",
+    "pokemon": "Garchomp",
+    "format": "VGC 2026",
+    "item": "Arena Fina",
+    "nature": "Jovial",
+    "evs": "4 PS - 252 Atk - 252 Vel.",
+    "ivs": "31 / 31 / 31 / 31 / 31 / 31",
+    "moves": [
+      "Terremoto",
+      "Roca Afilada",
+      "Garra Dragon",
+      "Proteccion"
+    ],
+    "strategy": {
+      "ability_es": "Piel Tosca",
+      "tips": [
+        "SINERGIA CLAVE: Charizard Y es tipo Volador = INMUNE a Terremoto. Lanzas Terremoto libremente con ambos en campo.",
+        "Cubre las debilidades del nucleo Sol: inmune a Electrico (amenaza para Charizard) y destruye tipos Roca con Terremoto (debilidad x4 de Charizard).",
+        "Arena Fina: +20% Tierra sobre Terremoto sin gastar objeto valioso.",
+        "Roca Afilada spread golpea a ambos rivales y cubre Volador/Bicho/Fuego.",
+        "Bajo Tailwind de Whimsicott, Garchomp supera en velocidad a casi cualquier rival del meta."
+      ],
+      "raw": "HABILIDAD: Piel Tosca\n\nTIPS:\n- SINERGIA CLAVE: Charizard Y es tipo Volador = INMUNE a Terremoto. Lanzas Terremoto libremente con ambos en campo.\n- Cubre las debilidades del nucleo Sol: inmune a Electrico (amenaza para Charizard) y destruye tipos Roca con Terremoto (debilidad x4 de Charizard).\n- Arena Fina: +20% Tierra sobre Terremoto sin gastar objeto valioso.\n- Roca Afilada spread golpea a ambos rivales y cubre Volador/Bicho/Fuego.\n- Bajo Tailwind de Whimsicott, Garchomp supera en velocidad a casi cualquier rival del meta."
+    },
+    "teammates": "Mega Charizard Y (INMUNE a Terremoto por tipo Volador, combo libre), Arcanine, Incineroar",
+    "warnings": []
+  },
+  {
+    "filename": "garchomp-spread-fisico-tailwind.md",
+    "title": "Garchomp — Spread Fisico (Tailwind)",
+    "pokemon": "Garchomp",
+    "format": "VGC 2026",
+    "item": "Arena Fina",
+    "nature": "Jovial",
+    "evs": "4 PS - 252 Atk - 252 Vel.",
+    "ivs": "31 / 31 / 31 / 31 / 31 / 31",
+    "moves": [
+      "Terremoto",
+      "Roca Afilada",
+      "Garra Dragon",
+      "Proteccion"
+    ],
+    "strategy": {
+      "ability_es": "Piel Tosca",
+      "tips": [
+        "Arena Fina: +20% a movimientos Tierra. Potencia Terremoto sin gastar objeto valioso.",
+        "Terremoto golpea a AMBOS rivales. NUNCA lanzar con Corviknight aliado en campo.",
+        "Roca Afilada tambien es spread y cubre el weakness x4 de Charizard a Roca.",
+        "Inmune a Electrico: protege al equipo de movimientos que amenazan a Corviknight y Charizard.",
+        "Bajo Tailwind, Garchomp supera en velocidad a practicamente todo el meta."
+      ],
+      "raw": "HABILIDAD: Piel Tosca\n\nTIPS:\n- Arena Fina: +20% a movimientos Tierra. Potencia Terremoto sin gastar objeto valioso.\n- Terremoto golpea a AMBOS rivales. NUNCA lanzar con Corviknight aliado en campo.\n- Roca Afilada tambien es spread y cubre el weakness x4 de Charizard a Roca.\n- Inmune a Electrico: protege al equipo de movimientos que amenazan a Corviknight y Charizard.\n- Bajo Tailwind, Garchomp supera en velocidad a practicamente todo el meta."
+    },
+    "teammates": "NUNCA junto a Corviknight al usar Terremoto. Ideal con Mega Greninja.",
+    "warnings": []
+  },
+  {
+    "filename": "incineroar-sol-soporte.md",
+    "title": "Incineroar — Sol Soporte",
+    "pokemon": "Incineroar",
+    "format": "VGC 2026",
+    "item": "Baya Zidra",
+    "nature": "Firme",
+    "evs": "252 PS - 4 Atk - 252 Def.Esp.",
+    "ivs": "31 / 31 / 31 / 31 / 31 / 31",
+    "moves": [
+      "Sorpresa (Fake Out)",
+      "Refuerzo (Helping Hand)",
+      "Envite Igneo (Flare Blitz)",
+      "Triturar (Crunch)"
+    ],
+    "strategy": {
+      "ability_es": "Intimidacion",
+      "tips": [
+        "Lead estandar Sol: Incineroar + Torkoal. T1 Fake Out al rival mas peligroso. T2 Refuerzo sobre Charizard Y.",
+        "Refuerzo + Llamarada de Charizard Y bajo Sol es el combo mas brutal del equipo.",
+        "Envite Igneo tambien se potencia por Sol: opcion de dano directo potente.",
+        "Doble Intimidacion con Arcanine: si ambos estan en el equipo, los equipos fisicos rivales quedan a -2 Atk."
+      ],
+      "raw": "HABILIDAD: Intimidacion\n\nTIPS:\n- Lead estandar Sol: Incineroar + Torkoal. T1 Fake Out al rival mas peligroso. T2 Refuerzo sobre Charizard Y.\n- Refuerzo + Llamarada de Charizard Y bajo Sol es el combo mas brutal del equipo.\n- Envite Igneo tambien se potencia por Sol: opcion de dano directo potente.\n- Doble Intimidacion con Arcanine: si ambos estan en el equipo, los equipos fisicos rivales quedan a -2 Atk."
+    },
+    "teammates": "Torkoal (lead estandar Sol), Mega Charizard Y (objetivo principal de Refuerzo)",
+    "warnings": []
+  },
+  {
+    "filename": "incineroar-tailwind-soporte.md",
+    "title": "Incineroar — Tailwind Soporte",
+    "pokemon": "Incineroar",
+    "format": "VGC 2026",
+    "item": "Baya Zidra",
+    "nature": "Firme",
+    "evs": "252 PS - 4 Atk - 252 Def.Esp.",
+    "ivs": "31 / 31 / 31 / 31 / 31 / 31",
+    "moves": [
+      "Sorpresa (Fake Out)",
+      "Refuerzo (Helping Hand)",
+      "Envite Igneo (Flare Blitz)",
+      "Triturar (Crunch)"
+    ],
+    "strategy": {
+      "ability_es": "Intimidacion",
+      "tips": [
+        "Lead con Whimsicott: turno 1 Sorpresa al rival mas peligroso (flinch garantizado). Whimsicott pone Tailwind con prioridad en el mismo turno.",
+        "Turno 2: Refuerzo sobre Dragonite para que Velocidad Extrema haga dano de OHKO.",
+        "Envite Igneo se potencia bajo Sol si compartes campo con Torkoal o Charizard Y.",
+        "Triturar elimina Pokemon Psiquico/Fantasma que intenten sacar ventaja.",
+        "Baya Zidra da margen extra de supervivencia cuando Intimidacion ya hizo su trabajo."
+      ],
+      "raw": "HABILIDAD: Intimidacion\n\nTIPS:\n- Lead con Whimsicott: turno 1 Sorpresa al rival mas peligroso (flinch garantizado). Whimsicott pone Tailwind con prioridad en el mismo turno.\n- Turno 2: Refuerzo sobre Dragonite para que Velocidad Extrema haga dano de OHKO.\n- Envite Igneo se potencia bajo Sol si compartes campo con Torkoal o Charizard Y.\n- Triturar elimina Pokemon Psiquico/Fantasma que intenten sacar ventaja.\n- Baya Zidra da margen extra de supervivencia cuando Intimidacion ya hizo su trabajo."
+    },
+    "teammates": "Whimsicott (lead fijo), Dragonite (target de Helping Hand), Garchomp",
+    "warnings": []
+  },
+  {
+    "filename": "mega-charizard-y-sol-sweeper.md",
+    "title": "Mega Charizard Y — Sol Sweeper",
+    "pokemon": "Charizard",
+    "format": "VGC 2026",
+    "item": "Charizardita Y",
+    "nature": "Modesta",
+    "evs": "4 PS - 252 Atk.Esp. - 252 Vel.",
+    "ivs": "31 / 0 / 31 / 31 / 31 / 31",
+    "moves": [
+      "Llamarada",
+      "Lanzallamas",
+      "Vendaval",
+      "Proteccion"
+    ],
+    "strategy": {
+      "ability_es": null,
+      "tips": [
+        "Llamarada bajo Sol: potencia 110 + STAB x1.5 + Sol x1.5 + SpAtk 159 = dano brutal. Con Refuerzo de Incineroar es practicamente irresistible.",
+        "Lanzallamas es la opcion segura (alta precision). Alternar con Llamarada segun situacion.",
+        "Vendaval spread Volador: dano a ambos rivales, cubre a los que resisten Fuego.",
+        "Tipo Volador = INMUNE a Terremoto de Garchomp aliado. Pueden estar juntos en campo libremente.",
+        "Doble Sequia con Torkoal: si el rival cambia el clima, cualquiera de los dos lo restaura al entrar.",
+        "Esta es la Mega del equipo Sol. El equipo Tailwind usa Greninjita."
+      ],
+      "raw": "HABILIDAD MEGA: Sequia (mantiene Sol si Torkoal cae)\nSTATS MEGA: Atk.Esp. 159 / Vel. 100\n\nTIPS:\n- Llamarada bajo Sol: potencia 110 + STAB x1.5 + Sol x1.5 + SpAtk 159 = dano brutal. Con Refuerzo de Incineroar es practicamente irresistible.\n- Lanzallamas es la opcion segura (alta precision). Alternar con Llamarada segun situacion.\n- Vendaval spread Volador: dano a ambos rivales, cubre a los que resisten Fuego.\n- Tipo Volador = INMUNE a Terremoto de Garchomp aliado. Pueden estar juntos en campo libremente.\n- Doble Sequia con Torkoal: si el rival cambia el clima, cualquiera de los dos lo restaura al entrar.\n- Esta es la Mega del equipo Sol. El equipo Tailwind usa Greninjita."
+    },
+    "teammates": "Torkoal (Sol garantizado), Incineroar (Refuerzo + Llamarada = letal), Garchomp (Terremoto libre)",
+    "warnings": []
+  },
+  {
+    "filename": "mega-gengar-limpiador-especial.md",
+    "title": "Mega Gengar — Limpiador Especial",
+    "pokemon": "Gengar",
+    "format": "VGC 2026",
+    "item": "Gengarita",
+    "nature": "Timida",
+    "evs": "4 PS - 252 Atk.Esp. - 252 Vel.",
+    "ivs": "31 / 0 / 31 / 31 / 31 / 31",
+    "moves": [
+      "Bola Sombra (Shadow Ball)",
+      "Onda Toxica",
+      "Psiquico",
+      "Proteccion"
+    ],
+    "strategy": {
+      "ability_es": null,
+      "tips": [
+        "SpAtk 170 es el mas alto del roster. Bola Sombra + STAB con esa base = dano demoledor.",
+        "Onda Toxica es STAB Veneno (95 pot, 100 prec) y cubre los tipos Hada y Planta que resisten Fantasma.",
+        "Psiquico cubre tipos Lucha, el counter natural de tanques resistentes a Veneno/Fantasma.",
+        "Trampa Sombra impide que el rival cambie de Pokemon mientras Gengar esta en campo.",
+        "Bajo Tailwind de Whimsicott: Vel 130 x2 = 260 efectivo. Absolutamente nada del meta lo supera.",
+        "MUY FRAGIL (PS 60, Def 60): debe entrar cuando el campo ya esta preparado (Tailwind activo, Intimidacion hecha), NUNCA en el lead."
+      ],
+      "raw": "HABILIDAD MEGA: Trampa Sombra (Shadow Tag)\nSTATS MEGA: Atk.Esp. 170 / Vel. 130\n\nTIPS:\n- SpAtk 170 es el mas alto del roster. Bola Sombra + STAB con esa base = dano demoledor.\n- Onda Toxica es STAB Veneno (95 pot, 100 prec) y cubre los tipos Hada y Planta que resisten Fantasma.\n- Psiquico cubre tipos Lucha, el counter natural de tanques resistentes a Veneno/Fantasma.\n- Trampa Sombra impide que el rival cambie de Pokemon mientras Gengar esta en campo.\n- Bajo Tailwind de Whimsicott: Vel 130 x2 = 260 efectivo. Absolutamente nada del meta lo supera.\n- MUY FRAGIL (PS 60, Def 60): debe entrar cuando el campo ya esta preparado (Tailwind activo, Intimidacion hecha), NUNCA en el lead."
+    },
+    "teammates": "Whimsicott (Tailwind lo hace imparable), Incineroar (Refuerzo), Dragonite (cubren tipos distintos)",
+    "warnings": []
+  },
+  {
+    "filename": "torkoal-sol-setter.md",
+    "title": "Torkoal — Sol Setter",
+    "pokemon": "Torkoal",
+    "format": "VGC 2026",
+    "item": "Hierba Mental",
+    "nature": "Placida",
+    "evs": "252 PS - 4 Atk.Esp. - 252 Def.Esp.",
+    "ivs": "31 / 0 / 31 / 31 / 31 / 0",
+    "moves": [
+      "Onda Ígnea (Heat Wave)",
+      "Onda Certera (Scorching Sands)",
+      "Proteccion",
+      "Toxico"
+    ],
+    "strategy": {
+      "ability_es": "Sequia (Drought)",
+      "tips": [
+        "Sequia activa Sol permanente al entrar, sin gastar turno. Razon principal de usar Torkoal.",
+        "0 IVs en Velocidad: Torkoal es deliberadamente lento. No importa en Sol, importa el bulk.",
+        "Hierba Mental protege de Taunt que intente bloquearte en el turno clave.",
+        "Onda Ígnea es spread (dano a ambos rivales) potenciada por Sol. Presion ofensiva desde el setter.",
+        "Lead estandar Sol: Incineroar + Torkoal. Fake Out cubre a Torkoal mientras activa el Sol.",
+        "Si Torkoal cae, Mega Charizard Y mantiene el Sol con su propia Sequia."
+      ],
+      "raw": "HABILIDAD: Sequia (Drought)\n\nTIPS:\n- Sequia activa Sol permanente al entrar, sin gastar turno. Razon principal de usar Torkoal.\n- 0 IVs en Velocidad: Torkoal es deliberadamente lento. No importa en Sol, importa el bulk.\n- Hierba Mental protege de Taunt que intente bloquearte en el turno clave.\n- Onda Ígnea es spread (dano a ambos rivales) potenciada por Sol. Presion ofensiva desde el setter.\n- Lead estandar Sol: Incineroar + Torkoal. Fake Out cubre a Torkoal mientras activa el Sol.\n- Si Torkoal cae, Mega Charizard Y mantiene el Sol con su propia Sequia."
+    },
+    "teammates": "Mega Charizard Y (combo central), Incineroar (Fake Out cubre a Torkoal en T1)",
+    "warnings": []
+  },
+  {
+    "filename": "whimsicott-sol-control.md",
+    "title": "Whimsicott — Sol Control",
+    "pokemon": "Whimsicott",
+    "format": "VGC 2026",
+    "item": "Hierba Mental",
+    "nature": "Timida",
+    "evs": "252 PS - 4 Atk.Esp. - 252 Vel.",
+    "ivs": "31 / 0 / 31 / 31 / 31 / 31",
+    "moves": [
+      "Viento Afin (Tailwind)",
+      "Otra Vez (Encore)",
+      "Fuerza Lunar (Moonblast)",
+      "Refuerzo (Helping Hand)"
+    ],
+    "strategy": {
+      "ability_es": "Bromista (Prankster)",
+      "tips": [
+        "En el equipo Sol, Tailwind no es tan prioritario como en el Tailwind puro, pero sigue siendo clave ante rivales que igualan velocidad.",
+        "Otra Vez en prioridad es el arma anti-Trick Room: bloquea al setter en Sala Trampa antes de que actue.",
+        "El Sol ya debilita a los Pokemon de Agua; Fuerza Lunar cubre Dragon y Siniestro.",
+        "Lead alternativo: Whimsicott + Charizard en lugar de Torkoal cuando el rival lleva counter de Sol claro."
+      ],
+      "raw": "HABILIDAD: Bromista (Prankster)\n\nTIPS:\n- En el equipo Sol, Tailwind no es tan prioritario como en el Tailwind puro, pero sigue siendo clave ante rivales que igualan velocidad.\n- Otra Vez en prioridad es el arma anti-Trick Room: bloquea al setter en Sala Trampa antes de que actue.\n- El Sol ya debilita a los Pokemon de Agua; Fuerza Lunar cubre Dragon y Siniestro.\n- Lead alternativo: Whimsicott + Charizard en lugar de Torkoal cuando el rival lleva counter de Sol claro."
+    },
+    "teammates": "Incineroar (soporte defensivo mutuo), Mega Charizard Y (se beneficia de Tailwind)",
+    "warnings": []
+  },
+  {
+    "filename": "whimsicott-tailwind-setter.md",
+    "title": "Whimsicott — Tailwind Setter",
+    "pokemon": "Whimsicott",
+    "format": "VGC 2026",
+    "item": "Hierba Mental",
+    "nature": "Timida",
+    "evs": "252 PS - 4 Atk.Esp. - 252 Vel.",
+    "ivs": "31 / 0 / 31 / 31 / 31 / 31",
+    "moves": [
+      "Viento Afin (Tailwind)",
+      "Fuerza Lunar (Moonblast)",
+      "Otra Vez (Encore)",
+      "Refuerzo (Helping Hand)"
+    ],
+    "strategy": {
+      "ability_es": "Bromista (Prankster)",
+      "tips": [
+        "Bromista da prioridad a movimientos de estado: Viento Afin y Otra Vez se ejecutan antes que cualquier ataque rival.",
+        "Hierba Mental anula Taunt una vez: el rival no puede impedirte poner Tailwind en T1.",
+        "Otra Vez en prioridad es tu herramienta anti-Trick Room: bloqueas al setter rival y lo invalidas.",
+        "0 IVs en Ataque: no usa movimientos fisicos.",
+        "Si Tailwind ya esta activo, usa Refuerzo para potenciar al sweeper activo."
+      ],
+      "raw": "HABILIDAD: Bromista (Prankster)\n\nTIPS:\n- Bromista da prioridad a movimientos de estado: Viento Afin y Otra Vez se ejecutan antes que cualquier ataque rival.\n- Hierba Mental anula Taunt una vez: el rival no puede impedirte poner Tailwind en T1.\n- Otra Vez en prioridad es tu herramienta anti-Trick Room: bloqueas al setter rival y lo invalidas.\n- 0 IVs en Ataque: no usa movimientos fisicos.\n- Si Tailwind ya esta activo, usa Refuerzo para potenciar al sweeper activo."
+    },
+    "teammates": "Incineroar (lead fijo), Garchomp, Mega Greninja",
+    "warnings": []
+  }
+]

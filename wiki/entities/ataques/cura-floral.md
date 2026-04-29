@@ -1,0 +1,37 @@
+---
+title: Cura Floral
+date: 2026-04-29
+type: entity
+tags: [ataque, hada, estado]
+slug: cura-floral
+---
+
+# Cura Floral
+
+## Datos
+
+| Propiedad | Valor |
+|---|---|
+| Tipo | [[Hada]] |
+| Categoría | Estado |
+| Potencia | - |
+| Precisión | - |
+| PP | 10 |
+| Slug | floral-healing |
+| Op.gg | [floral-healing](https://op.gg/es/pokemon-champions/moves/floral-healing) |
+
+## Efecto
+
+Restaura la mitad de los PS máximos del objetivo. Es más efectivo cuando se usa en conjunción con Campo de Hierba.
+
+## Pokémon que lo aprenden
+
+Total: 0
+
+## 🔗 Related
+
+- [[Hada]]
+- [[op-gg-moves]]
+- [[damage-matrix]]
+- [[formula-dano]]
+- [[coverage-matrix]]
