@@ -127,6 +127,61 @@ Si la consulta forma parte de construcción de equipo, ofrece continuaciones út
 - "¿Te calculo los PH mínimos para sobrevivir las top 3 amenazas del meta?"
 - "¿Te listo builds documentadas con sinergias específicas para doubles?"
 
+### Paso 7: Validación post-escritura (OBLIGATORIO si escribes equipo en `output/`)
+
+**Cada vez que generes o actualices un archivo de equipo en `output/`, antes de dar la respuesta como cerrada DEBES releer el documento entero y validar que todo es correcto.** No basta con generar y entregar: hay que verificar contra el wiki.
+
+Esta validación es obligatoria porque la generación inicial es propensa a errores (movimientos que no existen, descripciones que confunden movimientos similares, stats mal calculados, naturalezas incoherentes con el movepool, objetos inválidos, etc.). Las correcciones a posteriori erosionan la confianza del usuario.
+
+#### Checklist de validación
+
+Pasa cada miembro del equipo por estos checks:
+
+1. **Movimientos:** cada movimiento listado debe aparecer en el movepool del wiki del Pokémon (`wiki/entities/pokemon/<slug>.md`, sección `## Movimientos`). Si no aparece, o lo cambias por uno que sí está, o avisas explícitamente al usuario que el wiki no lo confirma.
+
+2. **Descripciones de movimientos:** cada descripción que escribes debe coincidir con el efecto real del movimiento (`wiki/entities/ataques/<slug>.md`, campo `## Efecto`). No confundir movimientos similares. Errores comunes:
+   - Desahogo (Lash Out) ≠ Trapicheo (Knock Off): el primero escala con stats bajadas, el segundo quita objetos.
+   - Cólera Ardiente (Temper Flare) **no tiene priority**: duplica daño si tu movimiento anterior falló.
+   - Sucesor / Golpe Bajo (Sucker Punch) NO está en muchos movepools del wiki, verificar siempre.
+
+3. **Habilidad:** la habilidad debe estar listada en `Habilidad 1`, `Habilidad 2` o `Habilidad Oculta` del Pokémon.
+
+4. **Objeto:** el objeto debe existir en `wiki/entities/objetos/`. Type boosters (Hechizo, Carbón, Cinturón Negro, Gafas de Sol, etc.) solo aprovechan si el Pokémon usa movimientos del tipo correspondiente. Megapiedras solo funcionan en su Pokémon específico.
+
+5. **Stats finales:** recalcular con la fórmula de `wiki/concepts/formula-stats.md`:
+   - HP = `floor((2*Base + 31 + floor(EV/4)) * 50 / 100) + 60`
+   - Resto = `floor((floor((2*Base + 31 + floor(EV/4)) * 50 / 100) + 5) * Nature)`
+   - Donde EV = `floor(PH * 7.875)`. PH 32 = EV 252 = floor 63.
+
+6. **Coherencia spread / naturaleza / movepool:** la naturaleza no debe penalizar la stat dominante de los movimientos elegidos.
+   - Si el movepool es 75% físico, NO uses naturaleza con -Atq (Audaz, Modesta, Tímida).
+   - Si el movepool es 75% especial, NO uses naturaleza con -AtqEsp (Firme, Adamant, Alegre).
+   - El reparto PH debe priorizar la stat ofensiva dominante. Spreads defensivos (HP+Def) solo tienen sentido si el rol es soporte/utility (Falso Tortazo, Trapicheo, Cambio de Banda, Pantalla Luz, etc.).
+
+7. **Disponibilidad:** todos los miembros deben aparecer en `wiki/entities/pokemon/<slug>.md`. Si alguno tiene `Disponible: No` o `Disponible: -`, o se justifica con un snapshot de meta reciente (`raw/meta/usage-YYYY-MM-DD.md`), o se marca explícitamente como riesgo en el documento.
+
+8. **Coherencia interna del documento:** referencias cruzadas (descripciones de objetos, secciones de combos, comparaciones, "por qué este equipo") deben reflejar el mismo set de movimientos / spread / naturaleza que la sección principal. Si cambias un movimiento, busca todas sus menciones en el doc y actualízalas.
+
+9. **Castellano:** todos los nombres de Pokémon, movimientos, habilidades, objetos y tipos en su forma castellana (España). Slugs en inglés solo en rutas de archivo. Si un movimiento aparece en inglés en el wiki (Tera Blast, Bitter Malice, Trailblaze, Snowscape) porque no fue traducido, mantén el nombre tal cual aparece in-game y avísalo.
+
+10. **Sin guion largo (—):** prohibido en respuestas. Usar coma, dos puntos, punto.
+
+#### Cómo ejecutar la validación
+
+Tras escribir o editar el archivo `output/<equipo>.md`:
+
+1. Lee el archivo completo con la herramienta `Read`.
+2. Para cada Pokémon, abre su `wiki/entities/pokemon/<slug>.md` y comprueba habilidad, movimientos y disponibilidad.
+3. Para cada movimiento listado, abre su `wiki/entities/ataques/<slug>.md` y compara la descripción que escribiste con el efecto real.
+4. Recalcula al menos las stats ofensivas dominantes y de Velocidad de cada miembro.
+5. Busca con `grep` o `Glob` las referencias cruzadas (`Sucesor`, `Audaz`, nombres de movimientos antiguos) para detectar restos de versiones previas.
+6. Si encuentras errores: corrige el archivo, anótalos en el resumen al usuario.
+7. Solo después da la respuesta como cerrada.
+
+#### Si hay errores que no puedes corregir solo
+
+Cuando el wiki no confirma un movimiento que sería ideal (ejemplo: Sucesor en Kingambit), no lo inventes. Documenta la limitación con una nota explícita en el documento del equipo y propón sustituto verificado.
+
 ## Datos disponibles
 
 ### Wiki (lectura primaria)

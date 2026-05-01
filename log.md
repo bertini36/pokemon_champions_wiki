@@ -78,3 +78,26 @@
   - raw/habilidades/ — gap detectado: 173 originales vs 307 op.gg. Generadas 136 stubs nuevos vía chrome-devtools harvest del DOM (articles + h3 + p). Total final 309 = 307 + 2 extras Notion (`opportunist`, `toxic-debris`). ✅ 100%
   - Caso especial: `as-one-glastrier` y `as-one-spectrier` colisionan en slug español "Unidad Ecuestre"; filenames diferenciados con sufijo glastrier/spectrier
 - raw/habilidades/_source.md actualizado con notas de cobertura y caso colisión
+
+## 2026-05-01 — INGEST + QUERY
+
+- INGEST: snapshot meta `raw/meta/usage-2026-04-30.md` (Reg M-A doubles, top 20). Fuentes: pikalytics + championslab + pokemon-zone (parcial).
+- INGEST: actualizado `wiki/concepts/meta-actual.md` con tier list real.
+- INGEST: creado `wiki/synthesis/counter-meta-2026-05-01.md` con counters por amenaza top 5.
+- QUERY: equipo VGC doubles sorpresa. Output: `output/equipo-doubles-sombras-de-hisui.md` (v2 revisada con meta).
+- HALLAZGO: campo `Disponible: Sí` en `wiki/entities/pokemon/*.md` está obsoleto (15 marcados, meta usa 207). Pendiente re-ejecutar `scripts/build_wiki_entities.py`.
+- HALLAZGO: Megapiedras existen como ítems comprables (Tienda 2000 VP) pero todas las Mega-formas marcan `Disponible: -`. Probable obsolescencia del wiki vs meta real (Mega Garchomp 55.2% WR en torneo).
+
+## 2026-05-01 — QUERY (revisión Mega)
+
+- Usuario confirma que Megapiedras están activas en el juego. El campo `Disponible: -` del wiki para Mega-formas está obsoleto.
+- QUERY: equipo v3 con Mega Garchomp + Tyranitar (sand archetype). Output actualizado en `output/equipo-doubles-sombras-de-hisui.md`.
+- Decisión Plan B (Mega Garchomp + Tyranitar) sobre Plan A (Mega Charizard Y) por WR proven 55.2%.
+- HALLAZGO: Sinistcha sale del equipo. Tyranitar entra como sand setter para activar Poder Arena de Mega Garchomp.
+
+## 2026-05-01 — QUERY (v4 final)
+
+- Reescrito equipo en v4: Mega Charizard Y + Sneasler + Z-Hisui Ilusión.
+- Drop sand archetype (Tyranitar + Mega Garchomp). Solución: sin self-chip, sin friendly fire de Terremoto, contra-lluvia con Sequía.
+- Output reescrito en castellano completo + explicación de cada objeto + chuleta paso a paso para novato.
+- Output: `output/equipo-doubles-sombras-de-hisui.md`.
