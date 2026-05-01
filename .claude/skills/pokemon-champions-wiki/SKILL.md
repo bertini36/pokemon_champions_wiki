@@ -146,7 +146,7 @@ Pasa cada miembro del equipo por estos checks:
 
 3. **Habilidad:** la habilidad debe estar listada en `Habilidad 1`, `Habilidad 2` o `Habilidad Oculta` del Pokémon.
 
-4. **Objeto:** el objeto debe existir en `wiki/entities/objetos/`. Type boosters (Hechizo, Carbón, Cinturón Negro, Gafas de Sol, etc.) solo aprovechan si el Pokémon usa movimientos del tipo correspondiente. Megapiedras solo funcionan en su Pokémon específico.
+4. **Objeto:** el objeto debe existir en `wiki/entities/objetos/`. Type boosters (Hechizo, Carbón, Cinturón Negro, Gafas de Sol, etc.) solo aprovechan si el Pokémon usa movimientos del tipo correspondiente. Megapiedras solo funcionan en su Pokémon específico. **CRÍTICO: en Pokémon Champions NO se pueden repetir objetos dentro de un mismo equipo.** Cada miembro debe llevar un objeto distinto. Si propones un equipo con dos Restos, dos Pañuelos Elegidos o cualquier objeto duplicado, es inválido. Verifica siempre que los 6 objetos sean diferentes.
 
 5. **Stats finales:** recalcular con la fórmula de `wiki/concepts/formula-stats.md`:
    - HP = `floor((2*Base + 31 + floor(EV/4)) * 50 / 100) + 60`
@@ -238,6 +238,8 @@ No leas `raw/pokemon/`, `raw/ataques/`, `raw/habilidades/` ni `raw/objetos/` par
 No recomiendes objetos que no existen en PC (Cinta Elegida, Orbe Vida, Gafas Elegidas, Cinturón Experto no están en el juego; ver `wiki/concepts/type-booster.md` y `wiki/synthesis/items-vs-meta-clasico.md` para el listado disponible).
 
 No uses mecánicas de Gen 1-9: en PC los PH reemplazan a los EVs (máximo 32 por stat, 66 en total). No apliques el reparto 252/252/4. Cita `wiki/concepts/ph-puntos-habilidad.md`.
+
+No repitas objetos dentro de un equipo: en Pokémon Champions cada miembro debe llevar un objeto distinto (regla del juego). Antes de cerrar cualquier equipo en `output/`, verifica que los 6 slots tienen 6 objetos diferentes.
 
 No derives daño manualmente cuando la matriz precomputada ya lo tiene calculado. Cita `wiki/concepts/damage-matrix.md` y baja a `raw/calculos/damage-matrix.md` solo si necesitas la celda exacta.
 
