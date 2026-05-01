@@ -139,10 +139,13 @@ Pasa cada miembro del equipo por estos checks:
 
 1. **Movimientos:** cada movimiento listado debe aparecer en el movepool del wiki del Pokémon (`wiki/entities/pokemon/<slug>.md`, sección `## Movimientos`). Si no aparece, o lo cambias por uno que sí está, o avisas explícitamente al usuario que el wiki no lo confirma.
 
-2. **Descripciones de movimientos:** cada descripción que escribes debe coincidir con el efecto real del movimiento (`wiki/entities/ataques/<slug>.md`, campo `## Efecto`). No confundir movimientos similares. Errores comunes:
-   - Desahogo (Lash Out) ≠ Trapicheo (Knock Off): el primero escala con stats bajadas, el segundo quita objetos.
-   - Cólera Ardiente (Temper Flare) **no tiene priority**: duplica daño si tu movimiento anterior falló.
-   - Sucesor / Golpe Bajo (Sucker Punch) NO está en muchos movepools del wiki, verificar siempre.
+2. **Descripciones de movimientos:** cada descripción que escribes debe coincidir con el efecto real del movimiento (`wiki/entities/ataques/<slug>.md`, campo `## Efecto`). **Verifica siempre el slug en inglés** (campo `Slug`) para confirmar qué movimiento es realmente, no el título en castellano. Errores comunes:
+   - **Falso Tortazo** (slug `false-swipe`) = False Swipe: deja al rival con 1 PS, **sin prioridad**. NO es Fake Out.
+   - **Sorpresa** (slug `fake-out`) = Fake Out: **prioridad alta + flinch + solo primer turno**. Es el movimiento priority de doubles.
+   - Desahogo (slug `lash-out`) ≠ Trapicheo (slug `knock-off`): el primero escala con stats bajadas, el segundo quita objetos.
+   - Cólera Ardiente (slug `temper-flare`) **no tiene priority**: duplica daño si tu movimiento anterior falló.
+   - Sucesor / Golpe Bajo (slug `sucker-punch`) NO está en muchos movepools del wiki, verificar siempre.
+   - Bitter Malice (slug `bitter-malice`) en castellano se llama **Rencor Reprimido**.
 
 3. **Habilidad:** la habilidad debe estar listada en `Habilidad 1`, `Habilidad 2` o `Habilidad Oculta` del Pokémon.
 
@@ -159,6 +162,8 @@ Pasa cada miembro del equipo por estos checks:
    - El reparto PH debe priorizar la stat ofensiva dominante. Spreads defensivos (HP+Def) solo tienen sentido si el rol es soporte/utility (Falso Tortazo, Trapicheo, Cambio de Banda, Pantalla Luz, etc.).
 
 7. **Disponibilidad:** todos los miembros deben aparecer en `wiki/entities/pokemon/<slug>.md`. Si alguno tiene `Disponible: No` o `Disponible: -`, o se justifica con un snapshot de meta reciente (`raw/meta/usage-YYYY-MM-DD.md`), o se marca explícitamente como riesgo en el documento.
+
+7b. **No repetir Pokémon en el equipo:** en Pokémon Champions cada miembro del equipo debe ser una **especie distinta** (regla del juego, equivalente a Species Clause). No pueden coexistir dos Garchomp, dos Charizard ni un Charizard regular + Mega Charizard. Mega-evoluciones cuentan como la misma especie que su forma base. Verifica los 6 slots tienen 6 especies diferentes.
 
 8. **Coherencia interna del documento:** referencias cruzadas (descripciones de objetos, secciones de combos, comparaciones, "por qué este equipo") deben reflejar el mismo set de movimientos / spread / naturaleza que la sección principal. Si cambias un movimiento, busca todas sus menciones en el doc y actualízalas.
 
@@ -240,6 +245,8 @@ No recomiendes objetos que no existen en PC (Cinta Elegida, Orbe Vida, Gafas Ele
 No uses mecánicas de Gen 1-9: en PC los PH reemplazan a los EVs (máximo 32 por stat, 66 en total). No apliques el reparto 252/252/4. Cita `wiki/concepts/ph-puntos-habilidad.md`.
 
 No repitas objetos dentro de un equipo: en Pokémon Champions cada miembro debe llevar un objeto distinto (regla del juego). Antes de cerrar cualquier equipo en `output/`, verifica que los 6 slots tienen 6 objetos diferentes.
+
+No repitas especies de Pokémon dentro de un equipo: en Pokémon Champions no se permite tener dos veces la misma especie (Species Clause). Mega-evoluciones cuentan como la misma especie que su forma base, así que tampoco vale Charizard regular + Mega Charizard. Antes de cerrar cualquier equipo en `output/`, verifica que los 6 slots tienen 6 especies distintas.
 
 No derives daño manualmente cuando la matriz precomputada ya lo tiene calculado. Cita `wiki/concepts/damage-matrix.md` y baja a `raw/calculos/damage-matrix.md` solo si necesitas la celda exacta.
 

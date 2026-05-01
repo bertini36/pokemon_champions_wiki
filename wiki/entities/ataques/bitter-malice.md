@@ -1,12 +1,13 @@
 ---
-title: Bitter Malice
+title: Rencor Reprimido
 date: 2026-04-29
 type: entity
 tags: [ataque, fantasma, especial]
 slug: bitter-malice
+aliases: [Bitter Malice]
 ---
 
-# Bitter Malice
+# Rencor Reprimido (Bitter Malice)
 
 ## Datos
 
